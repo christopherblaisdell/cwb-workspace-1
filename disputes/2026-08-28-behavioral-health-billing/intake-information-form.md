@@ -187,6 +187,73 @@ Please check anything that applies and add detail:
 
 ---
 
+## ⭐ SECTION 0.9 — Was I sick while I was there? (food poisoning vs. withdrawal)
+
+The refrigerator at the facility was broken. Food was rotting and the milk was
+consistently spoiled. **Their own daily log recorded the refrigerator at 67°F** — safe is
+41°F or below — and they did nothing about it. I complained, including in writing.
+
+I had **nausea and diarrhea** while I was there. I didn't report it to staff, because at
+the time I assumed it was withdrawal.
+
+**The problem:** nausea and diarrhea are also classic withdrawal symptoms, so the facility
+will say that's all it was. Anything you remember that helps separate the two matters.
+
+**Do you remember me mentioning feeling sick — on a phone call, a visit, or a text?**
+
+```
+
+
+```
+
+| Question | Your answer |
+|---|---|
+| Approximately when did I mention it? (date or week of my stay) | |
+| What did I say, as close to your memory as you can get? | |
+| Did I mention it more than once? | |
+| Did I say anything about the food, the milk, or the refrigerator? | |
+| Did I mention other residents being sick? | |
+| Did I sound unwell on calls? Weak, tired, dehydrated? | |
+| Did I mention not eating, or skipping meals? | |
+| Did I still seem sick after I came home? For how long? | |
+| Did I see a doctor after discharge for anything stomach-related? | |
+
+### ⏰ Please check your phone
+
+- [ ] **Search our texts** from that period for words like: sick, stomach, nausea,
+      throwing up, diarrhea, food, milk, gross, hungry, not eating
+- [ ] **Screenshot anything you find** — even one message is valuable
+- [ ] Check your call log for dates we spoke
+- [ ] Check voicemails, photos, or notes from that period
+
+> **Why this matters:** a text from you saying "hope your stomach settles" during my stay
+> is worth more than anything either of us writes today. It was written at the time,
+> before any of this was a dispute, with no reason to exaggerate. **Please don't delete
+> anything from that period, and don't let the phone roll over a backup.**
+
+---
+
+## SECTION 0.10 — One computer task, if you have 20 minutes
+
+The facility's website has some things on it that matter, and the testimonials only
+appear if you scroll — so a normal "save page" misses them.
+
+1. Go to `remedytherapybehavioralhealth.com`
+2. **Scroll slowly all the way to the bottom.** Wait for the patient reviews section to
+   appear, then scroll back through it so they all load.
+3. **⌘P → Save as PDF.** Save it as `remedy-homepage-rendered-YYYY-MM-DD.pdf`
+4. Take separate screenshots of two specific reviews:
+   - One from **"Michael P"** that says he *"was able to have MY OWN BIBLE STUDY GROUP"*
+   - One that says *"the food was top notch"*
+
+**Why:** they gave a Christian patient his own Bible study group and advertise it — while
+refusing me any secular alternative and excluding me from a group. And they advertise
+"delicious catered meals" and "cognitive-behavioral therapy," neither of which I got.
+
+If any of it disappears from their site later, these captures are the proof.
+
+---
+
 ## ★ SECTION 1 — My identifying information
 
 | Field | Value |
