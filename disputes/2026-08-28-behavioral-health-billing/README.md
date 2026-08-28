@@ -18,18 +18,31 @@ claim denial
 > ⚠️ **Also reported:** the facility **disclosed his medical records to the wrong
 > recipient**. As a substance use disorder provider they are subject to 42 C.F.R. Part 2,
 > which is stricter than HIPAA. See [14-hipaa-breach.md](14-hipaa-breach.md).
+>
+> 🚨 **AND:** the facility placed **cameras in every patient sleeping room** and displayed
+> the **live feeds on screens in public view**. This is potentially criminal under Fla.
+> Stat. § 810.145 (video voyeurism), is a facility-wide HIPAA/Part 2 disclosure affecting
+> every resident, and is civilly actionable as intrusion upon seclusion. **The physical
+> evidence may still be installed — file the licensure complaint NOW, not at Day 31.**
+> See [15-surveillance-cameras.md](15-surveillance-cameras.md).
 
 ## The pattern
 
-Three failures that a regulator will read as one systemic problem:
+Four failures that a regulator will read as one systemic problem:
 
 1. They **won't release his records** to him despite repeated written requests.
 2. They **released his records to someone else** who wasn't entitled to them.
 3. They **signed his name** to the paperwork governing both.
+4. They **broadcast live video of patient bedrooms into public view**.
 
-At a Joint Commission–accredited facility, that is a records-governance and
-patient-consent failure, not three unrelated clerical errors. Lead with this framing in
-the DCF, AHCA, and Joint Commission complaints.
+At a Joint Commission–accredited facility, this is not a series of clerical errors. It is
+a wholesale failure of patient privacy, consent, and records governance. Lead with this
+framing in the DCF, AHCA, and Joint Commission complaints.
+
+**This case is no longer about $4,000, and it is beyond what self-help correspondence
+should carry alone. Get a lawyer this week.** Items 3 and 4 affect every patient in that
+building, and FDUTPA fee-shifting plus class exposure means counsel is likely available
+at no cost to you.
 
 ---
 
@@ -76,29 +89,40 @@ evidence that the session billed as psychotherapy was not psychotherapy.
 5. Did you request a secular alternative — to whom, when, and what were you told?
 6. Facilitator's name and title.
 
-## ⏰ Do these now
+## ⏰ Do these now — revised order
 
-- [ ] **Archive the facility's website TODAY** via `web.archive.org/save` plus print to
-      PDF. Two items matter most: the paragraph advertising **cognitive-behavioral
-      therapy**, and the testimonial in which a Christian patient says he got **"MY OWN
-      BIBLE STUDY GROUP."** See [11](11-facility-profile-remedy-therapy.md). These can
-      disappear without warning.
+**The camera issue reorders everything. Physical evidence can be removed; documents
+cannot. File the licensure complaint before the escalation letters.**
+
+- [ ] **Write [10-incident-statement.md](10-incident-statement.md) today** — covering all
+      four issues: the group session, the forged paperwork, the misdirected records, and
+      the cameras. One signed, dated declaration.
+- [ ] **Send the preservation / litigation hold letter** in
+      [15](15-surveillance-cameras.md). Once they're on notice, deleting footage or
+      pulling equipment becomes spoliation.
+- [ ] **File the DCF / AHCA complaint NOW.** Request an unannounced inspection. If the
+      cameras and monitors are still installed, an inspector seeing them is worth more
+      than any document you could obtain.
+- [ ] **File the Joint Commission complaint.** `jointcommission.org`
+- [ ] **Call Disability Rights Florida — 1-800-342-0823.** Free, local, and patient
+      rights in behavioral health facilities is precisely their mandate.
+- [ ] **Call a Florida privacy / class action attorney this week.**
+- [ ] **Archive the facility's website** via `web.archive.org/save` plus print to PDF:
+      the **cognitive-behavioral therapy** claim, the **"MY OWN BIBLE STUDY GROUP"**
+      testimonial, and **any facility photo showing a camera or monitor**.
+- [ ] **Check public reviews** (Google, Yelp, Facebook) for other patients mentioning
+      cameras or screens. Screenshot with dates.
 - [ ] **Collect 10–15 authentic signature exemplars** from around the admission period.
-      Needed to show the intake signatures aren't yours. See [12](12-forged-signatures.md).
-- [ ] Write [10-incident-statement.md](10-incident-statement.md) while it's fresh.
-- [ ] Save any texts to/from your wife from the admission period.
-- [ ] Give her [intake-information-form.md](intake-information-form.md). **Out-of-pocket
-      maximum first** — it could zero the balance outright.
-- [ ] Send letter [#01](01-itemized-bill-and-records-request.md) unchanged to start the
-      30-day HIPAA clock. **Say nothing about the signatures.**
-- [ ] Call **Disability Rights Florida**, 1-800-342-0823. Free, local, fast.
+- [ ] Send letter [#01](01-itemized-bill-and-records-request.md) unchanged. **Say nothing
+      about the forged signatures.**
+- [ ] Pin down **the date you learned records went to the wrong place** — 180-day OCR clock.
+- [ ] Give your wife [intake-information-form.md](intake-information-form.md).
+      **Out-of-pocket maximum first.**
 - [ ] Look up the legal entity and registered agent on `search.sunbiz.org`.
 - [ ] Verify whether **Medicaid or Medicare** paid any portion.
-- [ ] ⏰ **Pin down the date you learned records were sent to the wrong place.** That
-      starts a **180-day** clock for the HHS OCR complaint. See
-      [14](14-hipaa-breach.md).
-- [ ] Preserve any proof of the misdirected disclosure, and note whether you ever
-      received a written breach notification.
+
+**Do NOT** return to the facility to photograph anything. Do not trespass. Regulators can
+gather that evidence lawfully; you cannot.
 
 ---
 
@@ -204,6 +228,7 @@ can — redundancy is the point. Each one independently proves receipt.
 | 12 | [12-forged-signatures.md](12-forged-signatures.md) | **Read now. Most serious issue in the case.** |
 | 13 | [13-satanic-temple-outreach.md](13-satanic-temple-outreach.md) | TST + advocacy org outreach |
 | 14 | [14-hipaa-breach.md](14-hipaa-breach.md) | **Read now.** Records disclosed to wrong recipient. |
+| 15 | [15-surveillance-cameras.md](15-surveillance-cameras.md) | **⭐ READ FIRST. Most serious issue. Time-critical.** |
 | — | [communication-log.md](communication-log.md) | Update after every contact |
 
 ---
