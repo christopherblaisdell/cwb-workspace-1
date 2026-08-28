@@ -2,11 +2,18 @@
 
 **Opened:** 2026-08-28
 **Patient:** [YOUR FULL LEGAL NAME]
-**Facility:** [FACILITY LEGAL NAME], [CITY, STATE]
+**Facility:** **Remedy Therapy Behavioral Health**, 6300 SE Federal Highway, Stuart, FL
+34997 (Martin County). Joint Commission accredited.
 **Amount in dispute:** $4,000.00 — confirmed as **patient copay** (cost-sharing), not a
 claim denial
 **Dates of service:** [ADMIT DATE] – [DISCHARGE DATE]
 **Status:** Phase 1 — records acquisition
+
+> ⚠️ **Escalated 2026-08-28.** Patient states he **never signed the intake paperwork —
+> staff signed his name.** If the financial responsibility agreement is forged, there is
+> no contract and the $4,000 may not be owed at all. See
+> [12-forged-signatures.md](12-forged-signatures.md). **Do not disclose this to the
+> facility before the documents are produced.**
 
 ---
 
@@ -55,15 +62,22 @@ evidence that the session billed as psychotherapy was not psychotherapy.
 
 ## ⏰ Do these now
 
-- [ ] Write [10-incident-statement.md](10-incident-statement.md) **today**, while it's
-      fresh. Contemporaneous statements carry weight; later ones don't.
-- [ ] Archive the facility's website via `web.archive.org` before it changes — FDUTPA
-      evidence.
+- [ ] **Archive the facility's website TODAY** via `web.archive.org/save` plus print to
+      PDF. Two items matter most: the paragraph advertising **cognitive-behavioral
+      therapy**, and the testimonial in which a Christian patient says he got **"MY OWN
+      BIBLE STUDY GROUP."** See [11](11-facility-profile-remedy-therapy.md). These can
+      disappear without warning.
+- [ ] **Collect 10–15 authentic signature exemplars** from around the admission period.
+      Needed to show the intake signatures aren't yours. See [12](12-forged-signatures.md).
+- [ ] Write [10-incident-statement.md](10-incident-statement.md) while it's fresh.
 - [ ] Save any texts to/from your wife from the admission period.
-- [ ] Give her [intake-information-form.md](intake-information-form.md). Have her check
-      the **out-of-pocket maximum first** — it could zero the balance outright.
-- [ ] Send letter [#01](01-itemized-bill-and-records-request.md) to start the 30-day
-      HIPAA clock.
+- [ ] Give her [intake-information-form.md](intake-information-form.md). **Out-of-pocket
+      maximum first** — it could zero the balance outright.
+- [ ] Send letter [#01](01-itemized-bill-and-records-request.md) unchanged to start the
+      30-day HIPAA clock. **Say nothing about the signatures.**
+- [ ] Call **Disability Rights Florida**, 1-800-342-0823. Free, local, fast.
+- [ ] Look up the legal entity and registered agent on `search.sunbiz.org`.
+- [ ] Verify whether **Medicaid or Medicare** paid any portion.
 
 ---
 
@@ -165,6 +179,9 @@ can — redundancy is the point. Each one independently proves receipt.
 | 08 | [08-religious-discrimination-and-secular-treatment.md](08-religious-discrimination-and-secular-treatment.md) | **Read now.** Core grounds, ranked. |
 | 09 | [09-florida-agencies-and-law.md](09-florida-agencies-and-law.md) | **Read now.** Florida statutes, agencies, deadlines. |
 | 10 | [10-incident-statement.md](10-incident-statement.md) | **Write today.** Declaration re: the group incident. |
+| 11 | [11-facility-profile-remedy-therapy.md](11-facility-profile-remedy-therapy.md) | **Read now.** Facility identified; website evidence. |
+| 12 | [12-forged-signatures.md](12-forged-signatures.md) | **Read now. Most serious issue in the case.** |
+| 13 | [13-satanic-temple-outreach.md](13-satanic-temple-outreach.md) | TST + advocacy org outreach |
 | — | [communication-log.md](communication-log.md) | Update after every contact |
 
 ---
