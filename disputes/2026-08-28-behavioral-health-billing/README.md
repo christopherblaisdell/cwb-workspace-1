@@ -14,6 +14,22 @@ claim denial
 > no contract and the $4,000 may not be owed at all. See
 > [12-forged-signatures.md](12-forged-signatures.md). **Do not disclose this to the
 > facility before the documents are produced.**
+>
+> ⚠️ **Also reported:** the facility **disclosed his medical records to the wrong
+> recipient**. As a substance use disorder provider they are subject to 42 C.F.R. Part 2,
+> which is stricter than HIPAA. See [14-hipaa-breach.md](14-hipaa-breach.md).
+
+## The pattern
+
+Three failures that a regulator will read as one systemic problem:
+
+1. They **won't release his records** to him despite repeated written requests.
+2. They **released his records to someone else** who wasn't entitled to them.
+3. They **signed his name** to the paperwork governing both.
+
+At a Joint Commission–accredited facility, that is a records-governance and
+patient-consent failure, not three unrelated clerical errors. Lead with this framing in
+the DCF, AHCA, and Joint Commission complaints.
 
 ---
 
@@ -78,6 +94,11 @@ evidence that the session billed as psychotherapy was not psychotherapy.
 - [ ] Call **Disability Rights Florida**, 1-800-342-0823. Free, local, fast.
 - [ ] Look up the legal entity and registered agent on `search.sunbiz.org`.
 - [ ] Verify whether **Medicaid or Medicare** paid any portion.
+- [ ] ⏰ **Pin down the date you learned records were sent to the wrong place.** That
+      starts a **180-day** clock for the HHS OCR complaint. See
+      [14](14-hipaa-breach.md).
+- [ ] Preserve any proof of the misdirected disclosure, and note whether you ever
+      received a written breach notification.
 
 ---
 
@@ -182,6 +203,7 @@ can — redundancy is the point. Each one independently proves receipt.
 | 11 | [11-facility-profile-remedy-therapy.md](11-facility-profile-remedy-therapy.md) | **Read now.** Facility identified; website evidence. |
 | 12 | [12-forged-signatures.md](12-forged-signatures.md) | **Read now. Most serious issue in the case.** |
 | 13 | [13-satanic-temple-outreach.md](13-satanic-temple-outreach.md) | TST + advocacy org outreach |
+| 14 | [14-hipaa-breach.md](14-hipaa-breach.md) | **Read now.** Records disclosed to wrong recipient. |
 | — | [communication-log.md](communication-log.md) | Update after every contact |
 
 ---

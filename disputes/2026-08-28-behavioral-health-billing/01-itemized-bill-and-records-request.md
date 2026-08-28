@@ -4,9 +4,15 @@
 > addresses) **+** fax to both departments **+** email to all known addresses **+**
 > patient portal message. Same day. See [00-send-checklist.md](00-send-checklist.md).
 >
-> **This is your first written contact.** It does three things at once: demands the
-> itemized bill, invokes the federal 30-day HIPAA records deadline, and formally
+> **This is your first written contact.** It does four things at once: demands the
+> itemized bill, invokes the federal 30-day HIPAA records deadline, demands an accounting
+> of disclosures plus every authorization form bearing your signature, and formally
 > disputes the balance so it is contested from day one.
+>
+> ⛔ **Send it exactly as written. Do NOT mention that the intake signatures are forged**
+> — see [12-forged-signatures.md](12-forged-signatures.md). The requests below are
+> neutral on their face and will produce the documents before they know why you want
+> them.
 >
 > **Attach:** copy of photo ID; copy of insurance card (front/back); copy of the bill.
 
@@ -141,6 +147,40 @@ limited to:
   m.  Copies of the facility's written policies on patient rights, religious
       accommodation and non-discrimination, treatment planning, and the patient
       grievance process, as in effect during my admission.
+
+---------------------------------------------------------------------------
+PART TWO-A — ACCOUNTING OF DISCLOSURES AND AUTHORIZATION FORMS
+---------------------------------------------------------------------------
+
+Separately from the request for access above, and pursuant to 45 C.F.R.
+§ 164.528, I request an ACCOUNTING OF DISCLOSURES of my protected health
+information. Please provide a written accounting of each disclosure made by
+your facility, including for each disclosure:
+
+  i.    the date of the disclosure;
+  ii.   the name and address of the entity or person who received the
+        information;
+  iii.  a brief description of the protected health information disclosed; and
+  iv.   a brief statement of the purpose of the disclosure, or a copy of the
+        written request or authorization relied upon.
+
+In addition, please provide:
+
+  v.    copies of every written authorization, consent to disclosure, or
+        release of information form bearing my name or signature that your
+        facility has relied upon to disclose any of my records to any party,
+        including the date each was purportedly executed and the identity of
+        any witness or staff member who signed it; and
+  vi.   copies of your facility's written policies and procedures governing
+        disclosure of patient records, including those adopted to comply with
+        42 C.F.R. Part 2.
+
+My records are records of a substance use disorder treatment program and are
+therefore subject to the confidentiality protections of 42 C.F.R. Part 2 in
+addition to the HIPAA Privacy Rule. Please note that 42 C.F.R. Part 2 governs
+disclosure of my records to third parties; it does not limit my own right of
+access to my records, and it may not be relied upon as a basis to delay or deny
+this request.
 
 I request these records in electronic form (searchable PDF) delivered to
 [YOUR EMAIL] or on encrypted media mailed to my address above, whichever your
