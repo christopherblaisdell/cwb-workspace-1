@@ -52,85 +52,116 @@ no consent document at all, or there is one bearing a signature you did not writ
 ## ⭐⭐⭐ Specifics of the monitor placement — this is the detail that wins
 
 **Confirmed:** the screen displaying the live feed from **every bedroom** is mounted
-**behind the counter of the nurses' station** — the location where **every patient picks
-up medication** — and is in **direct view of every patient**.
+**behind the counter of the nurses' station** — the window where **every patient collects
+medication**. The screen sits at roughly a **90° angle to the counter**, so it is not
+aimed at the patient queue — **but it remains in full view from the counter where patients
+stand.**
 
-That is not "a monitor in a hallway." It is far more damaging, for four reasons.
+> ✅ **Describe it exactly that way.** Do not say it "faces patients." If an inspector
+> arrives and finds a perpendicular monitor after you said it faced the queue, you have
+> handed them a reason to doubt everything else you've reported. The precise version is
+> both honest and, as set out below, legally sufficient.
 
-### 1. The exposure was universal, mandatory, and repeated
+That placement is far more damaging than a monitor in a back office, for four reasons.
 
-Medication pickup is not optional and it is not occasional. Every resident must present
-at that window, **multiple times a day, every day of their stay.**
+### 1. The legal test is visibility, not orientation
 
-So the facility didn't merely fail to secure the feeds. It **positioned them at the one
-location every patient is required to visit repeatedly**, guaranteeing that every resident
-viewed every other resident's bedroom, over and over, for the duration of their treatment.
+HIPAA does not ask whether a screen was pointed at anyone. It asks whether the facility
+applied **reasonable safeguards**.
 
-This is structural, not accidental. **Say exactly that.**
+The Privacy Rule tolerates genuinely **incidental** disclosures — but only where reasonable
+safeguards and the minimum-necessary standard have been applied (45 C.F.R.
+§ 164.502(a)(1)(iii)). *Verify.* An incidental disclosure is a snippet of conversation
+overheard in a corridor. It is not **continuous live video of every patient bedroom,
+plainly legible from the spot where every resident is required to stand several times a
+day.**
 
-### 2. It destroys the safety-monitoring defense completely
+The safeguards question answers itself here. Any of these would have solved it, and none
+was done:
 
-The only conceivable justification for bedroom cameras is clinical monitoring by staff.
+- A privacy filter on the screen
+- Rotating or recessing the monitor a few degrees
+- A partition or shield at the counter
+- Blanking the display during med pass
+- Not putting bedroom cameras in at all
 
-If that were the purpose, the screen would be angled toward staff, privacy-filtered, or
-placed out of patient sightlines. Standard practice at any nurses' station is to position
-displays so patients cannot read them — because everything at a nurses' station is
-confidential.
+**Nothing was done. That is the failure** — not the angle.
 
-**Placing it in direct patient view is a design choice.** They took the privacy and did
-not even take the elementary step of shielding the display.
+### 2. The exposure was universal, mandatory, and repeated
 
-### 3. The viewers were other patients — which is its own violation
+Medication pickup is not optional and not occasional. Every resident presents at that
+window **multiple times a day, every day of their stay.**
+
+So whatever the monitor's orientation, the facility positioned continuous bedroom video
+within plain sight of the one location every patient is compelled to visit repeatedly. The
+result is structural, not accidental: every resident could see every other resident's
+bedroom, over and over, for the length of their treatment.
+
+### 3. The viewers were other patients — its own violation
 
 Under **42 C.F.R. Part 2**, the mere fact that a person is a patient in a substance use
-disorder program is protected. Other patients are **not authorized recipients** of that
-information.
+disorder program is protected. Other patients are **not authorized recipients**.
 
-So every resident's status, and live images of them in their bedroom, were disclosed to a
-rotating population of other residents — repeatedly, by design.
-
-**Every patient is simultaneously a victim and a witness.** That is unusual and legally
-significant: it means the facts are identical across the entire resident population, which
-is exactly what makes a class action straightforward on commonality and typicality. It
-also means there are a great many witnesses.
+**Every resident is simultaneously a victim and a witness.** That is legally significant:
+the facts are identical across the whole resident population, which is what makes
+commonality and typicality straightforward for a class. It also means a large witness
+pool.
 
 *(Do not contact them. Regulators and counsel can.)*
 
-### 4. ⭐ It proves staff had the feed directly in front of them
+### 4. ⭐ It proves staff had the feed at their post
 
-The nurses' station is **where staff are stationed.** The monitor is at their post.
+A 90° orientation to the counter means the screen is angled **toward the staff work area**
+— which is the facility's own best argument that it was there for staff to watch.
 
-That closes the loop on [19-intoxicated-resident-assault.md](19-intoxicated-resident-assault.md).
-When an intoxicated resident assaulted a sleeping patient in a bedroom, the live feed from
-that bedroom was displaying on a screen at the staffed nurses' station.
+**Use that.** It concedes their point and turns it around: the display was positioned for
+staff viewing, at the staffed post, which forecloses any claim that staff couldn't
+reasonably have seen it.
 
-Staff either saw it and did nothing, or were not watching a screen positioned at their own
-work station. **There is no benign third option.**
+That closes the loop on
+[19-intoxicated-resident-assault.md](19-intoxicated-resident-assault.md): when an
+intoxicated resident assaulted a sleeping patient in a bedroom, that bedroom's live feed
+was displaying on a monitor oriented toward the staff position at the nurses' station.
 
-### ✅ And it is verifiable in thirty seconds
+Staff either saw it and did nothing, or were not watching a screen placed for them to
+watch. **There is no benign third option.**
 
-Like the missing handrail, this needs no credibility contest. **An inspector standing at
-the medication window either sees a monitor displaying patient bedrooms, or does not.**
+### ✅ And it is verifiable by inspection
 
-Put this sentence in the DCF, AHCA, and Joint Commission complaints:
+Like the missing handrail, this needs no credibility contest.
 
-> "This can be confirmed by any inspector who stands at the medication window during a
-> med pass. The monitor displaying live feeds from patient bedrooms is behind the nurses'
-> station counter, facing the patient queue."
+Put this in the DCF, AHCA, and Joint Commission complaints:
 
-That is an invitation to an unannounced inspection, and it is the kind of concrete,
-checkable allegation that gets one scheduled.
+> "This can be confirmed by any inspector who stands at the medication window during a med
+> pass. A monitor displaying live video from patient bedrooms is behind the nurses' station
+> counter. It is oriented at roughly 90 degrees to the counter, toward the staff work area,
+> but it is plainly visible from where patients stand to receive medication. No privacy
+> filter, partition, or shielding was in place."
 
-### Questions to pin down
+Concrete, checkable, and precisely worded. That is what gets an unannounced inspection
+scheduled.
 
-- Approximate size of the screen, and how many rooms displayed at once (grid/multiplex)?
-- Could you identify specific individuals on it? Could you recognize yourself?
-- How far were you standing from it during med pass?
-- Was it on continuously, or only at certain times?
-- Was there any privacy filter, angle, or partial shielding?
-- Did any patient or staff member ever comment on it?
-- Did you ever raise it with staff? Response?
-- Were there other monitors elsewhere?
+### ⭐ The question that matters most
+
+**Could you actually make out the images?**
+
+"Visible" and "legible" are different, and this is the point a defense lawyer will press.
+Be ready to answer specifically:
+
+- Could you recognize **people** on the screen, or only shapes and movement?
+- Could you tell **which room** you were looking at?
+- Could you **recognize yourself** if your room was displayed?
+- Could you tell whether someone was in bed, dressed, undressed, or moving?
+- Roughly how far were you from the screen at the med window? (feet)
+- Screen size, and how many rooms shown at once — grid or single view?
+- Was it on continuously?
+- Did any patient or staff member ever remark on it?
+- Did you ever raise it with staff? What was said?
+- Were there monitors anywhere else?
+
+If you could identify individuals and rooms from the counter, say so plainly. If you could
+only sometimes, say that instead. **The honest answer is stronger than the maximal one**,
+because it survives contact with an inspector.
 
 ---
 

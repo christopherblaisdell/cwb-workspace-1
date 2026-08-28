@@ -63,23 +63,26 @@ There is no third option, and **both are catastrophic for them.**
 ### ⭐ And we now know exactly where that monitor was
 
 The screen displaying the live bedroom feeds is **behind the counter of the nurses'
-station** — the staffed post, and the window where every patient collects medication. See
+station** — the staffed post, and the window where every patient collects medication. It
+sits at roughly a **90° angle to the counter, oriented toward the staff work area**, while
+remaining visible from where patients stand. See
 [15-surveillance-cameras.md](15-surveillance-cameras.md).
 
-That removes any argument that the feed was somewhere staff couldn't reasonably see it.
-**The live video from the bedroom where the assault occurred was displaying on a screen at
-the nurses' station, at the position staff occupy.**
+**The orientation is the point.** The display was positioned for staff to view, at the
+position staff occupy. That forecloses any argument that the feed was somewhere staff
+could not reasonably have seen it.
 
-An intoxicated resident who could barely stand also had to reach that bedroom — past that
-same staffed station.
+**The live video from the bedroom where the assault occurred was displaying on a monitor
+angled toward the staff work area at the nurses' station.** And an intoxicated resident
+who could barely stand had to reach that bedroom — past that same staffed station.
 
 This is the argument that ties your two strongest facts together:
 
-> "The facility surveilled patients in their bedrooms and displayed those feeds on a
-> monitor at the nurses' station, in direct view of every patient collecting medication.
-> It did not use that surveillance to prevent an intoxicated resident from assaulting a
-> sleeping patient. The cameras invaded the privacy of every resident while providing none
-> of the protection that is their only justification."
+> "The facility placed cameras in every patient bedroom and displayed the live feeds on a
+> monitor at the nurses' station, oriented toward staff and visible to every patient
+> collecting medication. It did not use that surveillance to prevent an intoxicated
+> resident from assaulting a sleeping patient. The cameras invaded the privacy of every
+> resident while delivering none of the protection that is their only justification."
 
 That sentence should appear in your Joint Commission, AHCA, and DCF complaints.
 
