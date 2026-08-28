@@ -19,6 +19,107 @@ with family. **That was wrong, and I've fixed it.**
 
 ---
 
+## ⭐⭐⭐ ANSWERED: staff sat four feet away during every call
+
+**Confirmed:** a staff member sits approximately **four feet away during all calls.**
+
+That single fact resolves the central legal question, and it is the strongest point in
+this file.
+
+### There was no private communication at all
+
+**Fla. Stat. § 394.459 protects the right to communicate *privately*.** *Verify the current
+subsection.* The protection is not "the right to make a phone call." It is the right to
+communicate **privately** with persons outside the facility.
+
+Four feet is conversational distance. It is not overhearing by accident — it is
+**supervision by design.** A staff member seated four feet away hears every word of both
+sides of a speakerphone-free call on the resident's end.
+
+So the accurate finding is:
+
+> **Residents could make calls. No resident could make a private call.**
+
+And note the scope again: **all calls.** Not calls by patients on suicide watch, not calls
+during a documented initial period, not calls flagged for clinical reasons. **Every call,
+every resident.** Blanket, once more — and therefore, once more, not individualized.
+
+### ⭐ This restores the "no avenue to report" argument — accurately
+
+I removed that framing when I learned the phone room existed. **Put it back, in this
+form:**
+
+> "Residents could telephone family, but a staff member was seated approximately four feet
+> away for the duration of every call. No resident could privately report a hazard, an
+> injury, an assault, or staff misconduct to anyone outside the facility."
+
+Think about what that meant in practice during your stay:
+
+| Event | Could a resident report it privately? |
+|---|---|
+| A sedated detox patient fell headfirst down a stairway, unconscious | **No** |
+| A resident sexually assaulted in his sleep | **No** |
+| A female patient assaulted in the common area | **No** |
+| Cameras displaying bedrooms at the med window | **No** |
+| Food from a refrigerator logged at 67°F | **No** |
+| A written complaint being ignored | **No** |
+
+You cannot describe staff misconduct to your family with a staff member four feet from
+your mouth. **The facility did not have to prohibit reporting. It only had to sit close
+enough.**
+
+That is a far better argument than the one I had before, because it's true and because it
+is specific.
+
+### ⭐ Calls to attorneys, regulators, and the abuse hotline
+
+This is the sharpest single point, and it's worth raising explicitly.
+
+Even where a facility may lawfully supervise general calls, patients are ordinarily
+entitled to **private, unmonitored** communication with:
+
+- an **attorney**
+- the **licensing agency** (DCF / AHCA)
+- the **Florida Abuse Hotline** (1-800-96-ABUSE)
+- **Disability Rights Florida** and other advocacy organizations
+- the **Joint Commission**
+
+*Verify the specific requirement for this license type — but the principle is standard, and
+licensed facilities are typically required to **post** these numbers and permit private
+access to them.*
+
+**If a staff member sat four feet away during every call, no resident could privately
+contact any of them.** A patient wanting to report an assault to the Abuse Hotline would
+have had to do it with a staff member listening.
+
+Ask in your complaints:
+
+> "Were residents permitted private, unmonitored telephone access to counsel, to the
+> licensing agency, and to the Florida Abuse Hotline? Were those numbers posted? A staff
+> member was seated approximately four feet away during every call I made."
+
+### ✅ Verifiable by inspection
+
+Like the handrail and the monitor, this needs no credibility contest. **An inspector can
+look at the phone room and see whether there is a staff chair or workstation four feet from
+the phone.** Ask them to.
+
+### Questions to pin down
+
+- Was the staff member seated there **the entire call**, or passing through?
+- Same position every time, or varied?
+- Was there a **designated chair, desk, or workstation** at that spot?
+- Did staff appear to be **listening**, or doing other work?
+- Were you ever **told** calls were monitored, or that you couldn't discuss certain things?
+- Did staff ever **intervene, comment on, or end** a call?
+- Were calls **recorded**?
+- Could you have called 911, a lawyer, or the Abuse Hotline?
+- Were emergency or advocacy numbers **posted** anywhere?
+- Did you **avoid saying things** on calls because of it? ⭐ **Say so plainly in your
+  statement — that is the chilling effect, in your own words.**
+
+---
+
 ## What remains a real problem
 
 Reframe from *"no communication"* to **"communication only on the facility's terms, through

@@ -128,8 +128,9 @@ wrongly said there was no family contact at all.
 - **Aunt Pam is a witness**, previously unknown. Need her contact details and what he told
   her. See the intake form, Section 0.9 Part C.
 - **His wife is a witness to the calls**, not only to the aftermath.
-- The open question is now whether those calls were **private** — Fla. Stat. § 394.459
-  protects private communication, and a supervised or overheard call isn't private.
+- ⭐ **Confirmed: a staff member sat approximately four feet away during every call.** No
+  call was private. See [20](20-communication-ban.md) — this is why the cameras, the fall,
+  and the assaults could not be reported to anyone outside the building.
 
 ### On audio — don't close this off yet
 

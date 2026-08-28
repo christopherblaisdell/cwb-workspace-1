@@ -241,17 +241,21 @@ matters — and so does anything odd about how the calls worked.
 | Did I call you, or could you call in to me? | |
 | Did calls ever get cut off, or seem time-limited? | |
 | **Could you hear other people or staff in the background?** | |
+| **Could you hear a staff member close to me — breathing, typing, talking, moving?** | |
 | **Did I seem guarded, careful, or like I couldn't speak freely?** | |
+| Did I ever lower my voice, change the subject, or say "I can't talk about that"? | |
 | Did I ever say someone was listening or nearby? | |
 | Did I sound different than usual — flat, anxious, unwell? | |
 | Did I ever say I couldn't call, or that I'd lost phone privileges? | |
 | Did you ever try to reach me and get turned away? What were you told? | |
 | Did you try to send mail? Was it delivered? | |
 
-> ⭐ **The "did he seem guarded" question is more important than it looks.** Florida law
-> protects the right to communicate *privately*. If I couldn't speak openly because staff
-> were within earshot, that's a violation — and you may have noticed it at the time without
-> either of us thinking about it.
+> ⭐ **This part matters more than it looks.** A staff member sat about **four feet away
+> from me during every single call.** Florida law protects the right to communicate
+> *privately* — so if I couldn't speak freely because someone was listening, that's a
+> violation. **You may have noticed it at the time without either of us thinking about
+> it.** Background sounds, me being careful, me not answering something directly. Anything
+> you remember helps.
 
 **⭐ What did I actually tell you on those calls?** Anything you remember, even in
 fragments — about the cameras, the food, the stairs, my roommates, the paperwork, feeling
@@ -309,6 +313,7 @@ I also spoke to **Aunt Pam** from that phone room. She's a witness too.
 | Phone number and email | |
 | Do you know roughly how often we spoke? | |
 | Has she mentioned anything I told her? | |
+| Did she ever say I sounded guarded or that someone seemed to be listening? | |
 | Would she be willing to write a short signed statement? | |
 
 ---
