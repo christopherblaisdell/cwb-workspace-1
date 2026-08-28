@@ -97,6 +97,12 @@ cannot. File the licensure complaint before the escalation letters.**
 - [ ] **Write [10-incident-statement.md](10-incident-statement.md) today** — covering all
       four issues: the group session, the forged paperwork, the misdirected records, and
       the cameras. One signed, dated declaration.
+- [ ] ⭐ **Answer the audio question.** Did the bedroom cameras capture audio? This is the
+      single biggest financial variable in the case — Fla. Stat. § 934.10 provides
+      liquidated statutory damages plus fees. See [16](16-recovery-and-hiring-counsel.md).
+- [ ] **Sign nothing from Remedy without counsel** — especially any write-off offered in
+      exchange for a release. That would trade away the privacy and forgery claims to
+      settle a bill that may not be owed at all.
 - [ ] **Send the preservation / litigation hold letter** in
       [15](15-surveillance-cameras.md). Once they're on notice, deleting footage or
       pulling equipment becomes spoliation.
@@ -236,6 +242,7 @@ can — redundancy is the point. Each one independently proves receipt.
 | 13 | [13-satanic-temple-outreach.md](13-satanic-temple-outreach.md) | TST + advocacy org outreach |
 | 14 | [14-hipaa-breach.md](14-hipaa-breach.md) | **Read now.** Records disclosed to wrong recipient. |
 | 15 | [15-surveillance-cameras.md](15-surveillance-cameras.md) | **⭐ READ FIRST. Most serious issue. Time-critical.** |
+| 16 | [16-recovery-and-hiring-counsel.md](16-recovery-and-hiring-counsel.md) | What can be recovered; how to hire counsel |
 | — | [communication-log.md](communication-log.md) | Update after every contact |
 
 ---
