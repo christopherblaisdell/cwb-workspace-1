@@ -91,25 +91,34 @@ evidence that the session billed as psychotherapy was not psychotherapy.
 
 ## ⏰ Do these now — revised order
 
-**The camera issue reorders everything. Physical evidence can be removed; documents
-cannot. File the licensure complaint before the escalation letters.**
+> 🚨 **Top priority is no longer the billing dispute.** Christopher witnessed a **detox
+> patient on Ativan fall headfirst down a stairway** the facility's own policy declares
+> off-limits to detox patients because it lacks a continuous handrail — placed there
+> because the facility was **over census**. The patient was unconscious and reportedly
+> flown to a trauma center. See [17-witnessed-patient-fall.md](17-witnessed-patient-fall.md).
+> **The fall may be on video, and retention cycles run 30–90 days.**
 
-- [ ] **Write [10-incident-statement.md](10-incident-statement.md) today** — covering all
-      four issues: the group session, the forged paperwork, the misdirected records, and
-      the cameras. One signed, dated declaration.
-- [ ] ⭐ **Answer the audio question.** Did the bedroom cameras capture audio? This is the
-      single biggest financial variable in the case — Fla. Stat. § 934.10 provides
-      liquidated statutory damages plus fees. See [16](16-recovery-and-hiring-counsel.md).
-- [ ] **Sign nothing from Remedy without counsel** — especially any write-off offered in
-      exchange for a release. That would trade away the privacy and forgery claims to
-      settle a bill that may not be owed at all.
-- [ ] **Send the preservation / litigation hold letter** in
-      [15](15-surveillance-cameras.md). Once they're on notice, deleting footage or
-      pulling equipment becomes spoliation.
-- [ ] **File the DCF / AHCA complaint NOW.** Request an unannounced inspection. If the
-      cameras and monitors are still installed, an inspector seeing them is worth more
-      than any document you could obtain.
-- [ ] **File the Joint Commission complaint.** `jointcommission.org`
+- [ ] **SEND THE PRESERVATION LETTER TODAY** ([15](15-surveillance-cameras.md)). It now
+      expressly covers stairway footage, incident reports, and handrail/inspection
+      records. Nothing else in this file is this time-sensitive.
+- [ ] **File the Joint Commission report** — the fall is a **sentinel event**. Highest-
+      value single filing available to you. `jointcommission.org`
+- [ ] **File AHCA and DCF complaints now.** Request an unannounced inspection. Ask
+      directly whether an **adverse incident report** was filed for the fall — if not,
+      that's an independent violation.
+- [ ] **Send the Chapter 119 public records requests** ([17](17-witnessed-patient-fall.md))
+      to Martin County Fire Rescue and 911 dispatch. Government-held corroboration that
+      does not depend on your credibility.
+- [ ] **Report the missing handrail** to the Martin County / City of Stuart Fire Marshal
+      and Building Department. Objectively verifiable — no credibility contest.
+- [ ] **Write [10-incident-statement.md](10-incident-statement.md)** — all five issues:
+      the fall, the cameras, the group session, the forged paperwork, the misdirected
+      records. Separate clearly what you **saw** from what you were **told**.
+- [ ] ⭐ **Answer the audio question.** Did the bedroom cameras capture audio? Single
+      biggest financial variable — Fla. Stat. § 934.10. See
+      [16](16-recovery-and-hiring-counsel.md).
+- [ ] **Sign nothing from Remedy without counsel** — especially a write-off in exchange
+      for a release.
 - [ ] **Call Disability Rights Florida — 1-800-342-0823.** Free, local, and patient
       rights in behavioral health facilities is precisely their mandate.
 - [ ] **Call a Florida privacy / class action attorney this week.**
@@ -243,6 +252,7 @@ can — redundancy is the point. Each one independently proves receipt.
 | 14 | [14-hipaa-breach.md](14-hipaa-breach.md) | **Read now.** Records disclosed to wrong recipient. |
 | 15 | [15-surveillance-cameras.md](15-surveillance-cameras.md) | **⭐ READ FIRST. Most serious issue. Time-critical.** |
 | 16 | [16-recovery-and-hiring-counsel.md](16-recovery-and-hiring-counsel.md) | What can be recovered; how to hire counsel |
+| 17 | [17-witnessed-patient-fall.md](17-witnessed-patient-fall.md) | **🚨 Witnessed sentinel event. Report immediately.** |
 | — | [communication-log.md](communication-log.md) | Update after every contact |
 
 ---

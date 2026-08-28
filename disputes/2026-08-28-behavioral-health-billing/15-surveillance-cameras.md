@@ -264,6 +264,24 @@ your facility during my dates of service, including but not limited to:
       patient sleeping rooms, and including all retention logs, access logs, and
       records of who viewed or had access to such recordings or feeds.
 
+  2a. Without limiting the foregoing, all video and audio recordings, metadata,
+      and access logs from any device covering the interior stairway, stairwell,
+      landings, and adjacent hallways, for the entirety of my dates of service,
+      and specifically including [DATE OF FALL] and the seven days before and
+      after that date.
+
+  2b. All incident reports, adverse incident reports, risk management reports,
+      emergency medical services call records, and internal correspondence
+      concerning any patient fall, injury, or emergency transport occurring
+      during my dates of service; and all facility policies concerning stairway
+      access, fall risk, patient supervision, and restrictions on detoxification
+      patients' movement within the facility.
+
+  2c. All records concerning the construction, inspection, maintenance, and
+      modification of the interior stairway, including any handrail installation
+      or repair, and all fire marshal or building code inspection records and
+      correspondence.
+
   3.  All records concerning the installation, configuration, placement,
       operation, retention settings, and viewing locations of any such
       monitoring system, including vendor contracts, invoices, work orders, and
