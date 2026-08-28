@@ -54,6 +54,42 @@ the facility does.)*
 - [ ] Yes → amount(s) and date(s): ______________________
       Method (check / card / autopay): ______________________
 
+**D2. ⭐ The monthly payments — please answer these carefully**
+
+We may stop paying while this is disputed, but I need to know what we're bound to first.
+
+| Question | Your answer |
+|---|---|
+| **Total paid so far** | $__________ |
+| Monthly amount | $__________ |
+| Date of first payment | |
+| How many payments made | |
+| Method — check, card, bank draft, autopay? | |
+| **Is it automatic/recurring, or do you send it each month?** | |
+| Which account or card is it drawn from? | |
+
+**⭐ The critical question — did you sign anything?**
+
+| Question | Yes / No / Not sure |
+|---|---|
+| Did **you** sign a payment plan or installment agreement? | |
+| Did **you** sign anything agreeing to be responsible for the bill? | |
+| Did you sign an autopay or card authorization? | |
+| Did you sign anything at the facility during admission or discharge? | |
+| Did you sign anything they emailed or mailed afterward? | |
+| Was your name listed as "guarantor" or "responsible party" on anything? | |
+
+> **Why this matters so much:** if you personally signed something agreeing to pay, you
+> may have an obligation of your own that is separate from mine — and stopping payments
+> could expose you rather than me. If you didn't sign anything, we're in a much stronger
+> position. **Please look for any paperwork, email, or portal confirmation** and send me a
+> copy of anything with a signature on it.
+
+- [ ] Please gather every receipt, bank statement line, or card statement showing these
+      payments
+- [ ] Please don't sign anything new from them — including a revised payment plan,
+      settlement, or hardship form — until we've talked to a lawyer
+
 **E. ⭐ Out-of-pocket maximum — possibly the single most valuable item on this form**
 
 Once the plan's annual out-of-pocket maximum is reached, cost-sharing drops to $0 for

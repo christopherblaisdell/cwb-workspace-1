@@ -257,6 +257,7 @@ can — redundancy is the point. Each one independently proves receipt.
 | 18 | [18-food-safety-refrigeration.md](18-food-safety-refrigeration.md) | **⭐ 67°F fridge log — their own written admission.** |
 | 19 | [19-intoxicated-resident-assault.md](19-intoxicated-resident-assault.md) | **🚨 Assault on a sleeping patient. Handle carefully.** |
 | 20 | [20-communication-ban.md](20-communication-ban.md) | **⭐ Devices confiscated — the frame for everything.** |
+| 21 | [21-payment-decision.md](21-payment-decision.md) | **⏰ Should the monthly payments stop?** |
 | — | [communication-log.md](communication-log.md) | Update after every contact |
 
 ---
