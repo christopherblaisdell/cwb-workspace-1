@@ -187,49 +187,84 @@ Please check anything that applies and add detail:
 
 ---
 
-## ⭐ SECTION 0.9 — Was I sick while I was there? (food poisoning vs. withdrawal)
+## ⭐ SECTION 0.9 — Being cut off, and whether I was sick
 
-The refrigerator at the facility was broken. Food was rotting and the milk was
-consistently spoiled. **Their own daily log recorded the refrigerator at 67°F** — safe is
-41°F or below — and they did nothing about it. I complained, including in writing.
+### Part A — They wouldn't let us contact each other
 
-I had **nausea and diarrhea** while I was there. I didn't report it to staff, because at
-the time I assumed it was withdrawal.
-
-**The problem:** nausea and diarrhea are also classic withdrawal symptoms, so the facility
-will say that's all it was. Anything you remember that helps separate the two matters.
-
-**Do you remember me mentioning feeling sick — on a phone call, a visit, or a text?**
-
-```
-
-
-```
+The facility did not allow residents to text or correspond with family. That's part of
+why this is all coming out only now — and **the ban itself may be a violation of Florida
+patient rights law.** Your side of it is evidence, because your phone records and mail
+exist outside their control.
 
 | Question | Your answer |
 |---|---|
-| Approximately when did I mention it? (date or week of my stay) | |
-| What did I say, as close to your memory as you can get? | |
-| Did I mention it more than once? | |
-| Did I say anything about the food, the milk, or the refrigerator? | |
+| Did you try to call, text, write, or email me during my stay? | |
+| Roughly when, and how many times? | |
+| What happened — no answer, blocked, refused, message not passed on? | |
+| Did you speak to any staff member about reaching me? Who, and when? | |
+| **What exactly were you told?** (as close to their words as you can) | |
+| Were you told about this policy before I was admitted? | |
+| Did anyone at admissions mention we wouldn't be able to communicate? | |
+| Did you send anything by mail? Was it returned or unanswered? | |
+| Did you get any updates about me at all during the stay? From whom? | |
+
+**Please check for records of your attempts** — these exist independently of the facility:
+
+- [ ] Call logs showing calls to the facility or to my phone
+- [ ] Screenshots of undelivered texts
+- [ ] Emails to the facility, and any replies
+- [ ] Returned mail (**keep the envelope**)
+- [ ] Notes or a calendar entry about a call with staff
+
+**What was it like for you, not being able to reach me?**
+
+```
+
+
+```
+
+### Part B — Was I sick? (food poisoning vs. withdrawal)
+
+The facility's refrigerator was broken. Food was rotting and the milk was consistently
+spoiled. **Their own daily log recorded the refrigerator at 67°F** — safe is 41°F or below
+— and they did nothing. I complained, including in writing.
+
+I had **nausea and diarrhea** while I was there. I didn't report it to staff; I assumed it
+was withdrawal. The facility will argue that's all it was, so anything that helps separate
+the two matters.
+
+Since we couldn't talk during the stay, what I'm really asking about is **right after I
+came home**:
+
+| Question | Your answer |
+|---|---|
+| **Our first real conversation after discharge** — what did I tell you about the place? | |
+| Did I say anything about being sick, the food, the milk, or the refrigerator? | |
+| Approximately when was that conversation? | |
+| Did I seem physically unwell when I came home? | |
+| Did I have stomach problems that continued after I got back? How long? | |
+| Had I lost weight? | |
+| Did I seem dehydrated, weak, or run down? | |
 | Did I mention other residents being sick? | |
-| Did I sound unwell on calls? Weak, tired, dehydrated? | |
-| Did I mention not eating, or skipping meals? | |
-| Did I still seem sick after I came home? For how long? | |
 | Did I see a doctor after discharge for anything stomach-related? | |
+| Did I mention the fall on the stairs, the cameras, or my roommates? | |
 
-### ⏰ Please check your phone
+**Anything else I told you in those first days that stuck with you:**
 
-- [ ] **Search our texts** from that period for words like: sick, stomach, nausea,
-      throwing up, diarrhea, food, milk, gross, hungry, not eating
-- [ ] **Screenshot anything you find** — even one message is valuable
-- [ ] Check your call log for dates we spoke
-- [ ] Check voicemails, photos, or notes from that period
+```
 
-> **Why this matters:** a text from you saying "hope your stomach settles" during my stay
-> is worth more than anything either of us writes today. It was written at the time,
-> before any of this was a dispute, with no reason to exaggerate. **Please don't delete
-> anything from that period, and don't let the phone roll over a backup.**
+
+```
+
+> **Why this matters:** what I said in the first days after discharge is the closest thing
+> to a contemporaneous account that exists, precisely because they wouldn't let us speak
+> while I was inside. If you wrote anything down, texted anyone about it, or mentioned it
+> to a friend or family member, that helps — please note who and roughly when.
+
+- [ ] Search your texts **from after my discharge** for: sick, stomach, rehab, Remedy,
+      cameras, stairs, milk, food
+- [ ] **Please don't delete anything** from that period, and don't let the phone roll over
+      an old backup
 
 ---
 

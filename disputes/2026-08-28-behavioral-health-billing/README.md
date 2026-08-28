@@ -255,6 +255,8 @@ can — redundancy is the point. Each one independently proves receipt.
 | 16 | [16-recovery-and-hiring-counsel.md](16-recovery-and-hiring-counsel.md) | What can be recovered; how to hire counsel |
 | 17 | [17-witnessed-patient-fall.md](17-witnessed-patient-fall.md) | **🚨 Witnessed sentinel event. Report immediately.** |
 | 18 | [18-food-safety-refrigeration.md](18-food-safety-refrigeration.md) | **⭐ 67°F fridge log — their own written admission.** |
+| 19 | [19-intoxicated-resident-assault.md](19-intoxicated-resident-assault.md) | **🚨 Assault on a sleeping patient. Handle carefully.** |
+| 20 | [20-communication-ban.md](20-communication-ban.md) | **⭐ Devices confiscated — the frame for everything.** |
 | — | [communication-log.md](communication-log.md) | Update after every contact |
 
 ---

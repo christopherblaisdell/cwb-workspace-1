@@ -152,6 +152,15 @@ limited to:
       and notes provided to staff; the facility's grievance log entries
       concerning me; and all records of any response, investigation, or
       corrective action taken.
+  o.  All documentation of any restriction placed on my communication with
+      persons outside the facility, and of any confiscation or securing of my
+      personal property including any communication device, together with the
+      individualized clinical justification entered in my record for each such
+      restriction, the date it was imposed, and the criteria for its removal.
+  p.  Copies of the facility's written policies, resident handbook, and admission
+      materials concerning personal property, communication devices, telephone
+      access, mail and correspondence, and visitation, as in effect during my
+      admission.
 
 ---------------------------------------------------------------------------
 PART TWO-A — ACCOUNTING OF DISCLOSURES AND AUTHORIZATION FORMS
