@@ -502,6 +502,13 @@ your facility during my dates of service, including but not limited to:
       inspection reports and correspondence; and all records of resident
       illness, gastrointestinal complaints, or nursing calls during that period.
 
+  2f. All maintenance logs, work orders, service tickets, vendor invoices, and
+      repair records for the facility's physical plant during my dates of
+      service, including without limitation the heating and air conditioning
+      system, the telephone room door, bathroom door hardware and locks, and
+      the stairway handrail; together with any records of resident or staff
+      complaints concerning any of the foregoing.
+
   2e. All complaints and grievances submitted by me in any form, including
       written complaints, grievance forms, emails, portal messages, and notes,
       together with the facility's grievance log and any response or

@@ -156,14 +156,37 @@ Beyond screening:
 | 3 | Written complaint | Received, no action |
 | 4 | Bedroom cameras on a monitor at the med window | Privacy complaint raised to a nurse, deflected |
 | 5 | Two sexual assaults | Supervision failure; victim's stay reportedly extended |
-| 6 | Devices confiscated, blanket | No one could call for help |
+| 6 | Devices confiscated, blanket | No independent means of contact or documentation |
 | 7 | **Bathrooms with no locks** | **No private space anywhere in the building** |
 | 8 | **A/C not working** | **Created the condition the cameras then recorded** |
 | 9 | **Unscreened child on the unit** | **No control over who is present** |
+| 10 | **Phone room door that will not close** | **A room built for privacy that provides none** |
 
-**Nine conditions. Every one of them either observed by staff, recorded by staff, or
+**Ten conditions. Every one of them either observed by staff, recorded by staff, or
 reported to staff. In no instance was corrective action taken.**
 
-That is the finding. Not nine complaints — **one finding, evidenced nine times.**
+### ⭐ Four of them are the same failure
+
+The **refrigerator**, the **air conditioning**, the **phone room door**, and the **stairway
+handrail** — plus the **bathroom locks** — are all **physical plant maintenance**.
+
+That is not a coincidence of separate breakdowns. It is a facility that does not repair
+things. And each failure took away something a patient was entitled to:
+
+| Broken | What it cost residents |
+|---|---|
+| Refrigerator | Safe food |
+| Air conditioning | A tolerable room — and it put him on camera in his underwear |
+| Phone room door | Private communication |
+| Bathroom locks | Bodily privacy |
+| Stairway handrail | Physical safety — a patient went to a trauma center |
+
+**Request the maintenance and work order records.** If they show reported problems with no
+repair, that is the entire case in one file. If they show *no* records at all, that is a
+facility with no maintenance system — which is its own licensure finding.
+
+That demand is now in the preservation letter at [15](15-surveillance-cameras.md), item 2f.
+
+That is the finding. Not ten complaints — **one finding, evidenced ten times.**
 
 Lead every regulatory complaint with that sentence.

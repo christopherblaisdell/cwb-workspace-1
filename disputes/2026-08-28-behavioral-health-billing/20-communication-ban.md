@@ -21,10 +21,48 @@ with family. **That was wrong, and I've fixed it.**
 
 ## ⭐⭐⭐ ANSWERED: staff sat four feet away during every call
 
-**Confirmed:** a staff member sits approximately **four feet away during all calls.**
+**Confirmed:** the phone room **has a door**, but you **could not get it to close**. So
+every call was made with an **open doorway** between you and a staff member seated
+approximately **four feet away**.
 
 That single fact resolves the central legal question, and it is the strongest point in
 this file.
+
+### ⭐ The door is the detail that makes this argument
+
+A private phone room, with a door, is the facility's **own design standard.** Somebody
+built that room, and fitted a door, because private calls were understood to be necessary.
+
+So the facility is not defending a considered policy that calls should be supervised. It is
+explaining why **a room built for private calls did not provide one** — and why staff were
+seated four feet outside an open doorway.
+
+**Say it in that order:**
+
+> "The facility provides a designated phone room with a door, indicating it recognises the
+> need for private communication. The door could not be closed. A staff member was seated
+> approximately four feet away, through the open doorway, for the duration of every call.
+> No call was private."
+
+That framing uses their own building against them, and it needs no speculation about
+intent.
+
+### ⚠️ Be precise about *why* it wouldn't close — I need to know
+
+This distinction matters and the two versions lead to different findings:
+
+| Version | What it means |
+|---|---|
+| **The door was broken, warped, or wouldn't latch** | A **physical plant failure** — joining the broken refrigerator, failed A/C, missing handrail, and unlockable bathrooms. Maintenance neglect deprived residents of privacy the facility's own design provided. |
+| **You were not permitted to close it** | A **monitoring policy**. Different violation, arguably worse, and squarely a § 394.459 issue. |
+| **Both** — it was broken *and* staff would have objected anyway | Say exactly that. |
+
+**Which was it?** Was it stuck, warped, missing a handle or latch, propped open, held by a
+stop? Did you try? Did anyone tell you to leave it open? Did you ever see anyone close it?
+
+Answer that precisely in your statement. *"I attempted to close the door and could not; it
+[describe]"* is strong. *"They wouldn't let me close the door"* is a different claim — only
+make it if it's true.
 
 ### There was no private communication at all
 
@@ -32,9 +70,8 @@ this file.
 subsection.* The protection is not "the right to make a phone call." It is the right to
 communicate **privately** with persons outside the facility.
 
-Four feet is conversational distance. It is not overhearing by accident — it is
-**supervision by design.** A staff member seated four feet away hears every word of both
-sides of a speakerphone-free call on the resident's end.
+Four feet, through an open doorway, is conversational distance. It is not overhearing by
+accident — a staff member in that position hears every word.
 
 So the accurate finding is:
 
@@ -101,8 +138,17 @@ Ask in your complaints:
 ### ✅ Verifiable by inspection
 
 Like the handrail and the monitor, this needs no credibility contest. **An inspector can
-look at the phone room and see whether there is a staff chair or workstation four feet from
-the phone.** Ask them to.
+stand in that phone room, try the door, and look for a staff chair or workstation four feet
+outside it.**
+
+Put this in the DCF, AHCA, and Joint Commission complaints:
+
+> "The designated phone room has a door that does not close. A staff member is seated
+> approximately four feet outside the open doorway during calls. This can be verified by
+> attempting to close the door and observing the staff seating position."
+
+And add the phone room door to the maintenance records demanded in the preservation letter
+— see [15](15-surveillance-cameras.md).
 
 ### Questions to pin down
 
