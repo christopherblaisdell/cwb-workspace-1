@@ -98,6 +98,11 @@ every charge:
       together with proof of its delivery.
  13.  A copy of your facility's financial assistance / charity care policy and
       application, and your sliding-scale and hardship discount policies.
+ 14.  For every group session billed to this account: the name of the group, the
+      name and professional license or credential of the individual who
+      facilitated it, and the CPT/HCPCS code billed for it.
+ 15.  Copies of the facility's daily and weekly program schedules in effect
+      during my dates of service.
 
 ---------------------------------------------------------------------------
 PART TWO — REQUEST FOR ACCESS TO MEDICAL RECORDS
@@ -131,6 +136,11 @@ limited to:
       my admission.
   k.  The staffing and census records for my unit for my dates of service, to
       the extent they form part of the record of my care.
+  l.  All documentation of any request I made for an alternative treatment
+      modality, and of the facility's response.
+  m.  Copies of the facility's written policies on patient rights, religious
+      accommodation and non-discrimination, treatment planning, and the patient
+      grievance process, as in effect during my admission.
 
 I request these records in electronic form (searchable PDF) delivered to
 [YOUR EMAIL] or on encrypted media mailed to my address above, whichever your
@@ -153,10 +163,19 @@ PART THREE — FORMAL DISPUTE OF THE ALLEGED BALANCE
 I formally and in good faith dispute the alleged balance of $4,000.00 in its
 entirety. My dispute is based on, among other grounds, the following:
 
+  •  The programming delivered during this admission consisted substantially of
+     twelve-step mutual-help meetings. Twelve-step meetings are peer support
+     groups available without charge in the community and are not clinical
+     services. I dispute that clinical service rates were properly billed for
+     those hours.
+  •  I am an atheist. I requested a secular, evidence-based treatment
+     alternative. None was offered or provided, and my treatment plan was not
+     individualized to account for this.
+  •  I was excluded from at least one treatment group on the basis of my
+     religious beliefs, while being billed for the treatment program of which
+     that group was a part.
   •  The services actually rendered to me during this admission did not
      correspond to the services and level of care I believe have been billed.
-  •  The care I received was, in my assessment, materially deficient and did not
-     conform to the individualized treatment plan presented to me at admission.
   •  I have not been provided with sufficient documentation to verify that the
      charges asserted are accurate or that the patient-responsibility
      calculation is correct.

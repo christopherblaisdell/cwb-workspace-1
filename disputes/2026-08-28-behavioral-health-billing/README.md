@@ -3,9 +3,50 @@
 **Opened:** 2026-08-28
 **Patient:** [YOUR FULL LEGAL NAME]
 **Facility:** [FACILITY LEGAL NAME], [CITY, STATE]
-**Amount in dispute:** $4,000.00 (stated patient responsibility / co-pay)
+**Amount in dispute:** $4,000.00 — confirmed as **patient copay** (cost-sharing), not a
+claim denial
 **Dates of service:** [ADMIT DATE] – [DISCHARGE DATE]
 **Status:** Phase 1 — records acquisition
+
+---
+
+## Case theory
+
+Two independent tracks, pursued in parallel. Track A is where the money is; Track B is
+where the leverage is.
+
+**Track A — The charge is not substantiated.**
+The facility bills clinical rates. If the record shows 12-step mutual-help meetings
+occupying hours billed as clinical group psychotherapy, or groups "facilitated" by
+unlicensed staff, or a group the patient was excluded from but still billed for, then
+the charges are for services not rendered. A copay is a percentage or per-unit share of
+services actually delivered — reduce the services, reduce the copay. Separately, the
+copay figure itself must be verified against the plan's out-of-pocket maximum and
+against mental health parity requirements. See
+[05](05-insurance-appeal.md) and [04](04-formal-billing-dispute.md).
+
+**Track B — Denial of secular treatment and exclusion from a group on religious grounds.**
+The facility offered only 12-step programming, provided no secular evidence-based
+alternative, and excluded the patient from at least one treatment group because he is an
+atheist. This is a patient-rights and licensing violation, likely a state public
+accommodation violation, and — if attendance was compelled by any state actor — an
+Establishment Clause matter. See [08](08-religious-discrimination-and-secular-treatment.md).
+
+These reinforce each other. Track B explains *why* the programming wasn't clinical,
+which is exactly what Track A needs to prove.
+
+---
+
+## ⚠️ Open questions blocking the drafting
+
+1. **What state?** (facility and residence) — determines the civil rights statute,
+   licensing agency, and records deadlines.
+2. **Was attendance compelled** by a court, probation, licensing board, employer, or
+   child welfare agency — or entirely voluntary? Determines whether the Establishment
+   Clause caselaw applies.
+3. **Details of the exclusion incident** — date, group, who, what was said.
+
+See [08](08-religious-discrimination-and-secular-treatment.md) for the full question set.
 
 ---
 
@@ -94,14 +135,16 @@ can — redundancy is the point. Each one independently proves receipt.
 
 | # | File | Send when |
 |---|---|---|
+| — | [intake-information-form.md](intake-information-form.md) | **Give to wife now.** Blank form collecting everything needed. |
 | 00 | [00-send-checklist.md](00-send-checklist.md) | Read before mailing anything |
 | 01 | [01-itemized-bill-and-records-request.md](01-itemized-bill-and-records-request.md) | **Send now.** First contact. |
 | 02 | [02-followup-no-response.md](02-followup-no-response.md) | Day 15 with no response |
 | 03 | [03-final-demand-before-complaints.md](03-final-demand-before-complaints.md) | Day 31 with no response |
 | 04 | [04-formal-billing-dispute.md](04-formal-billing-dispute.md) | Once records are in hand |
-| 05 | [05-insurance-appeal.md](05-insurance-appeal.md) | If insurer denied/downgraded the claim |
+| 05 | [05-insurance-appeal.md](05-insurance-appeal.md) | Copay verification, parity challenge, appeal |
 | 06 | [06-regulatory-complaints.md](06-regulatory-complaints.md) | In parallel with 03/04 |
 | 07 | [07-collections-debt-validation.md](07-collections-debt-validation.md) | Immediately if a collector contacts you |
+| 08 | [08-religious-discrimination-and-secular-treatment.md](08-religious-discrimination-and-secular-treatment.md) | **Read now.** Core grounds + open questions. |
 | — | [communication-log.md](communication-log.md) | Update after every contact |
 
 ---
@@ -109,11 +152,15 @@ can — redundancy is the point. Each one independently proves receipt.
 ## Recommended sequence
 
 ```
+Now     → Give intake-information-form.md to [WIFE]. Answer the open questions in #08.
+          Capture the facility's website via web.archive.org before it changes.
 Day 0   → Send #01 by Certified Mail/RR + fax + email + portal. Log it.
 Day 15  → No response? Send #02 (same three channels). Log it.
-Day 31  → Still nothing? Send #03, and file #06 (OCR + state licensing + AG).
+Day 31  → Still nothing? Send #03, and file #06 (OCR + state licensing + AG +
+          state civil rights agency + accreditor).
 Records arrive → Audit bill vs. records, then send #04.
 Any time → Collector contacts you? Send #07 within 30 days. Do not ignore.
+Parallel → #05 insurance track runs on its own 180-day clock. Do not let it lapse.
 ```
 
 ---

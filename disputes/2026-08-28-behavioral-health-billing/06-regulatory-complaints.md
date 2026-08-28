@@ -16,10 +16,13 @@
 | **[YOUR STATE] behavioral health licensing agency** | Quality of care, treatment plan failures, staffing, patient rights. Usually the Dept. of Health, Dept. of Behavioral Health/Human Services, or a substance use licensing division. | Search "[YOUR STATE] file complaint behavioral health facility" |
 | **The Joint Commission** | Accredited facilities. Investigates quality/safety and can put accreditation at risk. | `jointcommission.org` → Report a Patient Safety Event. Find who accredits them at `qualitycheck.org` |
 | **CARF International** | If CARF-accredited instead. | `carf.org` → file a complaint |
-| **[YOUR STATE] Attorney General, Consumer Protection** | Deceptive billing, unresponsiveness, billing for services not rendered. | State AG website consumer complaint form |
-| **[YOUR STATE] Department of Insurance** | Insurer's handling of the claim; parity violations. | State DOI consumer complaint form |
+| **[YOUR STATE] civil rights commission / human rights agency** | Religious discrimination in a place of public accommodation. Many state statutes expressly cover healthcare facilities and protect non-belief. **Short filing deadlines — often 180 days to 1 year from the incident. Check first.** | Search "[YOUR STATE] civil rights commission file complaint public accommodation" |
+| **[YOUR STATE] Attorney General, Consumer Protection** | Deceptive billing, unresponsiveness, billing for services not rendered, misrepresenting the program as evidence-based. | State AG website consumer complaint form |
+| **[YOUR STATE] Department of Insurance** | Insurer's handling of the claim; copay/parity violations. | State DOI consumer complaint form |
 | **U.S. DOL / EBSA** | If employer self-funded plan — plan's failure to follow claims procedures. | 1-866-444-3272 or `askebsa.dol.gov` |
 | **Consumer Financial Protection Bureau** | Any collection or credit-reporting activity on a disputed medical debt. | `consumerfinance.gov/complaint` |
+| **SAMHSA** | Not a complaint body, but if the facility holds SAMHSA grant funding, grant conditions require non-discrimination. Worth checking their funding. | `samhsa.gov` |
+| **Freedom From Religion Foundation / American Atheists / ACLU affiliate** | Will sometimes take religious-coercion-in-treatment matters, especially if attendance was court- or state-mandated. Free intake. | `ffrf.org`, `americanatheists.org/legal`, your state ACLU |
 | **State Medicaid Program Integrity / HHS-OIG** | Only if Medicaid/Medicare paid any portion AND you find services billed but not rendered. | `oig.hhs.gov/fraud/report-fraud` |
 | **NAMI / state protection & advocacy agency** | Free advocacy support for behavioral health patients. Every state has a federally funded P&A agency. | Search "[YOUR STATE] protection and advocacy mental health" |
 
@@ -53,35 +56,59 @@ PATIENT / EPISODE
 SUMMARY OF COMPLAINT
 
 I was a resident at [FACILITY] from [ADMIT DATE] to [DISCHARGE DATE]. I am
-filing this complaint on two grounds: (1) the treatment I received was
-materially deficient and did not conform to the treatment plan presented to me,
-and (2) the facility has refused to respond to repeated written requests for an
-itemized bill and for my own medical records, while continuing to assert that I
-owe $4,000.00.
+filing this complaint on three grounds: (1) the facility provided only
+religious, twelve-step-based programming and refused to provide any secular,
+evidence-based treatment alternative despite my request; (2) I was excluded from
+a treatment group on the basis of my religious beliefs; and (3) the facility
+billed clinical service rates for that non-clinical programming, and has refused
+to respond to repeated written requests for an itemized bill and for my own
+medical records while continuing to assert that I owe $4,000.00.
 
-I.  QUALITY OF CARE
+I.  DENIAL OF SECULAR TREATMENT AND RELIGIOUS DISCRIMINATION
 
-    [Write factually and chronologically. Use dates. Stick to what happened.
-     Useful things to address if true:
+    I am an atheist.
 
-     - Services promised at admission vs. services actually delivered
-       (frequency of individual therapy, psychiatric contact, group programming).
-     - Whether an individualized treatment plan was created, reviewed, and
-       followed.
-     - Delays in medication management or psychiatric evaluation.
-     - Staffing levels; whether groups were run by credentialed clinicians.
-     - Whether concerns were raised to staff, to whom, on what date, and what
-       response was given.
-     - Whether a grievance process was explained or made available to you.
-     - Discharge planning and aftercare.
+    A.  Program content. The treatment programming at [FACILITY] was
+        predominantly twelve-step based. [Describe factually: what the daily
+        schedule consisted of; whether meetings involved prayer, references to
+        God or a Higher Power, step work, or Big Book study; approximately how
+        many hours per week.]
 
-     Example of the register to aim for:
-     "At admission on [DATE] I was told I would receive individual therapy twice
-     weekly. I received [N] individual sessions during a [N]-day admission. On
-     [DATE] I raised this with [NAME/ROLE] and was told [RESPONSE]. No change
-     followed."]
+    B.  No secular alternative was offered. [State what, if anything, was
+        offered as an alternative. Note whether the facility offered SMART
+        Recovery, LifeRing, secular CBT, or any evidence-based non-religious
+        modality — and whether staff acknowledged that none existed.]
 
-II. FAILURE TO PRODUCE RECORDS AND ITEMIZED BILLING
+    C.  I requested an alternative. On [DATE] I asked [NAME/ROLE] for a secular
+        or cognitive-behavioral alternative to the twelve-step programming. I
+        was told: "[VERBATIM IF POSSIBLE]". [State what accommodation, if any,
+        resulted. State whether you were told a grievance process existed.]
+
+    D.  I was excluded from a treatment group because of my beliefs. On [DATE]
+        I was excluded from [GROUP NAME] by [NAME/ROLE]. I was told:
+        "[VERBATIM IF POSSIBLE]". [State whether witnesses were present; what
+        you did during that period instead; whether it recurred.] This group was
+        part of the treatment program for which my insurer and I were billed.
+
+    E.  Treatment planning. My individualized treatment plan [does not reflect
+        my stated beliefs or my request for a secular modality / was never
+        provided to me / was not revised in response]. A program offering a
+        single ideological track, and excluding a patient from treatment for not
+        adopting it, is not individualized care.
+
+II. NON-CLINICAL PROGRAMMING BILLED AS CLINICAL TREATMENT
+
+    Twelve-step meetings are peer mutual-help groups, freely available in the
+    community, and are not clinical psychotherapy. Based on the information
+    available to me, [FACILITY] billed my insurer clinical service codes and a
+    residential per-diem for hours occupied by twelve-step programming, and
+    [some groups appear to have been facilitated by unlicensed staff]. I have
+    been unable to verify the extent of this because the facility will not
+    produce the itemized statement or my records — see Section III.
+
+    I was also billed for the treatment group from which I was excluded.
+
+III. FAILURE TO PRODUCE RECORDS AND ITEMIZED BILLING
 
     2026-08-28  I sent a written request for an itemized statement and for my
                 complete medical record under 45 C.F.R. § 164.524, together with
@@ -101,20 +128,30 @@ II. FAILURE TO PRODUCE RECORDS AND ITEMIZED BILLING
 
 III. HARM
 
-    I am being asked to pay $4,000.00 for care I believe was inadequate, and I
-    am being denied the documents I need to verify or contest the charge. I
-    face potential collection activity and credit reporting on a debt the
-    facility will not substantiate.
+    I did not receive treatment appropriate to my beliefs or supported by
+    evidence, and I was excluded from treatment because of my religion. I am
+    being asked to pay $4,000.00 in cost-sharing for care that was largely
+    non-clinical, and I am being denied the documents I need to verify or
+    contest the charge. I face potential collection activity and credit
+    reporting on a debt the facility will not substantiate.
 
 IV. RELIEF REQUESTED
 
     1.  That the facility be required to produce my complete medical record and
         a fully itemized statement.
-    2.  Investigation of whether services billed were actually rendered.
-    3.  Investigation of the quality of care and treatment plan compliance
-        during my admission.
-    4.  Correction of the account and cessation of collection activity pending
+    2.  Investigation of whether clinical service codes were billed for
+        non-clinical twelve-step programming, and whether groups billed as
+        psychotherapy were facilitated by unlicensed staff.
+    3.  Investigation of the facility's failure to offer any secular,
+        evidence-based treatment option, and of my exclusion from a treatment
+        group on religious grounds.
+    4.  Review of whether the facility's treatment planning is genuinely
+        individualized as required.
+    5.  Correction of the account and cessation of collection activity pending
         resolution.
+    6.  Such corrective action as to the facility's programming as will ensure
+        future patients who do not share its religious framework are offered
+        an equivalent secular alternative.
 
 DOCUMENTATION ATTACHED
 

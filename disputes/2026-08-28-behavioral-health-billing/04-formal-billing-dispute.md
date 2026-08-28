@@ -41,11 +41,38 @@ Red flag: a billed E/M or psychiatric encounter with no corresponding progress n
 
 Red flag: 90837 (53+ min) billed where the note documents a 20-minute check-in.
 
-### D. Group therapy
+### D. Group therapy — ★ the highest-value section in this audit
 
-| Date billed | Units | Attendance roster shows you present? | Facilitator credentialed as billed? | Discrepancy? |
-|---|---|---|---|---|
-| | | | | |
+| Date billed | CPT (usually 90853) | Units | Group name | Facilitator name | Facilitator license (LCSW/LPC/PsyD/none) | Content: clinical psychotherapy or 12-step meeting? | You marked present? | Discrepancy? |
+|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | |
+
+Red flags, in order of severity:
+
+- **`90853` billed for a 12-step meeting.** Group psychotherapy requires a qualified
+  licensed clinician delivering psychotherapy. An AA/NA-format meeting is peer mutual
+  help, is available free in the community, and is not a billable clinical service.
+- **Facilitator was a tech, peer, recovery coach, or unlicensed staffer.**
+- **The group you were excluded from was still billed.**
+- Units billed exceed the documented session length.
+
+### D2. Program schedule vs. clinical hours
+
+Pull the daily/weekly schedule from the record and total it up. The residential
+per-diem is priced on clinical service intensity.
+
+| | Hours/week |
+|---|---|
+| 12-step meetings / step work / Big Book study | |
+| Licensed-clinician group psychotherapy | |
+| Individual therapy with a licensed clinician | |
+| Psychiatric/prescriber contact | |
+| Unstructured time, chores, meals, free time | |
+| **Clinical hours as % of billed program** | |
+
+> If the majority of programmed hours were non-clinical mutual-help meetings, the
+> per-diem does not reflect what was delivered — and your copay, which is a share of
+> those charges, is correspondingly overstated.
 
 ### E. Labs / toxicology
 
@@ -61,6 +88,10 @@ a well-known overbilling pattern in this industry.
 - [ ] Was an individualized treatment plan created? Date: ______
 - [ ] Was it reviewed/updated at the required intervals? Dates: ______
 - [ ] Were the services in the plan actually delivered at the stated frequency?
+- [ ] Does the plan document your stated beliefs, preferences, or objections?
+- [ ] Does the plan document any consideration of a secular/CBT modality?
+- [ ] Is there any note recording your request for a secular alternative?
+      (Present = corroboration. Absent = documentation failure. Both help you.)
 - [ ] Gaps found: ______________________________________________
 
 ### G. Totals
@@ -145,14 +176,43 @@ III. FAILURE TO DELIVER THE SERVICES IN MY TREATMENT PLAN
     The record documents [SPECIFY WHAT ACTUALLY OCCURRED]. The services billed
     were therefore not rendered as planned, represented, or charged.
 
-IV. ADDITIONAL DEFICIENCIES IN CARE
+IV. NON-CLINICAL PROGRAMMING BILLED AS CLINICAL SERVICE; DENIAL OF A
+    SECULAR TREATMENT OPTION; EXCLUSION FROM A BILLED GROUP
 
-    [Describe specifically and factually. Dates, names, what happened, what
-     should have happened. Avoid characterization; state facts. Examples of the
-     form: "On [DATE] I requested a medication review and no prescriber
-     evaluated me until [DATE], [N] days later." / "The record contains no
-     treatment plan review after [DATE], although facility policy and
-     [ACCREDITOR] standards require review every [N] days."]
+    A.  Your facility billed [CODE, e.g. 90853 group psychotherapy] on
+        [DATES]. Group psychotherapy is a clinical service requiring delivery
+        by a qualified licensed clinician. Based on the records produced, the
+        sessions billed under this code consisted of twelve-step mutual-help
+        programming [and/or were facilitated by [NAME], who does not appear to
+        hold a clinical license]. Twelve-step meetings are peer mutual-help
+        groups available at no cost in the community. They are not billable
+        clinical psychotherapy.
+
+    B.  Of the [NUMBER] programmed hours per week reflected in the schedule,
+        approximately [NUMBER] consisted of twelve-step programming and
+        [NUMBER] consisted of services delivered by licensed clinical staff.
+        The residential per-diem rate billed does not correspond to that
+        service intensity.
+
+    C.  I am an atheist. Your facility's programming was predominantly
+        twelve-step based and therefore religious in content. I requested a
+        secular, evidence-based alternative — such as cognitive behavioral
+        therapy or a secular recovery modality — [on [DATE], from [NAME/ROLE]].
+        No such alternative was offered or provided. My treatment plan
+        [contains no reference to this request / does not document any
+        individualized consideration of my stated beliefs], which is
+        inconsistent with the requirement that treatment be individualized.
+
+    D.  On [DATE] I was excluded from [GROUP NAME], a treatment group, on the
+        basis of my religious beliefs. [Describe: who excluded you, what was
+        said, what you did during that time instead.] That group appears on the
+        itemized statement as a billed service on that date. I was charged for a
+        treatment service from which I was affirmatively excluded.
+
+    E.  These facts bear directly on the charges. I was billed clinical rates
+        for non-clinical programming, and billed for a specific service I was
+        denied. They are also the subject of complaints I am filing with
+        [STATE LICENSING AGENCY], [ACCREDITOR], and [STATE CIVIL RIGHTS AGENCY].
 
 V.  PATIENT RESPONSIBILITY CALCULATION
 
