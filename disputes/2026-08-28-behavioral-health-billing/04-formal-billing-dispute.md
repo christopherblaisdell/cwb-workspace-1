@@ -43,15 +43,28 @@ Red flag: 90837 (53+ min) billed where the note documents a 20-minute check-in.
 
 ### D. Group therapy — ★ the highest-value section in this audit
 
-| Date billed | CPT (usually 90853) | Units | Group name | Facilitator name | Facilitator license (LCSW/LPC/PsyD/none) | Content: clinical psychotherapy or 12-step meeting? | You marked present? | Discrepancy? |
+> 🔥 **Read [24-false-attendance-records.md](24-false-attendance-records.md) before doing
+> this section.** Staff approached residents **while they were swimming in the pool or
+> watching television** and asked them to sign group attendance sheets, saying *"It looks
+> like you are having your own little group here. Sign this paper."*
+>
+> So the first question for every billed group is not what code was used or who ran it. It
+> is: **did this group happen at all?**
+
+| Date billed | CPT (usually 90853) | Units | Group name | Facilitator name | Facilitator license (LCSW/LPC/PsyD/none) | Content: clinical psychotherapy, 12-step meeting, or **recreation**? | You marked present? | **Did it occur?** |
 |---|---|---|---|---|---|---|---|---|
 | | | | | | | | | |
 
 Red flags, in order of severity:
 
+- 🔥 **The group never happened.** A roster signed poolside or in front of a television.
+  Cross-reference every billed group date against the activity schedule and your own
+  recollection.
 - **`90853` billed for a 12-step meeting.** Group psychotherapy requires a qualified
   licensed clinician delivering psychotherapy. An AA/NA-format meeting is peer mutual
   help, is available free in the community, and is not a billable clinical service.
+- **`90853` billed for recreation.** Swimming, TV, ping pong, tie-dye, basketball. The
+  facility employs an **Activities Director**, not a clinician, to run these.
 - **Facilitator was a tech, peer, recovery coach, or unlicensed staffer.**
 - **The group you were excluded from was still billed.**
 - Units billed exceed the documented session length.

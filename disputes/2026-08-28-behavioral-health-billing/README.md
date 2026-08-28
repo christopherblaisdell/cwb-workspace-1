@@ -260,6 +260,7 @@ can — redundancy is the point. Each one independently proves receipt.
 | 21 | [21-payment-decision.md](21-payment-decision.md) | **⏰ Should the monthly payments stop?** |
 | 22 | [22-public-reviews-corroboration.md](22-public-reviews-corroboration.md) | **⭐ Public reviews corroborate device confiscation.** |
 | 23 | [23-facility-conditions.md](23-facility-conditions.md) | Bathroom locks, A/C failure, child on premises |
+| 24 | [24-false-attendance-records.md](24-false-attendance-records.md) | **🔥 Signed group rosters while swimming. Read this.** |
 | — | [communication-log.md](communication-log.md) | Update after every contact |
 
 ---
