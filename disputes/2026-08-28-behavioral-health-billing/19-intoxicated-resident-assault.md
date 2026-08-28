@@ -1,4 +1,4 @@
-# 19 — Intoxicated Resident and Assault on a Sleeping Patient
+# 19 — Two Sexual Assaults on Patients; Intoxicated Resident; Victim's Stay Extended
 
 **What you witnessed:** your roommate "Charlie" was so intoxicated he could barely stand,
 inside a residential treatment facility. While in that state, he touched your other
@@ -251,6 +251,147 @@ Note specifically:
 
 ---
 
+## ⭐⭐⭐ A SECOND incident — and this one may be worse
+
+**Reported (not witnessed):** a male patient put his fingers in or on the genitals of a
+female patient **in the common area**. You were told the facility then **required that
+female patient to stay in treatment substantially longer because of the incident.**
+
+### ⚠️ First: you did not see this. Label it that way, always.
+
+You heard about it. That is **hearsay**, and you must say so every single time:
+
+> "I did not witness this. It was reported to me by [other residents / a staff member /
+> the patient herself] on or about [DATE]."
+
+**Report it anyway.** Regulators are not bound by rules of evidence — DCF, AHCA, and the
+Joint Commission investigate reports and can interview staff and residents directly.
+Secondhand information from a former resident is a routine and proper basis for a
+regulatory referral.
+
+But **never present it as something you saw.** One overstated claim in an eight-issue
+complaint contaminates the seven that are ironclad.
+
+### 1. Two sexual assaults destroys "isolated incident"
+
+Your case now describes **two separate sexual assaults on patients** during a single
+admission:
+
+| | Where | Victim's state |
+|---|---|---|
+| Your roommate, by an intoxicated resident | Bedroom | Asleep |
+| A female patient | **Common area** | Reported as non-consensual |
+
+One incident is an incident. **Two is a pattern**, and it forecloses the single most
+effective defense a facility has: *"an isolated event that could not have been
+anticipated."*
+
+And note the second location. A **common area** is the space most likely to be staffed and
+observed. If an assault occurred there, supervision failed in the part of the building
+where supervision is easiest.
+
+### 2. ⭐ Extending the victim's stay is the alarming part
+
+If the facility kept the female patient longer **because she was assaulted**, that raises
+three serious and distinct questions. A regulator has to answer all three.
+
+| Possibility | What it would mean |
+|---|---|
+| **Clinical** — her stay was extended because the assault caused genuine treatment need | Potentially legitimate — **but only if** individually assessed, clinically documented, and **agreed to by her**. Check whether documentation exists. |
+| **Retaliatory or controlling** — she was kept because she was a problem, a witness, or a liability | A patient rights violation, and a serious one. Consequences imposed on a victim for having been victimized. |
+| **⭐ Financial** — a longer stay is more billable days | This is where it connects to everything else in your case. |
+
+**Take the third one seriously.** This is a facility that placed a sedated detox patient
+upstairs, in violation of its own safety policy, **because it was over census.** You have
+already documented that bed occupancy drove a decision that put a patient in a trauma
+center.
+
+A facility that extends the stay of an assault victim — a person in no position to
+object, with her devices confiscated and no ability to call family — while billing her
+insurer for the additional days, has a conflict of interest that regulators are obligated
+to examine.
+
+**Ask the question neutrally, and let them investigate:**
+
+> "I was informed that a female patient's length of stay was extended following an
+> assault. I ask the agency to determine whether that extension was clinically justified
+> and documented, whether she consented to it, whether she was free to leave, and whether
+> additional days were billed to her insurer."
+
+That is a fair, precise question. It doesn't accuse anyone of fraud. It simply asks the
+one body that can look at the chart and the claims to look.
+
+### 3. Her freedom to leave
+
+If she was a **voluntary** patient who wished to leave and was kept, that is a serious
+matter. Add the surrounding facts from this file: **devices confiscated, no contact with
+family, no ability to call anyone.**
+
+A voluntary patient with no phone, no outside contact, and no means to arrange
+transportation has a meaningfully impaired ability to exercise the right to leave. Whether
+that rises to a legal claim is a question for counsel — but the combination is exactly
+what regulators look for.
+
+*If a Marchman Act petition was used to hold her, that's a court process with
+requirements, and there would be a record of it.*
+
+### 4. ⏰ The common area was almost certainly on camera
+
+They put cameras in **bedrooms.** A common area is far more likely to be covered.
+
+**The assault may be recorded.** So may the aftermath.
+
+The preservation letter in [15-surveillance-cameras.md](15-surveillance-cameras.md)
+already demands all footage from anywhere in the facility during your dates of service,
+which covers common areas. **Send it now.** If you can approximate the date, tell counsel.
+
+### 5. Reporting
+
+- **Florida Abuse Hotline — 1-800-96-ABUSE.** Report what you were told, clearly labeled
+  as secondhand. Ask whether the facility filed a report. Staff are mandatory reporters.
+- **Martin County Sheriff's Office.** You can report secondhand information. They decide
+  what to do with it. Do not characterize the offense legally — describe what you were
+  told, and by whom.
+- **Joint Commission.** Sexual assault of a patient is a reviewable sentinel event. You are
+  now reporting **three** sentinel-level events at one accredited facility: the stairway
+  fall, the bedroom assault, and this.
+- **AHCA / DCF.** Add the length-of-stay question above.
+
+### 6. ❓ What I need
+
+- **How did you learn of it?** From other residents, staff, the woman herself, or general
+  talk on the unit? *(Be precise — "several residents discussed it openly" is different
+  from "a staff member told me.")*
+- **When**, approximately?
+- **Where in the common area**, and was staff present?
+- Did the male patient remain in the facility afterward? Was he moved, discharged, or
+  separated?
+- Was law enforcement called that you know of?
+- **How did you learn her stay was extended?** From her, from staff, from other residents?
+- **How much longer?** Days, weeks?
+- Did she want to leave?
+- Did anyone say *why* she was kept?
+- Were residents told anything officially about the incident?
+- Did the facility change anything afterward — supervision, common area rules, room
+  assignments?
+
+### ⛔ Cautions — these matter more here than anywhere else
+
+- **Do not name her.** Not in a complaint, not in a letter, not to anyone. "A female
+  patient."
+- **Do not contact her.** Under any circumstances. She is a survivor of a sexual assault
+  and she is not a resource for your case.
+- **Do not name the male patient in full.** First name only if needed.
+- **Do not speculate** about what happened or why she was kept. Report what you were told
+  and who told you. Nothing more.
+- **Do not post about it anywhere.**
+
+The reason to report this is that a woman may have been assaulted and then held longer for
+it, and the agencies with power to look have no way to know unless someone tells them. It
+does not add a dollar to your claim, and that is fine.
+
+---
+
 ## The pattern is now overwhelming
 
 | # | Hazard | What they knew | What they did |
@@ -258,10 +399,12 @@ Note specifically:
 | 1 | Unsafe stairway | Written policy barring detox patients from it | Violated it for census; never repaired |
 | 2 | Refrigerator at 67°F | Daily log in their own hand | Nothing |
 | 3 | Your written complaint | Received it | Nothing |
-| 4 | Intoxicated resident, assault on a sleeping patient | Cameras in every bedroom | Nothing |
+| 4 | Intoxicated resident, assault on a sleeping patient | Cameras in every bedroom, monitor at the staffed post | Nothing |
+| 5 | Second assault, female patient, **common area** | Reported on the unit; likely on camera | Reportedly **extended the victim's stay** |
+| 6 | Residents' communication devices | Blanket confiscation | No one could call for help |
 
-**Four documented instances of a facility observing or recording a serious hazard and
-declining to act.**
+**Six documented instances of a facility observing or recording a serious problem and
+declining to act — or acting against the person harmed.**
 
 That is no longer a set of incidents. It is the operating character of the place — and it
 is exactly the showing that produces systemic corrective action, license conditions, or
