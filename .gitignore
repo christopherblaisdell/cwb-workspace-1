@@ -1,0 +1,19 @@
+# Protected health information and case evidence must never enter git history.
+disputes/**/evidence/*
+!disputes/**/evidence/README.md
+
+# Generated/filled correspondence containing real personal data.
+# Templates are tracked; anything marked FILLED is not.
+**/*.FILLED.md
+**/*-FILLED.*
+
+# Scans, records, exports
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.tiff
+*.zip
+
+# macOS
+.DS_Store
