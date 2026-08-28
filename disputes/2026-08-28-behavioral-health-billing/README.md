@@ -116,8 +116,15 @@ cannot. File the licensure complaint before the escalation letters.**
 - [ ] Send letter [#01](01-itemized-bill-and-records-request.md) unchanged. **Say nothing
       about the forged signatures.**
 - [ ] Pin down **the date you learned records went to the wrong place** — 180-day OCR clock.
+- [ ] **Write to the law office** that received the misdirected fax — ask them to
+      preserve the **fax transmission header** (sending number, date, time, page count)
+      and to confirm the basic facts in writing. Letter is in [14](14-hipaa-breach.md).
+      They may shred it otherwise.
+- [ ] **Start a damages log today.** Florida claims require provable harm; write it down
+      contemporaneously, not from memory two years out.
 - [ ] Give your wife [intake-information-form.md](intake-information-form.md).
-      **Out-of-pocket maximum first.**
+      **Sections 0.7 and 0.8 first** — she took the law office's call and holds the date.
+      Then the **out-of-pocket maximum**.
 - [ ] Look up the legal entity and registered agent on `search.sunbiz.org`.
 - [ ] Verify whether **Medicaid or Medicare** paid any portion.
 

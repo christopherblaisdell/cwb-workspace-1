@@ -71,6 +71,122 @@ may owe nothing.**
 
 ---
 
+## ⏰ SECTION 0.7 — The law office that called you (HIGH PRIORITY)
+
+**Only you can answer this — you took the call.** Remedy faxed my medical records to a
+law office that has nothing to do with us. That's a federal privacy violation, and the
+date you learned of it starts a **180-day filing deadline**. This is the most
+time-sensitive item on the whole form.
+
+### The law office
+
+| Field | Value |
+|---|---|
+| Name of the law firm | |
+| City / address | |
+| Phone number they called from (check your call log) | |
+| Name of the person who called | |
+| Their title (attorney, paralegal, office manager, receptionist) | |
+
+### ⏰ The call
+
+| Field | Value |
+|---|---|
+| **Date they called** (approximate is fine — explain how you narrowed it) | |
+| Time of day | |
+| Did they call your cell or landline? | |
+| **Is it still in your call log?** Screenshot it. | [ ] |
+| Did they leave a voicemail? **Do not delete it.** Saved? | [ ] |
+| Did they follow up by email or letter? Saved? | [ ] |
+
+### What they said — as close to verbatim as you can manage
+
+```
+
+
+```
+
+Specifically, please try to recall:
+
+- [ ] What did they say they received? (medical records / discharge summary / billing /
+      "a stack of pages")
+- [ ] Did they say **how many pages**?
+- [ ] Did they say it came from **Remedy Therapy** by name?
+- [ ] Did they say whether the fax had a **cover sheet**?
+- [ ] Did they confirm they had **never heard of Remedy** and had **no connection to us**?
+- [ ] Did they say what they **did with it** — kept it, shredded it, returned it?
+- [ ] **Did they say whether they contacted Remedy about it?** ⭐ *This one matters a
+      lot — it tells us whether Remedy knew and stayed silent.*
+- [ ] How did they get your number? Did they say?
+- [ ] Anything else they mentioned?
+
+### After the call
+
+- [ ] Did you tell anyone about it at the time? Who, and roughly when?
+      *(A text or a mention to someone helps establish the date.)*
+- [ ] Did you write anything down, or note it in a calendar?
+- [ ] Did you contact Remedy about it? What happened?
+- [ ] **Did we ever receive a letter from Remedy notifying us of a privacy breach?**
+      *(They're legally required to send one within 60 days. I don't believe we got
+      anything — please double-check the mail pile and email, including spam.)*
+      - [ ] No, nothing
+      - [ ] Yes → date received, and please save it
+
+---
+
+## ⭐ SECTION 0.8 — Harm and impact (please take your time with this)
+
+This section matters more than it looks. Federal privacy law doesn't let us sue directly
+— any claim runs through Florida law, and **Florida claims require showing actual harm.**
+Harm isn't only money. Please be honest and specific rather than modest.
+
+**When you found out a law office had my addiction treatment records, what was that
+like?**
+
+```
+
+
+```
+
+**How has it affected you?** (sleep, anxiety, worry about who else has them, stress on
+you, time lost, having to handle this)
+
+```
+
+
+```
+
+**How did it affect me, from your point of view?** You may have noticed things I didn't.
+
+```
+
+
+```
+
+Please check anything that applies and add detail:
+
+- [ ] Worry about who else may have received records
+- [ ] Anxiety, sleep problems, or distress for either of us
+- [ ] Embarrassment or fear of people finding out
+- [ ] Damage to my willingness to trust providers or seek care
+- [ ] Strain on our relationship or family
+- [ ] Effect on my employment or job prospects
+- [ ] Effect on any professional license or certification
+- [ ] Housing, custody, or insurance consequences
+- [ ] Either of us mentioned it to a doctor, therapist, or counselor
+      → **who and when? A clinical note documenting it is valuable.**
+- [ ] Time spent dealing with all of this — rough hours: ________
+- [ ] Money spent — postage, certified mail, records fees, travel: $________
+
+**Anything else that changed for us because of this?**
+
+```
+
+
+```
+
+---
+
 ## ★ SECTION 1 — My identifying information
 
 | Field | Value |
