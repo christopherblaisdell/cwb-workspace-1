@@ -271,22 +271,128 @@ Add a section to [10-incident-statement.md](10-incident-statement.md) covering:
 
 ---
 
+## ⭐⭐⭐ They never fixed it — why this may be the strongest fact in the case
+
+**Observed: no effort was made to repair or replace the missing handrail after the fall.**
+
+I expected the opposite. Facilities usually scramble to fix a hazard immediately after
+someone is seriously injured on it — partly out of conscience, mostly out of liability
+instinct. That they didn't is remarkable, and it helps you in four distinct ways.
+
+### 1. The hazard is probably still there right now
+
+Regulators respond very differently to a **current, ongoing danger** than to a historical
+incident. A historical complaint gets a file review. An ongoing hazard to patients
+currently in the building gets someone dispatched.
+
+**Say this explicitly, in the first paragraph of every complaint:**
+
+> "To my knowledge the stairway remains without a continuous handrail, and detox patients
+> may still be housed upstairs. I believe current patients are at risk today."
+
+That sentence changes how the complaint is triaged.
+
+### 2. It converts negligence into conscious disregard
+
+Ordinary negligence: they had a dangerous stairway.
+
+What you describe: they had a dangerous stairway, **wrote a policy acknowledging it**,
+**violated their own policy for census reasons**, **watched a patient suffer a
+catastrophic headfirst fall on it**, and then **did nothing**.
+
+Notice → injury → continued inaction is the evidentiary pattern for **gross negligence
+and deliberate indifference**. Florida punitive damages require intentional misconduct or
+gross negligence, pleaded with court permission under Fla. Stat. § 768.72. *Verify with
+counsel* — but failure to abate a known hazard after a serious injury is close to the
+paradigm case.
+
+This matters more for the injured patient's claim than for yours. It also colors how
+every regulator and every defense lawyer reads the entire file.
+
+### 3. ⚖️ It removes an evidentiary obstacle — a genuine legal advantage
+
+This one is subtle and worth understanding.
+
+Florida's evidence code (Fla. Stat. § 90.407) generally makes **subsequent remedial
+measures inadmissible** to prove negligence. When a defendant fixes a hazard after an
+accident, the plaintiff usually cannot tell the jury about the repair. It routinely
+frustrates plaintiffs.
+
+**Because they never fixed it, that problem doesn't exist.** The stairway's condition
+today *is* its condition on the day of the fall. Current photographs, a current
+inspection report, and a current code citation are all directly probative of conditions
+at the time — with no admissibility fight at all.
+
+Their inaction denied them the one thing a repair would have bought: a rule keeping the
+evidence out.
+
+### 4. It corroborates you
+
+If an inspector walks that stairway this month and documents a missing continuous
+handrail, the physical predicate of your account is confirmed by a neutral government
+source.
+
+That corroboration extends outward. A witness demonstrably right about the stairway gets
+believed about the cameras, the group session, and the paperwork. **Credibility is
+transitive**, and this is the cheapest credibility you will ever buy — it costs a
+complaint form.
+
+---
+
+## ⚠️ Be precise about the limits of what you observed
+
+Don't overstate this. State it exactly as it is:
+
+> "During the remainder of my stay, through my discharge on [DATE], I observed no repair,
+> replacement, or modification of the stairway handrail, and I observed no change in how
+> the stairway was used. I have no knowledge of the condition of the stairway after my
+> discharge."
+
+That framing is airtight. Claiming "they never fixed it" — when you left the building and
+cannot know — is exactly the small overreach a defense lawyer uses to argue you exaggerate
+generally. **Precision about the boundaries of your knowledge is what makes the rest of
+your testimony durable.**
+
+Also note, if you can:
+
+- Roughly how many days elapsed between the fall and your discharge
+- Whether the stairway was ever closed, taped off, restricted, or supervised
+- Whether staff said anything about repairs
+- Whether the detox-patient rule was reiterated, changed, or ignored again
+- Whether you saw other patients continue using the stairway
+
+### The fire marshal records just became more interesting
+
+In your Chapter 119 request, the **inspection history** now cuts two ways:
+
+- **If prior inspections flagged the handrail** → the facility had formal written notice
+  of a code violation *before* the fall. Extraordinarily damaging to them.
+- **If inspections passed the stairway** → either the condition changed, or the
+  inspections missed it — and a current inspection finding a violation raises questions
+  the county will want answered.
+
+Either result is useful. Request the full five-year history.
+
+---
+
 ## Revised priority order
 
 This moves to the top, alongside the cameras.
 
 ```
 IMMEDIATELY
-  1. Send the PRESERVATION LETTER (#15) — the fall may be on video and
-     retention cycles are short. Nothing else is this time-sensitive.
-  2. File THE JOINT COMMISSION report — sentinel event. Highest-value
+  1. Report the STAIRWAY AS AN ONGOING HAZARD to the Fire Marshal /
+     Building Dept and to AHCA/DCF. Lead with "current patients are at
+     risk today" — ongoing danger is triaged far faster than history.
+  2. Send the PRESERVATION LETTER (#15) — the fall may be on video and
+     retention cycles are short.
+  3. File THE JOINT COMMISSION report — sentinel event. Highest-value
      single filing available to you.
-  3. File AHCA + DCF complaints — include the fall, the cameras, the
-     records failures. Request an unannounced inspection. Ask whether an
-     adverse incident report was filed.
-  4. Send the CH. 119 PUBLIC RECORDS REQUESTS — independent, government-
-     held corroboration that doesn't depend on your credibility.
-  5. Report the missing handrail to the Fire Marshal / Building Dept.
+  4. File AHCA + DCF complaints — the fall, the unrepaired stairway, the
+     cameras, the records failures. Request an unannounced inspection.
+     Ask whether an adverse incident report was filed.
+  5. Send the CH. 119 PUBLIC RECORDS REQUESTS — EMS, CAD, 911, trauma
+     alert, and the full five-year fire marshal inspection history.
 
 THIS WEEK
   6. Incident statement covering all five issues.

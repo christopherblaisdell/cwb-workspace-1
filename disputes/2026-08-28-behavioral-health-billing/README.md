@@ -233,6 +233,7 @@ can — redundancy is the point. Each one independently proves receipt.
 
 | # | File | Send when |
 |---|---|---|
+| — | **[START-HERE.md](START-HERE.md)** | **⭐ READ THIS FIRST. The whole plan on one page.** |
 | — | `case-facts.FILLED.md` | **Single source of truth for real details.** Git-ignored. Fill this, then populate templates from it. |
 | — | [intake-information-form.md](intake-information-form.md) | **Give to wife now.** Blank form collecting everything needed. |
 | 00 | [00-send-checklist.md](00-send-checklist.md) | Read before mailing anything |
