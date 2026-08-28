@@ -28,25 +28,42 @@ against mental health parity requirements. See
 **Track B — Denial of secular treatment and exclusion from a group on religious grounds.**
 The facility offered only 12-step programming, provided no secular evidence-based
 alternative, and excluded the patient from at least one treatment group because he is an
-atheist. This is a patient-rights and licensing violation, likely a state public
-accommodation violation, and — if attendance was compelled by any state actor — an
-Establishment Clause matter. See [08](08-religious-discrimination-and-secular-treatment.md).
+atheist. In Florida this runs through statutory patient rights (Fla. Stat. § 397.501 /
+§ 394.459, right to individual dignity), licensure standards requiring individualized
+treatment planning, accreditation standards, and FDUTPA (§ 501.201) for deceptive
+marketing. See [08](08-religious-discrimination-and-secular-treatment.md) and
+[09](09-florida-agencies-and-law.md).
 
 These reinforce each other. Track B explains *why* the programming wasn't clinical,
-which is exactly what Track A needs to prove.
+which is exactly what Track A needs to prove — and the group incident is itself direct
+evidence that the session billed as psychotherapy was not psychotherapy.
 
 ---
 
-## ⚠️ Open questions blocking the drafting
+## ⚠️ Open questions
 
-1. **What state?** (facility and residence) — determines the civil rights statute,
-   licensing agency, and records deadlines.
-2. **Was attendance compelled** by a court, probation, licensing board, employer, or
-   child welfare agency — or entirely voluntary? Determines whether the Establishment
-   Clause caselaw applies.
-3. **Details of the exclusion incident** — date, group, who, what was said.
+1. ~~What state?~~ **Florida.** See [09](09-florida-agencies-and-law.md).
+2. ~~Was attendance compelled?~~ **No** — voluntary, in crisis, private facility.
+   Establishment Clause unavailable. *Sub-question: any Baker Act or Marchman Act
+   involvement at intake?*
+3. ~~Exclusion incident details?~~ **Obtained** — facilitator polled the group on
+   religious belief, then prayed with the others, arms around them, back turned, saying
+   "SOME of us will be praying." **Date still to be confirmed.**
+4. Does the facility receive Medicaid, Medicare, or state/county funding?
+5. Did you request a secular alternative — to whom, when, and what were you told?
+6. Facilitator's name and title.
 
-See [08](08-religious-discrimination-and-secular-treatment.md) for the full question set.
+## ⏰ Do these now
+
+- [ ] Write [10-incident-statement.md](10-incident-statement.md) **today**, while it's
+      fresh. Contemporaneous statements carry weight; later ones don't.
+- [ ] Archive the facility's website via `web.archive.org` before it changes — FDUTPA
+      evidence.
+- [ ] Save any texts to/from your wife from the admission period.
+- [ ] Give her [intake-information-form.md](intake-information-form.md). Have her check
+      the **out-of-pocket maximum first** — it could zero the balance outright.
+- [ ] Send letter [#01](01-itemized-bill-and-records-request.md) to start the 30-day
+      HIPAA clock.
 
 ---
 
@@ -144,7 +161,9 @@ can — redundancy is the point. Each one independently proves receipt.
 | 05 | [05-insurance-appeal.md](05-insurance-appeal.md) | Copay verification, parity challenge, appeal |
 | 06 | [06-regulatory-complaints.md](06-regulatory-complaints.md) | In parallel with 03/04 |
 | 07 | [07-collections-debt-validation.md](07-collections-debt-validation.md) | Immediately if a collector contacts you |
-| 08 | [08-religious-discrimination-and-secular-treatment.md](08-religious-discrimination-and-secular-treatment.md) | **Read now.** Core grounds + open questions. |
+| 08 | [08-religious-discrimination-and-secular-treatment.md](08-religious-discrimination-and-secular-treatment.md) | **Read now.** Core grounds, ranked. |
+| 09 | [09-florida-agencies-and-law.md](09-florida-agencies-and-law.md) | **Read now.** Florida statutes, agencies, deadlines. |
+| 10 | [10-incident-statement.md](10-incident-statement.md) | **Write today.** Declaration re: the group incident. |
 | — | [communication-log.md](communication-log.md) | Update after every contact |
 
 ---

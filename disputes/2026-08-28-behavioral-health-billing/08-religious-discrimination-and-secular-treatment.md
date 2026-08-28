@@ -81,20 +81,21 @@ Exclusion from a treatment group on religious grounds is a patient-rights violat
 under these standards. Accreditors take complaints seriously because accreditation is
 tied to reimbursement.
 
-### 4. ★★★ State public accommodation / civil rights law
+### 4. ⚠️ State public accommodation / civil rights law — weak in Florida
 
-**This is likely your strongest discrimination claim, and it is state-specific.**
+Generically this is a strong route: many state civil rights acts prohibit religious
+discrimination in public accommodations and expressly cover healthcare facilities.
 
-Many state civil rights acts prohibit discrimination on the basis of religion or
-"creed" in places of public accommodation, and many of them **expressly include
-healthcare facilities, clinics, and hospitals**. Non-belief is generally protected on
-the same terms as belief.
+**Florida is not one of the good ones.** The Florida Civil Rights Act (Fla. Stat.
+§ 760.08) covers religion, but § 760.02's definition of "public accommodation" tracks
+federal Title II — inns, restaurants, theaters — and does not clearly reach treatment
+facilities. Worth one attorney consult to confirm; do not build on it.
 
-Notably, some states attach **statutory minimum damages per violation** — California's
-Unruh Civil Rights Act, for example, provides a statutory minimum of $4,000 per
-violation, which would be an interesting number in this matter.
+If pursued, the Florida Commission on Human Relations deadline is **365 days**.
 
-**I need to know your state to identify the operative statute and agency.**
+See [09-florida-agencies-and-law.md](09-florida-agencies-and-law.md) for what to use
+instead — Florida's statutory patient rights (Fla. Stat. § 397.501 / § 394.459) and
+FDUTPA (§ 501.201) are the better vehicles.
 
 ### 5. ★★ Consumer protection / deceptive practices
 
@@ -113,29 +114,26 @@ level of care it did not receive — and your $4,000 copay is cost-sharing on se
 not delivered. The insurer's **Special Investigations Unit** has an independent
 financial motive to care about this. Copy them.
 
-### 7. ⚠️ Establishment Clause — powerful, but ONLY with state action
+### 7. ❌ Establishment Clause — NOT AVAILABLE HERE
 
-There is a strong, well-settled line of federal case law holding that **compelled**
-participation in 12-step programming violates the Establishment Clause, because
-AA/NA are religious in nature as a matter of law:
+**Answered: admission was voluntary, at a private facility, on private insurance. No
+state actor compelled the 12-step programming.**
 
-- *Kerr v. Farrey*, 95 F.3d 472 (7th Cir. 1996)
-- *Warner v. Orange County Dep't of Probation*, 115 F.3d 1068 (2d Cir. 1997)
-- *Griffin v. Coughlin*, 88 N.Y.2d 674 (1996)
-- *Inouye v. Kemna*, 504 F.3d 705 (9th Cir. 2007)
-- *Hazle v. Crofoot*, 727 F.3d 983 (9th Cir. 2013) — damages awarded to an atheist
-  compelled into a religious-based program
+There is a strong line of federal caselaw holding that *compelled* participation in
+twelve-step programming violates the Establishment Clause — *Kerr v. Farrey*, 95 F.3d
+472 (7th Cir. 1996); *Warner v. Orange County Dep't of Probation*, 115 F.3d 1068 (2d
+Cir. 1997); *Inouye v. Kemna*, 504 F.3d 705 (9th Cir. 2007); *Hazle v. Crofoot*, 727
+F.3d 983 (9th Cir. 2013).
 
-**The critical limitation:** these cases require **state action**. They apply where a
-court, probation officer, parole board, drug court, child welfare agency, professional
-licensing board, or state-run facility *compelled* the religious programming.
+**Every one of them requires state action, and there is none here. Do not cite them.**
+Asserting a constitutional claim against a private provider that plainly requires a
+state actor will cost you credibility on the claims that are actually strong.
 
-**If your admission was fully voluntary at a private facility paid by private
-insurance, the Establishment Clause does not directly apply to the facility.** Claiming
-otherwise will make a regulator discount everything else you say.
-
-→ **See the questions below. This is the single fact that determines whether this
-ground is available.**
+> **Remaining question:** did any part of this begin with a **Baker Act** involuntary
+> examination (Fla. Stat. § 394.463) or a **Marchman Act** petition? People in crisis
+> are sometimes brought in involuntarily and then converted to voluntary status. If law
+> enforcement, a court, or a physician's certificate was involved at any point, that
+> reintroduces a state actor.
 
 ### 8. ❌ Grounds that do NOT apply — do not cite these
 
@@ -154,30 +152,27 @@ Being accurate here protects your credibility:
 
 ---
 
-## ❓ Questions I need answered before drafting
+## ✅ Questions — answered
 
-These determine which grounds are live. Please answer all five.
+**Q1. State?** — **Florida.** See
+[09-florida-agencies-and-law.md](09-florida-agencies-and-law.md).
 
-**Q1. What state was the facility in, and what state do you live in?**
+**Q2. Compelled attendance?** — **No.** Voluntary admission while in crisis, private
+facility, private insurance. Establishment Clause unavailable. *Open sub-question: any
+Baker Act or Marchman Act involvement at intake?*
 
-> Determines the public accommodation statute, the licensing agency, and the patient
-> rights regulations.
+**Q4. The exclusion incident** — A group facilitator polled participants on their
+religious beliefs. When the patient stated he is an atheist, the facilitator began a
+prayer with the other participants, put his arms around them, turned his back to the
+patient, and said **"SOME of us will be praying."** Date to be confirmed. Full statement
+to be prepared in [10-incident-statement.md](10-incident-statement.md).
 
-**Q2. Was your attendance at this facility compelled by anyone, in any way?** Check all
-that apply:
+> **This incident is direct evidence that the session was not clinical group
+> psychotherapy.** A licensed clinician delivering billable `90853` group psychotherapy
+> does not poll patients on religious belief, lead group prayer, or physically and
+> verbally exclude a patient from the circle. Check the CPT code billed for that date.
 
-- [ ] Entirely voluntary — I chose to go
-- [ ] Court-ordered / condition of probation, parole, or diversion
-- [ ] Drug court or DUI/DWI program requirement
-- [ ] Condition imposed by a child welfare / family court matter
-- [ ] Required by a professional licensing board (nursing, medical, legal, pilot, etc.)
-- [ ] Required by an employer, EAP, or as a condition of continued employment
-- [ ] Required to maintain housing, benefits, or custody
-- [ ] Other: ______________________
-
-> **This is the decisive question for ground #7.** Any box other than the first
-> potentially puts a state actor in the picture and opens the Establishment Clause line
-> of cases.
+## ❓ Still needed
 
 **Q3. Was the facility private, or does it receive government funding?**
 
@@ -186,24 +181,6 @@ that apply:
 - [ ] Accepts Medicaid or Medicare
 - [ ] State- or county-operated
 - [ ] Unknown
-
-**Q4. The exclusion incident — this is the sharpest fact in the case. I need it precisely.**
-
-- Date (or approximate date): ______________________
-- Which group / what was it called: ______________________
-- Who excluded you (name, title): ______________________
-- **What exactly was said to you?** Verbatim if you can recall it:
-
-```
-
-
-```
-
-- Was a reason given in writing?
-- Were there witnesses (other residents, staff)?
-- What happened during that time instead — were you left unsupervised, given nothing,
-  sent to your room?
-- Did this happen once, or repeatedly?
 
 **Q5. Did you ask for a secular alternative?**
 

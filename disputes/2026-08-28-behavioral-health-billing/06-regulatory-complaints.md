@@ -8,6 +8,10 @@
 
 ---
 
+> **Florida-specific agencies, statutes, and deadlines are in
+> [09-florida-agencies-and-law.md](09-florida-agencies-and-law.md) — use that table, not
+> the generic one below.** The generic table remains for reference.
+
 ## Where to file
 
 | Body | What they act on | How to file |
