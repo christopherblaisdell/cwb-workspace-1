@@ -49,6 +49,91 @@ no consent document at all, or there is one bearing a signature you did not writ
 
 ---
 
+## ⭐⭐⭐ Specifics of the monitor placement — this is the detail that wins
+
+**Confirmed:** the screen displaying the live feed from **every bedroom** is mounted
+**behind the counter of the nurses' station** — the location where **every patient picks
+up medication** — and is in **direct view of every patient**.
+
+That is not "a monitor in a hallway." It is far more damaging, for four reasons.
+
+### 1. The exposure was universal, mandatory, and repeated
+
+Medication pickup is not optional and it is not occasional. Every resident must present
+at that window, **multiple times a day, every day of their stay.**
+
+So the facility didn't merely fail to secure the feeds. It **positioned them at the one
+location every patient is required to visit repeatedly**, guaranteeing that every resident
+viewed every other resident's bedroom, over and over, for the duration of their treatment.
+
+This is structural, not accidental. **Say exactly that.**
+
+### 2. It destroys the safety-monitoring defense completely
+
+The only conceivable justification for bedroom cameras is clinical monitoring by staff.
+
+If that were the purpose, the screen would be angled toward staff, privacy-filtered, or
+placed out of patient sightlines. Standard practice at any nurses' station is to position
+displays so patients cannot read them — because everything at a nurses' station is
+confidential.
+
+**Placing it in direct patient view is a design choice.** They took the privacy and did
+not even take the elementary step of shielding the display.
+
+### 3. The viewers were other patients — which is its own violation
+
+Under **42 C.F.R. Part 2**, the mere fact that a person is a patient in a substance use
+disorder program is protected. Other patients are **not authorized recipients** of that
+information.
+
+So every resident's status, and live images of them in their bedroom, were disclosed to a
+rotating population of other residents — repeatedly, by design.
+
+**Every patient is simultaneously a victim and a witness.** That is unusual and legally
+significant: it means the facts are identical across the entire resident population, which
+is exactly what makes a class action straightforward on commonality and typicality. It
+also means there are a great many witnesses.
+
+*(Do not contact them. Regulators and counsel can.)*
+
+### 4. ⭐ It proves staff had the feed directly in front of them
+
+The nurses' station is **where staff are stationed.** The monitor is at their post.
+
+That closes the loop on [19-intoxicated-resident-assault.md](19-intoxicated-resident-assault.md).
+When an intoxicated resident assaulted a sleeping patient in a bedroom, the live feed from
+that bedroom was displaying on a screen at the staffed nurses' station.
+
+Staff either saw it and did nothing, or were not watching a screen positioned at their own
+work station. **There is no benign third option.**
+
+### ✅ And it is verifiable in thirty seconds
+
+Like the missing handrail, this needs no credibility contest. **An inspector standing at
+the medication window either sees a monitor displaying patient bedrooms, or does not.**
+
+Put this sentence in the DCF, AHCA, and Joint Commission complaints:
+
+> "This can be confirmed by any inspector who stands at the medication window during a
+> med pass. The monitor displaying live feeds from patient bedrooms is behind the nurses'
+> station counter, facing the patient queue."
+
+That is an invitation to an unannounced inspection, and it is the kind of concrete,
+checkable allegation that gets one scheduled.
+
+### Questions to pin down
+
+- Approximate size of the screen, and how many rooms displayed at once (grid/multiplex)?
+- Could you identify specific individuals on it? Could you recognize yourself?
+- How far were you standing from it during med pass?
+- Was it on continuously, or only at certain times?
+- Was there any privacy filter, angle, or partial shielding?
+- Did any patient or staff member ever comment on it?
+- Did you ever raise it with staff? Response?
+- Were there other monitors elsewhere?
+
+---
+
 ## ⚖️ Legal exposure
 
 *Verify all citations before filing or asserting them.*
