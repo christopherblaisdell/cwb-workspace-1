@@ -147,6 +147,11 @@ limited to:
   m.  Copies of the facility's written policies on patient rights, religious
       accommodation and non-discrimination, treatment planning, and the patient
       grievance process, as in effect during my admission.
+  n.  Copies of every complaint or grievance I submitted in any form during my
+      admission, including written complaints, grievance forms, portal messages,
+      and notes provided to staff; the facility's grievance log entries
+      concerning me; and all records of any response, investigation, or
+      corrective action taken.
 
 ---------------------------------------------------------------------------
 PART TWO-A — ACCOUNTING OF DISCLOSURES AND AUTHORIZATION FORMS

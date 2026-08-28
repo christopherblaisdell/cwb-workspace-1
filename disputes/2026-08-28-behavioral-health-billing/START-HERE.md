@@ -59,6 +59,9 @@ visible. Save to `evidence/2026-08-28-website-capture/`.
 - The homepage testimonial where a patient writes **"I was able to have MY OWN BIBLE
   STUDY GROUP!!!!"** — a Christian patient's religious request accommodated and published
   as marketing, while yours was refused.
+- The facility page promising **"delicious catered meals"** and a **"wellness retreat"**
+  atmosphere, plus the testimonial saying **"the food was top notch"** — against a
+  refrigerator they logged at 67°F.
 
 Marketing copy and testimonials rotate. Once it's gone, it's gone.
 
@@ -128,6 +131,19 @@ mandate, and they can inspect facilities.
 
 **Make this call.** It costs nothing and they may take the whole thing.
 
+## 7a. File the food safety complaint — **Martin County Health Department**
+
+Environmental Health division. A separate agency with its own inspectors and its own
+authority to walk in.
+
+Tell them: **the facility's own daily log recorded 67°F**, residents were served spoiled
+milk and rotting food, and you complained in writing with no response. Safe cold holding
+is 41°F or below — 67°F is 26 degrees over, squarely in the bacterial danger zone.
+
+Ask them: *"Has this facility been inspected for food service, and are there prior
+violations relating to refrigeration?"* See
+[18-food-safety-refrigeration.md](18-food-safety-refrigeration.md).
+
 ---
 
 # 🟡 THIS WEEK
@@ -137,8 +153,8 @@ mandate, and they can inspect facilities.
 Template: [10-incident-statement.md](10-incident-statement.md). Florida allows an unsworn
 declaration — no notary needed.
 
-Cover all five: the fall, the cameras, the group session, the forged paperwork, the
-misdirected records.
+Cover all six: the fall, the cameras, the group session, the forged paperwork, the
+misdirected records, and the food/refrigerator.
 
 **The one rule that matters:** separate what you **saw** from what you were **told**. You
 saw the fall, the landing, the gurgling. You were *told* about the helicopter. Say so.

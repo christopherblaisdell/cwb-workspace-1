@@ -282,6 +282,19 @@ your facility during my dates of service, including but not limited to:
       or repair, and all fire marshal or building code inspection records and
       correspondence.
 
+  2d. All refrigerator and freezer temperature logs, food service and dietary
+      records, kitchen logs, and cold-holding records for my dates of service;
+      all repair, maintenance, and service records for refrigeration equipment,
+      including work orders, service calls, and vendor invoices; all food
+      purchasing, delivery, and disposal records; all health department
+      inspection reports and correspondence; and all records of resident
+      illness, gastrointestinal complaints, or nursing calls during that period.
+
+  2e. All complaints and grievances submitted by me in any form, including
+      written complaints, grievance forms, emails, portal messages, and notes,
+      together with the facility's grievance log and any response or
+      investigation records.
+
   3.  All records concerning the installation, configuration, placement,
       operation, retention settings, and viewing locations of any such
       monitoring system, including vendor contracts, invoices, work orders, and
