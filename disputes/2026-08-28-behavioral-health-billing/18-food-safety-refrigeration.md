@@ -148,6 +148,88 @@ delivered.
 
 ---
 
+## ⭐ You were sick — this makes you an injured party, not just a witness
+
+**Reported: nausea and diarrhea during the stay. Not reported to staff at the time.**
+
+This matters. On the food issue you are no longer only a complainant about conditions —
+you are someone who **ate food from a refrigerator the facility knew was running at 67°F
+and became ill.** That's a personal injury, and it's the difference between a regulatory
+complaint and a damages claim.
+
+### ⚠️ But be honest about the weakness — the defense writes itself
+
+**Nausea and diarrhea are also classic symptoms of withdrawal.**
+
+That is the first thing opposing counsel will say, and they'll say it confidently. It is
+a genuinely fair point, not a cheap shot. And because you didn't report it at the time,
+there is no contemporaneous documentation tying your symptoms to anything.
+
+I'm telling you this plainly because a claim you understand the weakness of is a claim
+you can present honestly. Overstating it would be the fastest way to damage your
+credibility on the parts of your case that are ironclad.
+
+### What could separate food poisoning from withdrawal
+
+Work through these — some may distinguish the two:
+
+| Question | Why it matters |
+|---|---|
+| **When during your stay?** | Acute withdrawal is front-loaded. Symptoms in week three, well past detox, point away from withdrawal. |
+| **Were you medically past detox?** | If your chart shows detox complete and CIWA scores at baseline, withdrawal is a weaker explanation. |
+| **Did symptoms follow meals?** | Onset hours after eating, repeatedly, is the classic foodborne pattern. |
+| **Did symptoms come and go with specific foods?** | Did you feel better on days you skipped the milk or ate less? |
+| **⭐ Were other residents sick at the same time?** | **This is the strongest discriminator.** Withdrawal doesn't spread. A cluster of simultaneous GI illness across residents at different stages of treatment is an outbreak pattern. |
+| **Did it continue after discharge?** | If it stopped when you left the building, that's telling. |
+| **Did you avoid eating?** | Did you skip meals or stop drinking the milk? That's both evidence and mitigation. |
+
+### The records may document it even though you didn't report it
+
+You didn't report it — but you may not have needed to. When your records arrive, look for:
+
+- **Nursing notes and MAR** — were you given anti-nausea medication (Zofran/ondansetron,
+  promethazine), anti-diarrheals, or fluids? Even a single administration is documentation.
+- **Vitals** — signs of dehydration.
+- **Whether your symptoms were charted as withdrawal.** If staff documented GI symptoms
+  and attributed them to withdrawal during a period when the refrigerator was logged at
+  67°F, that is a clinical failure in its own right — and it's exactly the misattribution
+  problem flagged above.
+- **Other residents' patterns** — you won't get their charts, but a health department or
+  regulator can look. **Tell them to.**
+
+### Ask the regulators the epidemiological question
+
+When you file with the **Martin County Health Department**, AHCA, and DCF, ask
+specifically:
+
+> "Were other residents treated for gastrointestinal symptoms during the period the
+> refrigerator was logged at 67°F? I experienced nausea and diarrhea myself. Please review
+> nursing records and medication administration records for GI complaints across the
+> resident population during that window."
+
+**You can't run that analysis. They can.** A cluster of GI illness among residents during
+the exact period of the temperature failure would be close to conclusive — and it would
+convert a paperwork violation into documented patient harm across the facility.
+
+### What to do now
+
+- [ ] **Write the symptoms into your incident statement** — dates or a range, severity,
+      duration, and what you did about it. Include that you did **not** report them, and
+      why. *(Being in a treatment facility, feeling unwell, assuming it was withdrawal —
+      that's an entirely ordinary reason and it reads as honest.)*
+- [ ] **Ask your wife** whether you mentioned feeling sick during any call or visit. A
+      contemporaneous mention to her is corroboration you didn't know you had. Texts from
+      that period are even better.
+- [ ] **Mention it to your current doctor.** A retrospective note is weaker than a
+      contemporaneous one, but a physician recording "patient reports GI symptoms during
+      residential treatment where refrigeration was documented at 67°F" is worth having in
+      a chart.
+- [ ] **Do not overstate it.** "I experienced nausea and diarrhea during my stay, which I
+      attributed to withdrawal at the time" is honest and defensible. "They poisoned me"
+      is not, and it would cost you.
+
+---
+
 ## ❓ What I need to know
 
 **1. Did anyone get sick?** ⭐ This is the question that matters most.
