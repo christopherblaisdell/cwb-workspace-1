@@ -256,7 +256,7 @@ can — redundancy is the point. Each one independently proves receipt.
 | 17 | [17-witnessed-patient-fall.md](17-witnessed-patient-fall.md) | **🚨 Witnessed sentinel event. Report immediately.** |
 | 18 | [18-food-safety-refrigeration.md](18-food-safety-refrigeration.md) | **⭐ 67°F fridge log — their own written admission.** |
 | 19 | [19-intoxicated-resident-assault.md](19-intoxicated-resident-assault.md) | **🚨 Two patient assaults; victim's stay extended.** |
-| 20 | [20-communication-ban.md](20-communication-ban.md) | **⭐ Devices confiscated — the frame for everything.** |
+| 20 | [20-communication-ban.md](20-communication-ban.md) | **⭐ Devices confiscated; contact on the facility's terms.** |
 | 21 | [21-payment-decision.md](21-payment-decision.md) | **⏰ Should the monthly payments stop?** |
 | 22 | [22-public-reviews-corroboration.md](22-public-reviews-corroboration.md) | **⭐ Public reviews corroborate device confiscation.** |
 | 23 | [23-facility-conditions.md](23-facility-conditions.md) | Bathroom locks, A/C failure, child on premises |

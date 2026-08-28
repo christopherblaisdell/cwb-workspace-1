@@ -223,41 +223,47 @@ Please check anything that applies and add detail:
 
 ---
 
-## ⭐ SECTION 0.9 — Being cut off, and whether I was sick
+## ⭐ SECTION 0.9 — Our phone calls, and whether I was sick
 
-### Part A — They wouldn't let us contact each other
+### Part A — The calls from the phone room
 
-The facility did not allow residents to text or correspond with family. That's part of
-why this is all coming out only now — and **the ban itself may be a violation of Florida
-patient rights law.** Your side of it is evidence, because your phone records and mail
-exist outside their control.
+They took my phone and locked it up. No texting, no letters. The only way I could reach
+you was a facility phone in one designated phone room.
+
+**You are a witness to those calls.** What I told you at the time, and how I sounded,
+matters — and so does anything odd about how the calls worked.
 
 | Question | Your answer |
 |---|---|
-| Did you try to call, text, write, or email me during my stay? | |
-| Roughly when, and how many times? | |
-| What happened — no answer, blocked, refused, message not passed on? | |
-| Did you speak to any staff member about reaching me? Who, and when? | |
-| **What exactly were you told?** (as close to their words as you can) | |
-| Were you told about this policy before I was admitted? | |
-| Did anyone at admissions mention we wouldn't be able to communicate? | |
-| Did you send anything by mail? Was it returned or unanswered? | |
-| Did you get any updates about me at all during the stay? From whom? | |
+| Roughly how often did we speak? | |
+| Approximate dates of the first and last calls | |
+| How long were the calls, typically? | |
+| Did I call you, or could you call in to me? | |
+| Did calls ever get cut off, or seem time-limited? | |
+| **Could you hear other people or staff in the background?** | |
+| **Did I seem guarded, careful, or like I couldn't speak freely?** | |
+| Did I ever say someone was listening or nearby? | |
+| Did I sound different than usual — flat, anxious, unwell? | |
+| Did I ever say I couldn't call, or that I'd lost phone privileges? | |
+| Did you ever try to reach me and get turned away? What were you told? | |
+| Did you try to send mail? Was it delivered? | |
 
-**Please check for records of your attempts** — these exist independently of the facility:
+> ⭐ **The "did he seem guarded" question is more important than it looks.** Florida law
+> protects the right to communicate *privately*. If I couldn't speak openly because staff
+> were within earshot, that's a violation — and you may have noticed it at the time without
+> either of us thinking about it.
 
-- [ ] Call logs showing calls to the facility or to my phone
-- [ ] Screenshots of undelivered texts
-- [ ] Emails to the facility, and any replies
-- [ ] Returned mail (**keep the envelope**)
-- [ ] Notes or a calendar entry about a call with staff
-
-**What was it like for you, not being able to reach me?**
+**⭐ What did I actually tell you on those calls?** Anything you remember, even in
+fragments — about the cameras, the food, the stairs, my roommates, the paperwork, feeling
+unwell, wanting to leave.
 
 ```
 
 
 ```
+
+- [ ] Check your **call log** for dates and durations — screenshot it
+- [ ] Did you write anything down, or mention it to anyone else at the time?
 
 ### Part B — Was I sick? (food poisoning vs. withdrawal)
 
@@ -269,38 +275,41 @@ I had **nausea and diarrhea** while I was there. I didn't report it to staff; I 
 was withdrawal. The facility will argue that's all it was, so anything that helps separate
 the two matters.
 
-Since we couldn't talk during the stay, what I'm really asking about is **right after I
-came home**:
-
 | Question | Your answer |
 |---|---|
-| **Our first real conversation after discharge** — what did I tell you about the place? | |
-| Did I say anything about being sick, the food, the milk, or the refrigerator? | |
-| Approximately when was that conversation? | |
-| Did I seem physically unwell when I came home? | |
-| Did I have stomach problems that continued after I got back? How long? | |
-| Had I lost weight? | |
-| Did I seem dehydrated, weak, or run down? | |
+| **Did I mention feeling sick on any of our calls?** Roughly when? | |
+| Did I say anything about the food, the milk, or the refrigerator? | |
 | Did I mention other residents being sick? | |
-| Did I see a doctor after discharge for anything stomach-related? | |
-| Did I mention the fall on the stairs, the cameras, or my roommates? | |
+| Did I mention not eating or skipping meals? | |
+| Did I sound weak, tired, or unwell? | |
+| **When I came home, did I seem physically unwell?** | |
+| Did stomach problems continue after discharge? How long? | |
+| Had I lost weight? | |
+| Did I see a doctor afterward for anything stomach-related? | |
 
-**Anything else I told you in those first days that stuck with you:**
+**Our first real conversation after I got home — what did I tell you about the place?**
 
 ```
 
 
 ```
-
-> **Why this matters:** what I said in the first days after discharge is the closest thing
-> to a contemporaneous account that exists, precisely because they wouldn't let us speak
-> while I was inside. If you wrote anything down, texted anyone about it, or mentioned it
-> to a friend or family member, that helps — please note who and roughly when.
 
 - [ ] Search your texts **from after my discharge** for: sick, stomach, rehab, Remedy,
       cameras, stairs, milk, food
 - [ ] **Please don't delete anything** from that period, and don't let the phone roll over
       an old backup
+
+### Part C — Aunt Pam
+
+I also spoke to **Aunt Pam** from that phone room. She's a witness too.
+
+| Question | Your answer |
+|---|---|
+| Her full name | |
+| Phone number and email | |
+| Do you know roughly how often we spoke? | |
+| Has she mentioned anything I told her? | |
+| Would she be willing to write a short signed statement? | |
 
 ---
 

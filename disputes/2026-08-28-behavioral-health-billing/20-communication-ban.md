@@ -1,143 +1,163 @@
-# 20 — Confiscation of Communication Devices; Blanket Ban on Family Contact
+# 20 — Confiscation of Communication Devices; Restricted Family Contact
 
-**Reported:** the facility **locked up residents' communication devices** and kept them.
-No texts, no correspondence with family. **A blanket policy applied to every resident.**
+**Corrected 2026-08-28.** An earlier version of this file said residents had **no** contact
+with family. **That was wrong, and I've fixed it.**
+
+## What actually happened
+
+- The facility **confiscated residents' personal communication devices** and locked them
+  up. Blanket policy, applied to everyone.
+- **No texting. No correspondence.**
+- Phone calls to family **were possible**, using a **facility-provided phone in a single
+  designated phone room**.
+- You spoke to your **wife** and your **aunt Pam** using that phone.
+
+> ⚠️ **This correction matters and you should be glad you caught it.** If a complaint had
+> said "no contact with family was permitted" and an inspector found a phone room, every
+> other allegation in an eleven-issue complaint would have been read more sceptically.
+> **The accurate version is narrower and much harder to rebut.**
 
 ---
 
-## ⭐ "Blanket" is the word that decides this
+## What remains a real problem
 
-Restricting communication in early treatment is not automatically improper. Many programs
-do it, and it can be clinically legitimate.
+Reframe from *"no communication"* to **"communication only on the facility's terms, through
+the facility's equipment, in the facility's room."**
 
-**But every framework that permits it requires the restriction to be individualized.**
+That's still substantial:
 
-| What the law contemplates | What you describe |
+| Issue | Status |
 |---|---|
-| **Individualized** to a specific patient's clinical need | **Applied to everyone** |
-| **Clinically justified**, documented in that patient's record | No individualized justification possible under a blanket rule |
-| **Time-limited**, with defined criteria for restoration | Apparently ongoing |
-| Subject to an **exception process** | Unknown |
-| Disclosed **in advance** | Nothing on their website |
+| Personal devices confiscated and held | **Stands.** Property + no ability to document conditions. |
+| Text messaging | **Prohibited** |
+| Written correspondence / mail | **Prohibited** — and hardest of all to justify clinically |
+| Phone calls | Permitted, but only via facility phone in one designated room |
+| Photographing conditions | **Impossible** — no camera |
+| Emergency access to outside help | **Unknown — see below. This is now the key question.** |
 
-A blanket rule is, by definition, not individualized. **That single fact is what converts
-this from a defensible program policy into a probable violation** — and it's why you
-should use the word "blanket" explicitly in every complaint.
+### Devices: unaffected by the correction
 
-### Two rights are implicated, not one
+The confiscation stands on its own, and it's corroborated publicly. A named Google
+reviewer states the facility **refused to return her phone and possessions** when she left
+AMA, telling her to come back in two weeks — see
+[22-public-reviews-corroboration.md](22-public-reviews-corroboration.md).
 
-**1. Communication.** Fla. Stat. § 394.459 protects patients' rights to communicate,
-correspond, and receive visits, permitting restriction only in limited documented
-circumstances. See also Fla. Stat. § 397.501 and Fla. Admin. Code r. 65D-30 for substance
-abuse licensure. *Verify current text and subsections.*
+Every framework permitting restriction still requires it to be **individualized, clinically
+justified in the patient's own record, time-limited, and disclosed**. A blanket rule cannot
+be individualized. **"Blanket" remains the operative word.**
 
-**2. Personal property.** Confiscating and holding a phone is separately a **property**
-issue. Florida patient rights provisions address the right to possess personal effects,
-with restrictions requiring documented justification in the individual's record. Locking
-up property under a blanket rule, with no individualized entry in the chart, is a distinct
-violation from the communication restriction.
+### The evidentiary point is undamaged
 
-**Check your records when they arrive.** Is there *any* entry justifying restriction of
-your phone or your communication? Under a blanket policy there almost certainly isn't —
-and that absence is the violation.
+You still could not photograph the bedroom cameras, the monitor at the med window, the
+stairway with no handrail, the 67°F refrigerator log, or the spoiled food.
 
-**Mail is the strongest point.** Restricting written correspondence is far harder to
-justify clinically than limiting phone calls.
+> "The facility confiscated all residents' personal devices under a blanket policy.
+> Residents had no means of photographing or recording conditions. The absence of
+> contemporaneous documentary evidence is a direct product of the facility's own policy."
 
----
-
-## ⭐⭐⭐ Nobody could call for help — and nobody could document anything
-
-This is the part that should lead your complaints.
-
-### No outside emergency access
-
-Residents had **no ability to call 911, family, a lawyer, or a regulator** — at a facility
-where, during your stay:
-
-- A sedated detox patient fell headfirst down a stairway and lay unconscious
-- A resident was assaulted in his sleep by an intoxicated roommate
-- Food was served from a refrigerator logged daily at 67°F
-- A written complaint went unanswered
-
-**In every one of those events, no resident could summon outside help.** The only channel
-was the facility itself — the same facility that had already written down each hazard and
-done nothing.
-
-That is not a communication policy. It is the removal of the last independent safeguard in
-a building where the internal safeguards had already failed.
-
-### And it explains why you have no photographs
-
-The devices that would have photographed the **cameras in the bedrooms**, the **stairway
-with no handrail**, the **67°F log posted on the refrigerator**, and the **spoiled food**
-were locked in a cabinet.
-
-**Say this whenever the absence of documentary evidence comes up:**
-
-> "The facility confiscated all residents' communication devices under a blanket policy.
-> Residents were physically unable to photograph conditions, contact anyone outside, or
-> summon emergency assistance. The absence of contemporaneous documentation is a direct
-> product of the facility's own policy."
-
-Whether or not that was the intent, it was the effect: **the policy prevented residents
-from documenting the exact conditions now at issue.** A regulator will notice that. So
-will a jury.
-
-### It bears on your voluntary status
-
-You were a **voluntary** patient. A voluntary patient retains the right to leave and to
-communicate with the outside world.
-
-A voluntary patient whose phone is locked in a cabinet, who cannot call family, and who
-cannot arrange transportation has a meaningfully impaired ability to exercise that right.
-*I'm not asserting a false imprisonment claim — that's a question for counsel, and it
-depends on facts I don't have.* But raise it with a lawyer, and note in your statement
-whether you were told how to leave, and whether you could have.
+That sentence survives the correction intact.
 
 ---
 
-## ⭐ The isolation is the thread connecting everything else
+## ⭐ The questions that now matter about the phone room
+
+The existence of a phone doesn't answer whether communication was **meaningful,
+**private**, or **available when it counted**. Please answer these:
+
+**Access**
+- Were calls **scheduled**, or could you go whenever you wanted?
+- What **hours** was the phone room available? Overnight?
+- Were calls **time-limited**? How long?
+- Was there a queue or sign-up?
+- Was access **withheld during any initial period** — a first-week blackout?
+- Could access be **taken away** as a consequence?
+
+**⭐ Privacy** — this is the legal core
+- Was the room **private**, or could staff hear you?
+- Was a staff member **present** during calls?
+- Were calls **monitored, recorded, or listened to**?
+- Could **other residents** hear?
+- Were you told calls might be monitored?
+
+> Fla. Stat. § 394.459 protects the right to communicate **privately**. A supervised or
+> overheard call is not private communication. If staff could hear you, the phone room
+> doesn't cure the problem — it relocates it.
+
+**⭐ Emergency access** — this is now the sharpest question
+- Could you have reached that phone at **3 a.m.**?
+- **Was the phone room open the night of the stairway fall?** During the assault?
+- Could you have called **911** from it?
+- Was the number **blocked or restricted** — could you call any number, or only approved
+  contacts?
+- Could you have called a **lawyer, a regulator, or the Abuse Hotline** privately?
+- Was there a posted list of numbers residents could call? *(Licensed facilities are
+  typically required to post abuse hotline and advocacy numbers.)*
+
+**Outgoing and incoming**
+- Could family call **in**? Or only you call out?
+- Could you send or receive **mail**? Was outgoing mail read?
+- Was there any **written policy** about any of this?
+
+> **Reframed for the complaints:** the issue is not that residents couldn't speak to
+> family. It's that all outside communication ran through **facility-controlled equipment,
+> in a facility-controlled room, on facility-controlled terms** — while every resident's
+> own device was locked away. Whether that left any real avenue to report a hazard, an
+> assault, or a medical emergency to someone outside is the question regulators should ask.
+
+---
+
+## ⭐ Your wife and your aunt Pam are witnesses
+
+This is the best thing to come out of the correction. **You spoke to them during your
+stay.** So contemporaneous verbal accounts exist, even without texts.
+
+What you told them at the time — and roughly when — is corroboration for the cameras, the
+food, your illness, and the conditions. It's not documentary, but a witness recounting what
+you said *while you were still inside* is meaningful.
+
+**Aunt Pam is a new witness I didn't know about.** Please get me:
+
+- Her full name and contact information
+- Roughly when you spoke and how often
+- **What you told her** — cameras, food, the fall, the assault, feeling sick, anything
+- Whether she wrote anything down, mentioned it to anyone, or noted it in a calendar
+- Whether she noticed anything about the calls — background noise, you sounding guarded,
+  the call being cut off, staff audible
+
+She may be worth a short signed declaration, same format as
+[10-incident-statement.md](10-incident-statement.md).
+
+**Ask your wife the same.** Her form has been updated.
+
+> ⭐ **One thing worth asking both of them:** did you seem **guarded or careful** on those
+> calls? If you couldn't speak freely because staff were within earshot, **that itself is
+> evidence** that the calls weren't private — and both of them may have noticed it at the
+> time without you realising.
+
+---
+
+## ⭐ The isolation framing — revised, and still strong
 
 | | |
 |---|---|
-| Cameras in every bedroom, feeds on public monitors | **No privacy inside** |
-| Devices confiscated; no calls, texts, or mail | **No contact outside** |
+| Cameras in every bedroom, monitor at the med window | **No privacy inside** |
+| Personal devices confiscated; no texts, no mail | **No independent means of contact or documentation** |
+| Calls only via facility phone, in a facility room | **Outside contact on the facility's terms** |
 | Written complaint ignored | **No internal recourse** |
 | Grievance process apparently never explained | **No formal channel** |
 | Intake papers signed by staff, not the patient | **No informed consent** |
 | Phone unanswered after discharge | **No accountability after** |
 
-**Residents were surveilled inside and cut off from outside, with no working grievance
-channel and no ability to call for help.**
+Residents were surveilled inside, stripped of their own means of contact, and left with no
+functioning grievance channel — in a building where a patient fell unconscious down an
+unsafe stairway, two residents were sexually assaulted, and food came from a 67°F
+refrigerator.
 
-That is the environment in which a patient fell down an unsafe stairway, a resident was
-assaulted while asleep, food came out of a 67°F refrigerator, and a man's records were
-faxed to a stranger. **None of it is coincidental.** Isolation is what lets a facility
-record a hazard and ignore it — because nobody outside can see, and nobody inside can
-tell.
+**That framing is accurate and it is enough.** It doesn't need the overstatement.
 
-**This belongs in the opening paragraph of your Joint Commission, AHCA, and DCF
-complaints.** It is the frame that makes eight separate complaints legible as one problem.
-
-It also connects to the forged signatures: a patient with no outside contact cannot consult
-family before documents are signed — or find out that they were signed for him.
-
----
-
-## Defensively: it explains every gap in your case
-
-Anticipate this and answer it before it's asked:
-
-| The defense will say | The answer |
-|---|---|
-| "He never told family he was sick." | Devices confiscated. Contact prohibited. |
-| "He has no photos of the cameras or the stairway." | Devices confiscated. |
-| "He never reported the assault or the fall to anyone outside." | No means to. |
-| "No contemporaneous record exists." | The facility created that absence. |
-
-Put that in your incident statement now, in your own words, before anyone forces you into
-it on cross-examination.
+It still connects to the forged signatures: a patient without his own phone, unable to
+photograph or email a document, cannot easily consult family before paperwork is signed —
+or discover that it was signed for him.
 
 ---
 

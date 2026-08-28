@@ -116,25 +116,20 @@ stated explicitly in the complaints.
   the facility for as long as the system has been running.
 - Public reviews reviewed — see [22](22-public-reviews-corroboration.md).
 
-### ❓ One thing I need you to clarify
+### ✅ RESOLVED — how he reached family
 
-You mentioned this to **your aunt Pam** and to **your wife** "at the time" — but the
-facility had confiscated your phone.
+He spoke to his **wife** and his **aunt Pam** using a **facility-provided phone in a single
+designated phone room**. Personal devices were confiscated; no texting, no mail.
 
-**How did you tell them?** A supervised or scheduled facility phone call? A visit? Or was it
-after discharge?
+[20-communication-ban.md](20-communication-ban.md) has been corrected — an earlier draft
+wrongly said there was no family contact at all.
 
-I'm not doubting you — I need it right because the answer matters two ways:
-
-- If there **were** scheduled or supervised calls, the communication ban was partial rather
-  than absolute, and I should soften how [20](20-communication-ban.md) is worded before it
-  goes to a regulator.
-- **Aunt Pam is a witness.** If you described the cameras to her contemporaneously, she can
-  attest to what you said and roughly when. That's independent corroboration you didn't
-  know you had.
-
-**Please get me:** how you spoke to her, roughly when, what you told her, and her contact
-information. She may be worth a short signed statement.
+**Consequences:**
+- **Aunt Pam is a witness**, previously unknown. Need her contact details and what he told
+  her. See the intake form, Section 0.9 Part C.
+- **His wife is a witness to the calls**, not only to the aftermath.
+- The open question is now whether those calls were **private** — Fla. Stat. § 394.459
+  protects private communication, and a supervised or overheard call isn't private.
 
 ### On audio — don't close this off yet
 
