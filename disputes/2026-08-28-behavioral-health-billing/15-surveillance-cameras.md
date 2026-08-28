@@ -49,6 +49,106 @@ no consent document at all, or there is one bearing a signature you did not writ
 
 ---
 
+## ✅ ANSWERED — the facts, as confirmed
+
+### The cameras
+
+| | |
+|---|---|
+| Coverage | **Every sleeping room.** Known because all rooms were visible on the grid at med pickup. |
+| Position | Near the ceiling |
+| Concealed? | **No — visible and obvious** |
+| Disclosed? | **Never.** No verbal or written disclosure. |
+| Signage? | **None** |
+| Audio? | **None heard** — see the note below |
+| Bathrooms | Not covered by cameras — **but bathrooms had no locks**, and residents frequently walked in on one another. See [23](23-facility-conditions.md). |
+
+### The monitor
+
+| | |
+|---|---|
+| Location | Behind the med pickup counter, **immediately to the right** |
+| Who could see it | **All nurses' station staff, and every patient collecting medication** |
+| Display | **All rooms simultaneously, in a grid** |
+| Legibility | ⭐ **Individuals were recognizable, and it was possible to see a person removing their shirt** |
+| Operation | **Continuous — 24/7** |
+
+### ⭐ You were recorded in your underwear, and you reported it
+
+- You changed clothes in your room **until you noticed the screen.**
+- The **air conditioning was not working properly and the room was very hot**, so you had
+  to sleep in underwear only.
+- You **raised it with the nurse at the station.** She told you to **"just change in the
+  bathroom."** You did.
+
+**Three things follow, and they are all significant.**
+
+**1. Actual notice.** You told a staff member, at the nurses' station, that the camera
+system was a privacy problem. The facility cannot claim nobody raised it. *(When your
+records arrive, check whether this is documented anywhere. If it isn't, that's a
+documentation failure on top of everything else.)*
+
+**2. Their "solution" made it worse.** They directed you to change in a room **with no
+lock**, in a mixed-population facility where residents walked in on each other — and where
+two sexual assaults were reported during your stay. That is not a remedy. It is a staff
+member deflecting a legitimate complaint with the first thing that came to mind.
+
+**3. The A/C failure is what put you on camera in your underwear.** You didn't choose to
+sleep undressed; the building was too hot. The facility's failure to maintain the air
+conditioning is what created the condition its own camera system then recorded and
+displayed. **Those two failures compound each other** — and that connection should be
+stated explicitly in the complaints.
+
+### Scope
+
+- Approximately **25 patients** in the facility
+- The youngest resident you're aware of was **18** — an adult
+- ⚠️ **A counselor brought their child onto the premises.** You don't believe the child
+  went behind the med counter. See [23](23-facility-conditions.md) — this is a separate
+  licensure and background-screening issue.
+
+### Evidence
+
+- **No photographs** — the facility confiscated your phone. See
+  [20](20-communication-ban.md).
+- ⭐ **Every resident who collected medication saw this.** In your words, *"it cannot be
+  missed."* That is roughly 25 witnesses at any given time, and everyone who passed through
+  the facility for as long as the system has been running.
+- Public reviews reviewed — see [22](22-public-reviews-corroboration.md).
+
+### ❓ One thing I need you to clarify
+
+You mentioned this to **your aunt Pam** and to **your wife** "at the time" — but the
+facility had confiscated your phone.
+
+**How did you tell them?** A supervised or scheduled facility phone call? A visit? Or was it
+after discharge?
+
+I'm not doubting you — I need it right because the answer matters two ways:
+
+- If there **were** scheduled or supervised calls, the communication ban was partial rather
+  than absolute, and I should soften how [20](20-communication-ban.md) is worded before it
+  goes to a regulator.
+- **Aunt Pam is a witness.** If you described the cameras to her contemporaneously, she can
+  attest to what you said and roughly when. That's independent corroboration you didn't
+  know you had.
+
+**Please get me:** how you spoke to her, roughly when, what you told her, and her contact
+information. She may be worth a short signed statement.
+
+### On audio — don't close this off yet
+
+You never *heard* audio, and that's the honest answer to give. But cameras commonly record
+audio without any indication to people in the room, and there is no way for you to know
+from looking at a housing near the ceiling.
+
+**Keep the question open for discovery.** Fla. Stat. § 934.10 provides liquidated statutory
+damages plus fees if audio was captured — see
+[16](16-recovery-and-hiring-counsel.md) — so it remains the single largest financial
+variable in the case. Tell your attorney it's unresolved rather than answered "no."
+
+---
+
 ## ⭐⭐⭐ Specifics of the monitor placement — this is the detail that wins
 
 **Confirmed:** the screen displaying the live feed from **every bedroom** is mounted

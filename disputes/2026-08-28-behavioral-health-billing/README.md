@@ -258,6 +258,8 @@ can — redundancy is the point. Each one independently proves receipt.
 | 19 | [19-intoxicated-resident-assault.md](19-intoxicated-resident-assault.md) | **🚨 Two patient assaults; victim's stay extended.** |
 | 20 | [20-communication-ban.md](20-communication-ban.md) | **⭐ Devices confiscated — the frame for everything.** |
 | 21 | [21-payment-decision.md](21-payment-decision.md) | **⏰ Should the monthly payments stop?** |
+| 22 | [22-public-reviews-corroboration.md](22-public-reviews-corroboration.md) | **⭐ Public reviews corroborate device confiscation.** |
+| 23 | [23-facility-conditions.md](23-facility-conditions.md) | Bathroom locks, A/C failure, child on premises |
 | — | [communication-log.md](communication-log.md) | Update after every contact |
 
 ---
