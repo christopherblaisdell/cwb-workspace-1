@@ -120,6 +120,55 @@ Do this today. Testimonials get rotated, and marketing copy gets rewritten.
 
 ---
 
+### ⭐ 6. The "Our Team" page names nobody — and that is a finding
+
+I checked `remedytherapybehavioralhealth.com/about/our-team/` in a full browser, scrolled
+to the bottom to trigger lazy loading, and extracted the rendered text.
+
+**There are no staff names on it. None.** No clinical director, no medical director, no
+therapists. No credentials, no licenses, no photographs with titles. The entire page is
+generic marketing prose.
+
+For a **Joint Commission–accredited** residential treatment facility, that is unusual.
+Legitimate programs name their medical director and clinical leadership with credentials,
+because those credentials are the product.
+
+**Consequences:**
+
+- You cannot verify any staff member's licensure from the facility's own materials.
+- It is consistent with a program whose clinical staffing would not withstand scrutiny —
+  which is the exact question raised by the group facilitator credentials in
+  [24](24-false-attendance-records.md) and [08](08-religious-discrimination-and-secular-treatment.md).
+- **Ask regulators directly:** *"Please identify the licensed clinical staff employed
+  during my dates of service, their credentials, and which of them facilitated each group
+  billed to my insurer."*
+
+### ⭐ 7. What the team page actually claims — more FDUTPA material
+
+Captured verbatim from the rendered page. Each of these is contradicted by something in
+your account:
+
+| Their claim | Your experience |
+|---|---|
+| "a dedicated team of **professional clinicians**, medical experts, and behavioral health personnel" | No staff names or credentials published anywhere; groups apparently circulated by an **activities director** |
+| "Our clinical staff is **extensively trained in the latest interventions and modalities**" | Programming was twelve-step; CBT requested and refused |
+| "**Trauma-informed** treatment" | Witnesses to a catastrophic head injury were handed an attendance sheet, not a debrief ([17](17-witnessed-patient-fall.md)) |
+| "**Cultural competency**" | Excluded from a group after disclosing his beliefs ([08](08-religious-discrimination-and-secular-treatment.md)) |
+| "**Empowering and inclusive** treatment" | *"SOME of us will be praying"* |
+| "**Patient-centered** treatment" | Blanket policies; devices confiscated; no individualized documentation |
+| "we meet the physical, emotional, social, and **spiritual** needs of our clients" | ⭐ An acknowledgment that spiritual content is part of the program — while **no page discloses that programming is twelve-step or religious** |
+
+> That last row is worth noting carefully. The team page concedes the program addresses
+> **spiritual** needs. The treatment pages disclose **nothing** about twelve-step or
+> religious content. So the facility knows the spiritual dimension is there and describes it
+> only in vague, appealing terms — which strengthens the **material omission** theory under
+> FDUTPA rather than weakening it.
+
+**Capture this page in your browser PDF too** — it's in the static capture, but print the
+rendered version alongside the testimonials.
+
+---
+
 ## Staff names appearing in public testimonials
 
 Useful for identifying your group facilitator. **Verify against your own memory — do not
