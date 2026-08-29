@@ -263,48 +263,80 @@ Submitting claims supported by false documentation is criminal in Florida. *Veri
 direct financial motive, and subpoena power you don't have. Whichever carrier is yours —
 BCBS, Cigna, UnitedHealthcare, Aetna, Magellan — has an SIU.
 
-### 3. ⭐⭐ Federal False Claims Act — if any federal money was involved
+### 3. ⭐⭐ Federal False Claims Act — the question is NOT about your insurance
 
-**This is potentially the largest financial dimension of your entire case, and it needs a
-specialist.**
+**Confirmed: you did not use Medicaid or Medicare.** Your care was billed to commercial
+insurance.
 
-If **Medicare, Medicaid, TRICARE, or any federally funded program** paid any part of any
-patient's care during the period false rosters were used, the facility may be liable under
-the federal **False Claims Act**, which provides treble damages and per-claim penalties.
+**That settles your own claim. It does not settle the qui tam question**, and the
+distinction matters:
 
-The FCA permits a private individual with original knowledge — a **qui tam relator** — to
-bring the case on the government's behalf and receive a **share of the recovery**
-(generally 15–30%).
+> A False Claims Act case does not depend on **your** payor. It depends on whether the
+> **facility** submitted claims to a federal program for **any patient** during the period
+> the false rosters were in use.
 
-**You may qualify.** You were asked directly to sign a false record. That is firsthand
-original knowledge.
+And that is very much a live question, because **those sheets had multiple signatures on
+them.** You were sitting at the top of the stairs with other residents. Everyone in the
+pool signed. **You have no idea who among them was on Medicaid, Medicare, or TRICARE — and
+you don't need to.** What you witnessed was a practice applied to a population, not to you
+alone.
 
-⚠️ **Critical practical points, and please take these seriously:**
+#### ⚠️ Three federal payors to check — one is already indicated
 
-- **The first-to-file rule.** Only the first relator to file on a given set of facts can
-  recover. If a former employee files before you, your claim is barred. **This is a reason
-  to move promptly.**
-- **Filings are made under seal** and served on the DOJ. There is a specific procedure and
-  you cannot do it yourself.
-- **Public disclosure can bar a claim.** Do **not** post about this publicly, do not
-  discuss it in online reviews, and be careful what you put in non-confidential
-  correspondence. *(Regulatory complaints are a different question — ask counsel about
-  sequencing before you file anything describing the false rosters.)*
-- **You need an FCA / qui tam attorney specifically.** This is a specialised bar. General
-  consumer lawyers do not handle it.
+| Payor | Status |
+|---|---|
+| **Medicare** | Unverified |
+| **Florida Medicaid** | ⚠️ **Conflicting data.** One directory lists the facility as accepting Medicaid; another lists only private, military, and self-pay. **Must be resolved.** |
+| **TRICARE / military insurance** | ⚠️ **A directory states they accept military insurance.** TRICARE is a **federal** program, and TRICARE fraud is FCA-actionable. |
 
-> ⛔ **Before you file the DCF, AHCA, or Joint Commission complaints, ask a qui tam attorney
-> whether describing the false attendance records in those filings could create a public
-> disclosure problem.** The other complaints — cameras, the fall, the food, the assaults —
-> are almost certainly fine to file now. This one item may need sequencing advice first.
->
-> **That is a genuine conflict between two of my recommendations, and I want you to see it
-> rather than trip over it.** The cameras and the stairway are urgent because physical
-> evidence disappears. The false rosters may benefit from a lawyer's guidance before
-> disclosure. You can file the others now and hold this one item for a week while you get
-> that advice.
+**That third row is the one I'd look at first.** It's the least obvious and it was
+affirmatively listed.
 
-### 4. Falsification of patient records
+#### How to check — 20 minutes, free
+
+- [ ] **Medicare:** CMS provider lookup at `medicare.gov/care-compare`, and the NPI registry
+      at `npiregistry.cms.hhs.gov` — search the facility name and 6300 SE Federal Highway
+- [ ] **Florida Medicaid:** the AHCA / Florida Medicaid provider search
+- [ ] **TRICARE:** the TRICARE provider directory at `tricare.mil`
+- [ ] **Their own website:** the insurance page lists BCBS, Cigna, UnitedHealthcare, Aetna —
+      check whether Medicare, Medicaid, TRICARE, or "military insurance" appear anywhere
+- [ ] **Just ask an admissions rep:** call and ask *"do you accept Medicare, Medicaid, or
+      TRICARE?"* as a prospective patient's family member would. That's a perfectly ordinary
+      question and takes two minutes.
+
+**Honestly: a qui tam attorney will resolve this faster than you can, and for free.** Don't
+spend hours on it. But don't assume it's closed either.
+
+#### ✅ The sequencing tension is reduced
+
+I earlier flagged that describing the false rosters in public regulatory complaints might
+create a **public disclosure** problem for an FCA claim. That concern is **lower** now —
+but not zero, because the facility's federal participation is unverified.
+
+**Practical resolution:** make **one** call to a qui tam attorney before you file anything
+describing the rosters. It's free, it takes one conversation, and it removes the question
+entirely. Everything else — the cameras, the fall, the food, the assaults, the handrail —
+**file now.** Those carry no such issue and the physical evidence is perishable.
+
+### 3a. ⭐ Your actual route: commercial insurance fraud
+
+Since your care was commercial, this is where **your** fraud reporting goes — and it's a
+strong channel:
+
+- **Your insurer's Special Investigations Unit.** Every carrier has one. They have
+  investigators, subpoena power, and a direct financial motive to recover money paid on
+  false claims. **Tell them the roster story with the verbatim quote.**
+- **Florida Department of Financial Services, Division of Investigative and Forensic
+  Services** — the state's insurance fraud investigators. 1-800-378-0445 *(verify)*.
+- **Florida Attorney General** — FDUTPA.
+- **Fla. Stat. § 817.234** applies to commercial insurance fraud, not only federal programs.
+  Submitting claims supported by false documentation is a crime in Florida regardless of
+  payor. *Verify.*
+
+> **Don't undervalue this.** An insurer that learns it paid for group therapy sessions
+> conducted in a swimming pool has every reason to investigate hard, claw back payments, and
+> potentially terminate the network contract. And if the claims are reversed, **your copay
+> on those claims goes with them.**
 
 Independently a licensure violation, reportable to DCF and AHCA, and to the Florida
 Department of Health as to any licensed individual who directed it.
