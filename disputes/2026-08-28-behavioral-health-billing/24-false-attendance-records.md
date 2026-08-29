@@ -3,6 +3,115 @@
 **Reported:** staff asked residents to **sign a paper stating they had attended a group
 meeting when no such meeting took place.**
 
+## 🔥 THE ONE THAT MATTERS: the roster signed after the fall
+
+**Confirmed, specific, and datable.**
+
+Residents were **sitting at the top of the stairs watching television**. A detox patient on
+Ativan **fell face-first down those stairs**, landed unconscious, and **they could hear him
+making gurgling sounds.** He was taken away by ambulance.
+
+**Immediately afterward, staff brought a paper to the residents sitting at the top of those
+stairs — saying they were having a group up there — and asked them to sign it.**
+
+---
+
+### ⭐⭐⭐ Why this is the exhibit
+
+Every other item in this case file depends to some degree on your word against theirs.
+**This one does not.** It creates a documentary contradiction that can be proven with two
+pieces of paper, neither of which is your testimony.
+
+```
+   COUNTY EMS / 911 RECORDS              THE FACILITY'S OWN BILLING
+   ─────────────────────────             ──────────────────────────
+   [DATE], approx [TIME]                 [SAME DATE], approx [SAME TIME]
+   6300 SE Federal Highway               6300 SE Federal Highway
+   Emergency response                    Group psychotherapy session,
+   Patient unconscious, head trauma      CPT 90853, billed to insurer
+   Trauma alert / air transport          Attendance roster signed by
+                                         [N] residents
+```
+
+**Both cannot be true.**
+
+A facility cannot simultaneously be conducting a billable clinical group therapy session
+and responding to a patient who has fallen unconscious down a staircase in the same
+building at the same moment — with the "group" consisting of the people watching it happen.
+
+### The evidentiary loop — and it closes on itself
+
+This is why the Chapter 119 public records request in
+[17-witnessed-patient-fall.md](17-witnessed-patient-fall.md) just became the most valuable
+thing you can do this week:
+
+1. **You may not recall the exact date. You don't need to.**
+2. The **county EMS run report, CAD log, and 911 recording** will give you the date and time
+   — from a neutral government source, immune to any argument about a former patient's
+   memory.
+3. With that date in hand, demand the **group attendance roster and the billing record for
+   that specific date** — already covered by letter [#01](01-itemized-bill-and-records-request.md).
+4. If a group was documented or billed for that date and time, **the contradiction is
+   complete**, and it is proven entirely with the facility's records and the county's
+   records.
+
+**Neither document comes from you.** That is as strong as documentary evidence gets in a
+case like this.
+
+### And it anchors everything else
+
+Once one roster is proven false against a government record, the credibility question
+inverts. It is no longer *"can this former patient be believed about the pool?"* It becomes
+*"this facility documented a therapy group during a trauma response — what else in these
+records is fabricated?"*
+
+**One provable falsification makes every other roster suspect.** That is how this fact does
+work far beyond its own date.
+
+### The human fact, which regulators will not miss
+
+Set the billing aside for a moment.
+
+Residents had just watched a man fall face-first down a staircase and lie unconscious,
+audibly struggling to breathe. They heard the gurgling. They watched him leave in an
+ambulance.
+
+**And staff came to them with a form.**
+
+Not a debrief. Not a check-in. Not crisis support for a room full of people in early
+recovery who had just witnessed a catastrophic injury — in a **behavioral health facility**,
+where processing a traumatic event is the actual service being sold.
+
+**A signature request.**
+
+That is its own care failure, and it should be stated plainly in the Joint Commission, DCF,
+and AHCA complaints as a separate finding:
+
+> "Following a patient's serious injury witnessed by other residents, the facility provided
+> no clinical debriefing or crisis intervention. Staff instead presented the witnesses with
+> a group attendance sheet for a session that had not occurred."
+
+I'm sorry. That's a grim thing to have been on the receiving end of, and you shouldn't have
+been.
+
+### ⭐ What to do with this specifically
+
+- [ ] **Write it into your statement today**, in sequence: where you were sitting, what you
+      were doing, what you saw, what you heard, the ambulance, then the paper and what was
+      said.
+- [ ] **Separate what you saw from what you were told** — you saw the fall and heard the
+      gurgling; you were *told* about the helicopter and the trauma center.
+- [ ] **Send the Chapter 119 requests this week.** They now do double duty: they corroborate
+      the fall *and* they date the false roster.
+- [ ] **Note who brought the paper** — name, role, description.
+- [ ] **Note who else signed** — first names only. Every one of them is a witness to both
+      the fall and the false roster. **Do not contact them.**
+- [ ] **Note whether the TV was on**, and what you were actually doing. "Sitting at the top
+      of the stairs watching television" is the honest description.
+- [ ] Tell your attorney this is the anchor fact. Lead with it.
+
+---
+
 ## ⭐⭐⭐ The verbatim account — write this down today, exactly
 
 > Residents would be **swimming in the pool**, or **sitting on the couch watching TV**.

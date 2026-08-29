@@ -9,6 +9,53 @@ transported to a trauma center **by helicopter**.
 
 ---
 
+## 🔥 The aftermath — and why this date is now the anchor of the entire case
+
+**Confirmed:** residents were **sitting at the top of the stairs watching television** when
+the fall happened. They heard the gurgling. They watched him leave by ambulance.
+
+**Immediately afterward, staff brought them a paper stating they were having a group up
+there, and asked them to sign it.**
+
+See [24-false-attendance-records.md](24-false-attendance-records.md).
+
+### This transforms the public records request below
+
+The Chapter 119 request is no longer only corroboration of the fall. **It dates a false
+billing record.**
+
+```
+   COUNTY EMS / 911 RECORDS              THE FACILITY'S OWN BILLING
+   ────────────────────────             ─────────────────────────
+   [DATE], approx [TIME]                 [SAME DATE], approx [SAME TIME]
+   6300 SE Federal Highway               6300 SE Federal Highway
+   Emergency response                    Group psychotherapy session,
+   Patient unconscious, head trauma      CPT 90853, billed to insurer
+   Trauma alert / transport              Roster signed by [N] residents
+```
+
+**Both cannot be true.** And neither document comes from Christopher.
+
+**You don't need to remember the date.** The EMS records will supply it. Then demand the
+roster and billing for that date — already covered by letter
+[#01](01-itemized-bill-and-records-request.md).
+
+### A separate care failure to report
+
+A room of people in early recovery watched a man suffer a catastrophic head injury and
+heard him struggling to breathe. In a behavioral health facility, that is a clinical event
+requiring debriefing and crisis support.
+
+They received a signature request instead.
+
+State it as its own finding:
+
+> "Following a patient's serious injury witnessed by other residents, the facility provided
+> no clinical debriefing or crisis intervention. Staff instead presented the witnesses with
+> a group attendance sheet for a session that had not occurred."
+
+---
+
 ## ⚠️ Your role here is different — read this first
 
 **You are a witness, not a victim.** You have no personal damages from this event, and it
