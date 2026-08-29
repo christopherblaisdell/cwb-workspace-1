@@ -1,3 +1,20 @@
+# Privacy policy for this repo.
+#
+# EXCLUDED (never committed): protected health information, medical records,
+# scanned evidence, and the filled case-facts file. These stay out of git
+# history permanently.
+#
+# INCLUDED (deliberately): the patient's name and mailing address appear in
+# ready-to-send letter templates. Those letters are meant to be printed and
+# mailed, and the name and address are on the envelope anyway. Substituting
+# placeholders would make them less usable.
+#
+# Consequence: this repo contains PII (name/address) but no PHI. It is safe to
+# keep locally and to hand to an attorney. It should NOT be pushed to a public
+# remote. If it ever needs to be published, scrub the name and address first --
+# and note that rewriting git history would invalidate existing backup bundles,
+# so make a fresh backup before doing so.
+
 # Protected health information and case evidence must never enter git history.
 disputes/**/evidence/*
 !disputes/**/evidence/README.md
