@@ -265,21 +265,31 @@ because it survives contact with an inspector.
 
 *Verify all citations before filing or asserting them.*
 
-### 1. ⭐ Florida video voyeurism — Fla. Stat. § 810.145 (criminal)
+### 1. ❌ WITHDRAWN — Florida video voyeurism, Fla. Stat. § 810.145
 
-Florida criminalizes intentionally using an imaging device to view or record another
-person, without consent, at a location where that person has a **reasonable expectation
-of privacy**. A bedroom in a residential facility is a paradigm example.
+**Corrected 2026-09-05. Do not assert this, and do not contact the Sheriff's Office on
+this basis.**
 
-Related provisions address **dissemination** of such images, which is where the public
-screens become relevant.
+The earlier version of this section said Florida criminalizes intentionally using an
+imaging device to view or record a person without consent where they have a reasonable
+expectation of privacy. **That statement omits the statute's purpose element.** § 810.145
+requires that the viewing or recording be *for the amusement, entertainment, sexual
+arousal, gratification, or profit of any person, or for the purpose of degrading or
+abusing another person.*
 
-**This is a criminal statute.** I am not telling you to file a police report today —
-that's a decision to make with counsel, and it has consequences worth thinking through.
-But you should understand what category this falls into, and so should the facility's
-compliance officer and its accreditor.
+A facility that characterizes the system as safety monitoring almost certainly defeats
+that element. A report filed on this theory gets declined — and defense counsel then cites
+the declination as evidence of overreach across the entire matter. **The cost of being
+wrong here is not zero; it is paid out of the credibility of every other claim in the
+file.**
 
-- If you do report: **Martin County Sheriff's Office** has jurisdiction (Stuart, FL).
+**None of this weakens the camera allegation.** It remains strong under §§ 2–5 below:
+licensure and patient dignity, HIPAA/Part 2 incidental disclosure, intrusion upon
+seclusion, and public disclosure of private facts. Those are the correct vehicles. Use them.
+
+> If audio was captured, § 934.03 and the § 934.10 civil action **are** in play, and that
+> is a genuinely different question. See [FACT-REGISTER.md](FACT-REGISTER.md) § 2.9 —
+> it is still open, and § 934.10 carries the shortest limitations period in the case.
 
 ### 2. Intrusion upon seclusion (civil)
 

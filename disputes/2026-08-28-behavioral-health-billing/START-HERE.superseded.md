@@ -1,4 +1,19 @@
-# START HERE — Your Action Plan
+# ⛔ SUPERSEDED — DO NOT ACT ON THIS FILE
+
+> **Retained 2026-09-05 for history only.** The live plan is
+> [START-HERE.md](START-HERE.md), and the authoritative ordering is in
+> [AUDIT-2026-09-05.md](AUDIT-2026-09-05.md) Part 5.
+>
+> **Known defects in the text below:** the document count is wrong; the website capture
+> is listed as a to-do but was completed 2026-08-28; the phone script at §13 asserts the
+> forgery, the fax, and "cameras in every bedroom" as flat fact without the hedges those
+> claims require; and the sequencing conflicts with both the live plan and README.
+>
+> Reading it is fine. Acting on it is not.
+
+---
+
+# START HERE — Your Action Plan *(historical)*
 
 **Read this one page. Ignore everything else in this folder until you've done Day 1.**
 

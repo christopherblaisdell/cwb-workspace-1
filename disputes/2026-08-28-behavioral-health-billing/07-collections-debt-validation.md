@@ -12,17 +12,43 @@
 
 ## Key protections to know
 
+- ⭐ **Florida Consumer Collection Practices Act — Fla. Stat. § 559.72.** *Added
+  2026-09-05; this was missing from the entire case file and it is the most useful
+  statute available to you here.*
+
+  **The FDCPA below generally reaches only third-party collectors. The FCCPA reaches
+  the original creditor too — the facility itself.** It provides actual damages,
+  statutory damages, punitive damages, and **attorney's fees**, which is what makes a
+  small-dollar consumer claim worth a lawyer's time.
+
+  Two subsections matter most:
+  - **§ 559.72(9)** — prohibits asserting the existence of a legal right "when such
+    person knows that the right does not exist." **If the financial agreement does not
+    bear your genuine signature, and the facility keeps demanding payment after being
+    told so in writing, this is squarely in play.** Which is precisely why the written
+    dispute, sent certified, matters more than any phone call.
+  - **§ 559.72(7)** — prohibits conduct that can reasonably be expected to harass or
+    abuse.
+
+  Send the dispute in writing, keep the green card, and note the date they received it.
+  Everything after that date is on the record.
+
 - **FDCPA (15 U.S.C. § 1692g):** written dispute within 30 days → collection must stop
   until validation is provided.
 - **Reg F (12 C.F.R. Part 1006):** limits contact frequency; you can demand they stop
   calling and communicate only in writing.
 - **Medical debt credit reporting:** the three nationwide bureaus do not report paid
   medical collections, do not report medical collections under **$500**, and impose a
-  **one-year delay** before any medical collection appears. Newer CFPB rules further
-  restrict medical debt in credit decisions — check current status.
+  **one-year delay** before any medical collection appears. ⚠️ **These are voluntary
+  bureau policies, not statute** — they can change without notice, and the CFPB
+  rulemaking in this area is unsettled. Do not rely on them as legal rules.
 - **FCRA (15 U.S.C. § 1681s-2):** a furnisher must report a disputed debt as disputed.
-- Never let a collector talk you into a payment plan before validation. Partial payment
-  can restart the statute of limitations in some states.
+  ⚠️ Note that **§ 1681s-2(a) has no private right of action** — this is leverage and a
+  duty to recite, not a claim you can bring.
+- Never let a collector talk you into a payment plan before validation. **Partial payment
+  can restart the limitations period, and Florida recognizes this for written
+  obligations.** It may also be argued as ratification of an agreement you say is not
+  yours — see [FACT-REGISTER.md](FACT-REGISTER.md) § 3.5.
 
 ---
 
@@ -80,8 +106,8 @@ II. VALIDATION REQUESTED
           Explanations of Benefits, establishing the basis for the alleged
           patient-responsibility amount.
       5.  The date of the last payment or activity on the account, and your
-          calculation of the applicable statute of limitations in [YOUR STATE].
-      6.  Proof of your license to collect debts in [YOUR STATE], with license
+          calculation of the applicable statute of limitations in Florida.
+      6.  Proof of your license to collect debts in Florida, with license
           number.
 
 III. NOTICE OF PRE-EXISTING DISPUTE
@@ -115,8 +141,8 @@ If you cannot produce the validation requested above, you must cease collection
 activity and delete any reporting of this account.
 
 I am maintaining a complete record of this matter and will file complaints with
-the Consumer Financial Protection Bureau, the [YOUR STATE] Attorney General, and
-the [YOUR STATE] [COLLECTION AGENCY LICENSING BOARD] if my rights under the
+the Consumer Financial Protection Bureau, the Florida Attorney General, and
+the Florida [COLLECTION AGENCY LICENSING BOARD] if my rights under the
 FDCPA or FCRA are not respected.
 
 Sincerely,

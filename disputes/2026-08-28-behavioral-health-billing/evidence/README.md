@@ -1,7 +1,41 @@
 # Evidence
 
-Scanned proof of delivery and documents received. **Contents of this folder are
-git-ignored** — see the note below.
+Scanned proof of delivery and documents received.
+
+## What is and is not in git — updated 2026-09-05
+
+| | Tracked in git? | Why |
+|---|---|---|
+| **Everything in this folder by default** | ❌ No | It is protected health information. It never enters git history. |
+| **`*-website-capture/` subfolders** | ✅ **Yes, as of 2026-09-05** | These are captures of the facility's **public marketing website**. No PHI, and none was ever possible. |
+
+**The reason for the exception is chain of custody, and it matters more than it sounds.**
+
+A SHA-256 manifest proves that files have not changed *since the manifest was written*.
+It proves nothing about **when** it was written — the sums file was produced by the same
+operator, on the same machine, in the same minute as the files it certifies, and it can be
+regenerated at will. Under the old blanket exclusion, the capture had **no anchored
+timeline at all**.
+
+Committing it fixes that. Do all three of these, they take minutes and they are free:
+
+1. **Commit it signed** — `git commit -S` — and then leave it alone. Do not amend.
+2. **Email `SHA256SUMS.txt` to yourself** through an external provider. The provider's
+   received-header timestamp is third-party evidence you do not control.
+3. **Run OpenTimestamps** over `SHA256SUMS.txt` for an RFC 3161 trusted timestamp.
+
+Verify the capture at any time from inside the capture directory:
+
+```
+shasum -a 256 -c SHA256SUMS.txt
+```
+
+*Last verified 2026-09-05: 48 of 48 files OK, 0 failed.*
+
+> ⚠️ **Full-disk encryption.** The earlier note here assumed FileVault is on by default.
+> That is true only for Macs configured through Setup Assistant on recent versions. For a
+> folder holding substance-use treatment records, **check it rather than assume it**:
+> System Settings → Privacy & Security → FileVault.
 
 ## Naming convention
 

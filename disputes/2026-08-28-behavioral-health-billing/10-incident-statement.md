@@ -40,11 +40,20 @@ my own personal knowledge:
 1.  I was a resident at [FACILITY LEGAL NAME], located at [FACILITY ADDRESS],
     from on or about [ADMIT DATE] through on or about [DISCHARGE DATE].
 
-2.  I entered treatment voluntarily. At the time of my admission I was in
-    crisis and was seeking care for [general description — you need not detail
-    your diagnosis].
+2.  At the time of my admission I was in crisis and was seeking care for
+    [general description — you need not detail your diagnosis].
 
-3.  I am an atheist. I do not hold religious beliefs.
+    > ⚠️ **Do not write "I entered treatment voluntarily" until you have checked
+    > the admission packet.** This statement is signed under penalty of perjury,
+    > and the answer is currently unverified. Look for "involuntary examination,"
+    > "certificate," "petition," a law enforcement transport form, or a 72-hour
+    > hold reference. If any Baker Act or Marchman Act process touched the
+    > admission at any point, a state actor is in the picture and the legal
+    > analysis changes substantially. See [FACT-REGISTER.md](FACT-REGISTER.md)
+    > § 5.10.
+
+3.  I am a member of The Satanic Temple, which the Internal Revenue Service
+    recognized as a church in 2019. I do not hold theistic religious beliefs.
 
 BACKGROUND: PROGRAM CONTENT
 

@@ -1,5 +1,20 @@
 # 06 — Regulatory Complaints
 
+> ⛔ **LARGELY SUPERSEDED as of 2026-09-05.** Use
+> [09-florida-agencies-and-law.md](09-florida-agencies-and-law.md) for routing and
+> [AUDIT-2026-09-05.md](AUDIT-2026-09-05.md) Part 5 for sequencing.
+>
+> **Two defects to know about before using anything here.** First, the generic routing
+> table below predates the facility being identified. Second — and more important — the
+> "reusable narrative" in this file covers three grounds and **omits the fall, the
+> cameras, the signatures, the records disclosure, and the food.** Those are the five
+> most serious issues in the case. Filing this narrative as written would understate the
+> complaint dramatically.
+>
+> 🔴 **Sequencing:** nothing about the attendance rosters is filed publicly until one
+> qui tam consultation clears the False Claims Act first-to-file and public-disclosure
+> questions. See [AUDIT-2026-09-05.md](AUDIT-2026-09-05.md) R4.
+
 > **File all of these in the same week.** They are free, they run in parallel, and each
 > one independently forces a written response from the facility. A facility that
 > ignores a patient will not ignore its licensing board or its accreditor.
@@ -17,18 +32,18 @@
 | Body | What they act on | How to file |
 |---|---|---|
 | **HHS Office for Civil Rights** | Denial of HIPAA right of access (missed 30-day records deadline). Strongest and most direct lever. | `ocrportal.hhs.gov/ocr/cp` — must file within 180 days of the violation |
-| **[YOUR STATE] behavioral health licensing agency** | Quality of care, treatment plan failures, staffing, patient rights. Usually the Dept. of Health, Dept. of Behavioral Health/Human Services, or a substance use licensing division. | Search "[YOUR STATE] file complaint behavioral health facility" |
+| **Florida behavioral health licensing agency** | Quality of care, treatment plan failures, staffing, patient rights. Usually the Dept. of Health, Dept. of Behavioral Health/Human Services, or a substance use licensing division. | Search "Florida file complaint behavioral health facility" |
 | **The Joint Commission** | Accredited facilities. Investigates quality/safety and can put accreditation at risk. | `jointcommission.org` → Report a Patient Safety Event. Find who accredits them at `qualitycheck.org` |
 | **CARF International** | If CARF-accredited instead. | `carf.org` → file a complaint |
-| **[YOUR STATE] civil rights commission / human rights agency** | Religious discrimination in a place of public accommodation. Many state statutes expressly cover healthcare facilities and protect non-belief. **Short filing deadlines — often 180 days to 1 year from the incident. Check first.** | Search "[YOUR STATE] civil rights commission file complaint public accommodation" |
-| **[YOUR STATE] Attorney General, Consumer Protection** | Deceptive billing, unresponsiveness, billing for services not rendered, misrepresenting the program as evidence-based. | State AG website consumer complaint form |
-| **[YOUR STATE] Department of Insurance** | Insurer's handling of the claim; copay/parity violations. | State DOI consumer complaint form |
+| **Florida civil rights commission / human rights agency** | Religious discrimination in a place of public accommodation. Many state statutes expressly cover healthcare facilities and protect non-belief. **Short filing deadlines — often 180 days to 1 year from the incident. Check first.** | Search "Florida civil rights commission file complaint public accommodation" |
+| **Florida Attorney General, Consumer Protection** | Deceptive billing, unresponsiveness, billing for services not rendered, misrepresenting the program as evidence-based. | State AG website consumer complaint form |
+| **Florida Dept. of Financial Services, Div. of Consumer Services** | Insurer's handling of the claim; copay/parity violations. **This is Florida's insurance complaint venue — there is no Florida "Department of Insurance."** | `myfloridacfo.com/division/consumers` or 1-877-693-5236 |
 | **U.S. DOL / EBSA** | If employer self-funded plan — plan's failure to follow claims procedures. | 1-866-444-3272 or `askebsa.dol.gov` |
 | **Consumer Financial Protection Bureau** | Any collection or credit-reporting activity on a disputed medical debt. | `consumerfinance.gov/complaint` |
 | **SAMHSA** | Not a complaint body, but if the facility holds SAMHSA grant funding, grant conditions require non-discrimination. Worth checking their funding. | `samhsa.gov` |
 | **Freedom From Religion Foundation / American Atheists / ACLU affiliate** | Will sometimes take religious-coercion-in-treatment matters, especially if attendance was court- or state-mandated. Free intake. | `ffrf.org`, `americanatheists.org/legal`, your state ACLU |
 | **State Medicaid Program Integrity / HHS-OIG** | Only if Medicaid/Medicare paid any portion AND you find services billed but not rendered. | `oig.hhs.gov/fraud/report-fraud` |
-| **NAMI / state protection & advocacy agency** | Free advocacy support for behavioral health patients. Every state has a federally funded P&A agency. | Search "[YOUR STATE] protection and advocacy mental health" |
+| **NAMI / state protection & advocacy agency** | Free advocacy support for behavioral health patients. Every state has a federally funded P&A agency. | Search "Florida protection and advocacy mental health" |
 
 ---
 
@@ -200,8 +215,9 @@ following:
      (Complaint No. [NUMBER])
   •  [STATE LICENSING AGENCY] (Complaint No. [NUMBER])
   •  [THE JOINT COMMISSION / CARF] (Incident No. [NUMBER])
-  •  [STATE] Attorney General, Consumer Protection Division (No. [NUMBER])
-  •  [STATE] Department of Insurance (No. [NUMBER])
+  •  Florida Attorney General, Consumer Protection Division (No. [NUMBER])
+  •  Florida Department of Financial Services, Division of Consumer Services
+     (No. [NUMBER])
 
 Each complaint includes copies of my correspondence and the certified mail
 return receipts establishing your facility's receipt and non-response.

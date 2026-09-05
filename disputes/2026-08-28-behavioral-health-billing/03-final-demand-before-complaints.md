@@ -1,5 +1,14 @@
 # 03 — Final Demand Before Filing Complaints (Send ~Day 31)
 
+> 🔴 **BLOCKED as of 2026-09-05. Letter `01` has not been sent.** Same defect as
+> [02](02-followup-no-response.md) — this letter recites a history that has not happened.
+>
+> ⚠️ **Two threats were removed on 2026-09-05:** the Medicaid program integrity / HHS-OIG
+> fraud referral (no verified federal payor predicate — see
+> [AUDIT-2026-09-05.md](AUDIT-2026-09-05.md) R4), and the "Department of Insurance"
+> (no such Florida agency — R7). **Do not threaten anything you are not positioned to do.**
+> A hollow threat, once called, costs you the credibility of the real ones.
+
 > **Send by:** Certified Mail w/ Return Receipt to the facility **and** to the
 > corporate registered agent + fax + email + portal.
 >
@@ -116,16 +125,13 @@ of this correspondence and the delivery receipts establishing your non-response:
 
   •  U.S. Department of Health and Human Services, Office for Civil Rights —
      denial of right of access under 45 C.F.R. § 164.524.
-  •  [YOUR STATE] [BEHAVIORAL HEALTH LICENSING AGENCY] — licensure complaint
+  •  Florida [BEHAVIORAL HEALTH LICENSING AGENCY] — licensure complaint
      addressing both the records/billing conduct and the quality of care
      provided during my admission.
   •  [THE JOINT COMMISSION / CARF] — accreditation complaint.
-  •  [YOUR STATE] Attorney General, Consumer Protection Division.
-  •  [YOUR STATE] Department of Insurance.
+  •  Florida Attorney General, Consumer Protection Division.
+  •  Florida Department of Financial Services, Division of Consumer Services.
   •  Consumer Financial Protection Bureau.
-  •  [If applicable] The [STATE] Medicaid program integrity unit and/or the HHS
-     Office of Inspector General, as to any charge billed but not rendered.
-
 I am also prepared, if the itemization ultimately shows services billed that
 were not delivered, to pursue all remedies available to me.
 

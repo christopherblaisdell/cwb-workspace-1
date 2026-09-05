@@ -1,5 +1,15 @@
 # 02 — Follow-Up: No Response (Send ~Day 15)
 
+> 🔴 **BLOCKED as of 2026-09-05. Letter `01` has not been sent.**
+> This letter recites the sending and non-answer of `01` as historical fact. Until
+> [communication-log.md](communication-log.md) shows a real send date and tracking
+> number, **those recitals are false on their face** and this letter cannot go out.
+>
+> 📎 **Merge pending.** [AUDIT-2026-09-05.md](AUDIT-2026-09-05.md) Part 3 recommends
+> combining this with [03](03-final-demand-before-complaints.md) — they are ~75%
+> identical and share a deadline. Two letters saying the same thing *dilute* the
+> deadline. One letter, sent once, with the complaints filed on schedule, is stronger.
+
 > **Send by:** Same channels as #01 — Certified Mail w/ Return Receipt + fax + email
 > + portal. Attach a copy of letter #01 and the delivery proof (green card / e-receipt
 > / fax confirmation).
@@ -102,10 +112,11 @@ with the following, without further notice:
 
   •  U.S. Department of Health and Human Services, Office for Civil Rights
      (denial of HIPAA right of access, 45 C.F.R. § 164.524);
-  •  [YOUR STATE] [LICENSING AGENCY NAME], which licenses this facility;
+  •  Florida [LICENSING AGENCY NAME], which licenses this facility;
   •  [THE JOINT COMMISSION / CARF], your accrediting organization;
-  •  [YOUR STATE] Attorney General, Consumer Protection Division;
-  •  [YOUR STATE] Department of Insurance, as to the handling of my claim; and
+  •  Florida Attorney General, Consumer Protection Division;
+  •  Florida Department of Financial Services, Division of Consumer Services,
+     as to the handling of my claim; and
   •  the Consumer Financial Protection Bureau, as to any credit reporting or
      collection activity on a disputed account.
 

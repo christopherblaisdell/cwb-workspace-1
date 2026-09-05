@@ -129,7 +129,13 @@ stronger** — see the section below.
 
 - **Fla. Stat. § 456.057** — patient records held by licensed practitioners; must be
   furnished on written request. *Verify the current timeliness language.*
-- **Fla. Stat. § 395.3025** — records held by licensed facilities.
+- **Fla. Stat. § 397.501(7)** — records access rights for individuals in substance abuse
+  treatment. **This is the right citation for this facility**, assuming a Ch. 397 licence.
+
+> ⚠️ **Corrected 2026-09-05.** This section previously cited **Fla. Stat. § 395.3025**.
+> Chapter 395 governs **hospitals and ambulatory surgical centers**; a Ch. 397 substance
+> abuse provider is outside it. Confirm the licence type before citing either.
+
 - **42 C.F.R. Part 2** — federal confidentiality rules for substance use disorder
   programs. Facilities sometimes invoke Part 2 to *slow* records requests. It restricts
   disclosure **to third parties**; it does not restrict **your access to your own
@@ -146,8 +152,15 @@ stronger** — see the section below.
 | Insurance internal appeal | **~180 days** | EOB date |
 | FCHR public accommodation (if viable) | **365 days** | The incident |
 | FDUTPA claim | **4 years** | The deceptive act |
-| Negligence | **4 years** | The injury |
+| 🔴 Negligence | **2 years** | The injury |
+| Wiretap / § 934.10 civil action | **2 years** | Discovery |
 | ⚠️ Medical malpractice | **2 years**, plus Ch. 766 presuit requirements | Discovery |
+
+> 🔴 **Corrected 2026-09-05 — this table previously said negligence was 4 years.**
+> Florida HB 837, effective **2023-03-24**, shortened general negligence to **2 years**
+> under Fla. Stat. § 95.11(4)(a). For a 2026 admission that **halves the runway** on the
+> fall, camera, and food claims. Treat every negligence-based theory as being on a
+> two-year clock. See [AUDIT-2026-09-05.md](AUDIT-2026-09-05.md) § C2.
 
 > **On medical malpractice:** Florida's Ch. 766 presuit process is expensive and
 > demanding, and a $4,000 billing dispute is not a malpractice case. I mention it only

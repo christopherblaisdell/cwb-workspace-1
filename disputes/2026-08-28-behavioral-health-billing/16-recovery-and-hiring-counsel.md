@@ -181,8 +181,8 @@ a shell LLC is worth nothing. Sunbiz plus a lawyer's asset check answers this ea
 
 | Claim | Limitations period | Notes |
 |---|---|---|
-| FDUTPA | 4 years | *Verify* |
-| Negligence / breach of confidentiality | 4 years | *Verify* |
+| FDUTPA | 4 years | ⚠️ **Actual damages only.** Florida courts exclude consequential and personal-injury damages, **including emotional distress**. Route distress claims through the privacy torts, not this. |
+| 🔴 Negligence / breach of confidentiality | **2 years** | **Corrected 2026-09-05.** HB 837 (eff. 2023-03-24) shortened this from 4 years — Fla. Stat. § 95.11(4)(a). Half the runway you thought you had. |
 | Invasion of privacy | 4 years | *Verify* |
 | § 934.10 (if audio) | 2 years from discovery | *Verify — shorter, act on this* |
 | Medical malpractice | 2 years + Ch. 766 presuit | Probably not your vehicle |

@@ -19,6 +19,14 @@
 disputes/**/evidence/*
 !disputes/**/evidence/README.md
 
+# EXCEPTION: captures of the facility's own PUBLIC marketing website contain no PHI.
+# Tracking them puts the SHA-256 manifest into git history, which gives the hashes an
+# independent time anchor. A sums file written by the same operator on the same machine
+# at the same moment proves nothing on its own -- it can be regenerated at will.
+# Commit these signed (git commit -S) and do not amend them afterwards.
+!disputes/**/evidence/*-website-capture/
+!disputes/**/evidence/*-website-capture/**
+
 # Generated/filled correspondence containing real personal data.
 # Templates are tracked; anything marked FILLED is not.
 **/*.FILLED.md
@@ -31,6 +39,11 @@ disputes/**/evidence/*
 *.png
 *.tiff
 *.zip
+
+# EXCEPTION: rendered-page evidence for the public website capture. Same reasoning as
+# above -- these are screenshots and print-to-PDF of a public marketing site, no PHI.
+!disputes/**/evidence/*-website-capture/**/*.pdf
+!disputes/**/evidence/*-website-capture/**/*.png
 
 # macOS
 .DS_Store

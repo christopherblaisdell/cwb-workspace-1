@@ -245,10 +245,12 @@ cc:  File
 2. **External review.** Once internal appeals are exhausted (or the plan misses its own
    deadline), request independent external review. It is **free**, decided by
    physicians with no relationship to the plan, and **binding on the plan**. Request it
-   through your state Department of Insurance, or via `externalappeal.cms.gov` for
-   federally-administered review.
+   through the **Florida Department of Financial Services, Division of Consumer
+   Services** (1-877-693-5236 — Florida has no separate "Department of Insurance"), or
+   via `externalappeal.cms.gov` for federally-administered review.
 3. **Expedited review** is available if delay would jeopardize your health.
-4. **Also file** with your state Department of Insurance consumer complaint division —
+4. **Also file** with the **Florida Department of Financial Services, Division of
+   Consumer Services** —
    and, if this is an employer plan, with the **U.S. Department of Labor, Employee
    Benefits Security Administration** (1-866-444-3272). EBSA will contact the plan on
    your behalf and this is often effective.

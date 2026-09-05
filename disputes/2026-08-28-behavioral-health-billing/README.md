@@ -19,12 +19,17 @@ claim denial
 > recipient**. As a substance use disorder provider they are subject to 42 C.F.R. Part 2,
 > which is stricter than HIPAA. See [14-hipaa-breach.md](14-hipaa-breach.md).
 >
-> 🚨 **AND:** the facility placed **cameras in every patient sleeping room** and displayed
-> the **live feeds on screens in public view**. This is potentially criminal under Fla.
-> Stat. § 810.145 (video voyeurism), is a facility-wide HIPAA/Part 2 disclosure affecting
-> every resident, and is civilly actionable as intrusion upon seclusion. **The physical
-> evidence may still be installed — file the licensure complaint NOW, not at Day 31.**
+> 🚨 **AND:** the facility placed a **camera in his sleeping room**, with **live feeds
+> displayed on a screen in public view at the medication window**. This is a facility-wide
+> HIPAA/Part 2 disclosure affecting every resident, a licensure and patient-dignity
+> violation, and civilly actionable as intrusion upon seclusion. **The physical evidence
+> may still be installed — file the licensure complaint NOW, not at Day 31.**
 > See [15-surveillance-cameras.md](15-surveillance-cameras.md).
+>
+> ⚠️ **Corrected 2026-09-05.** This paragraph previously called the cameras "potentially
+> criminal under Fla. Stat. § 810.145 (video voyeurism)" and said cameras were in *every*
+> sleeping room. Both were overstated — see [AUDIT-2026-09-05.md](AUDIT-2026-09-05.md)
+> § C1 and [FACT-REGISTER.md](FACT-REGISTER.md) § 2.2.
 
 ## The pattern
 
@@ -192,7 +197,7 @@ can — redundancy is the point. Each one independently proves receipt.
   `ocrportal.hhs.gov/ocr/cp`. OCR has fined providers specifically for records-access
   stonewalling. Citing this deadline in the letter itself often produces a response.
 - **State medical records statute.** Most states have their own deadline (often
-  10–30 days) with penalties. Add the citation for [YOUR STATE] to the letter.
+  10–30 days) with penalties. Add the citation for Florida to the letter.
 - **State licensing agency + accreditor (Joint Commission / CARF).** Unresponsiveness
   to a patient grievance is independently reportable.
 
@@ -254,14 +259,15 @@ can — redundancy is the point. Each one independently proves receipt.
 | 15 | [15-surveillance-cameras.md](15-surveillance-cameras.md) | **⭐ READ FIRST. Most serious issue. Time-critical.** |
 | 16 | [16-recovery-and-hiring-counsel.md](16-recovery-and-hiring-counsel.md) | What can be recovered; how to hire counsel |
 | 17 | [17-witnessed-patient-fall.md](17-witnessed-patient-fall.md) | **🚨 Witnessed sentinel event. Report immediately.** |
-| 24 | [24-false-attendance-records.md](24-false-attendance-records.md) | **🔥 THE ANCHOR FACT. Read this first.** |
-| 18 | [18-food-safety-refrigeration.md](18-food-safety-refrigeration.md) | **⭐ 67°F fridge log — their own written admission.** |
+| 24 | [24-false-attendance-records.md](24-false-attendance-records.md) | **🔥 THE ANCHOR FACT.** Signed group rosters while swimming, and minutes after the fall. ⚠️ Its conclusions are a **hypothesis pending document production** — see [AUDIT-2026-09-05.md](AUDIT-2026-09-05.md) O5. |
+| 18 | [18-food-safety-refrigeration.md](18-food-safety-refrigeration.md) | **⭐ 67°F fridge log.** ⚠️ Record *how you know* the reading — see [FACT-REGISTER.md](FACT-REGISTER.md) § 6.1. |
 | 19 | [19-intoxicated-resident-assault.md](19-intoxicated-resident-assault.md) | **🚨 Two patient assaults; victim's stay extended.** |
 | 20 | [20-communication-ban.md](20-communication-ban.md) | **⭐ Devices confiscated; contact on the facility's terms.** |
 | 21 | [21-payment-decision.md](21-payment-decision.md) | **⏰ Should the monthly payments stop?** |
 | 22 | [22-public-reviews-corroboration.md](22-public-reviews-corroboration.md) | **⭐ Public reviews corroborate device confiscation.** |
 | 23 | [23-facility-conditions.md](23-facility-conditions.md) | Bathroom locks, A/C failure, child on premises |
-| 24 | [24-false-attendance-records.md](24-false-attendance-records.md) | **🔥 Signed group rosters while swimming. Read this.** |
+| — | [AUDIT-2026-09-05.md](AUDIT-2026-09-05.md) | ⭐ **Authoritative.** Citation corrections, resolved contradictions, corrected action sequence. |
+| — | [FACT-REGISTER.md](FACT-REGISTER.md) | ⭐ **Check before writing anything.** Every assertion, with its evidence tier and required wording. |
 | — | [communication-log.md](communication-log.md) | Update after every contact |
 
 ---

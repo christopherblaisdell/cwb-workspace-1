@@ -53,9 +53,8 @@ RE:  Request for Itemized Statement and Complete Medical Record
 
 To Whom It May Concern:
 
-I am the patient identified above. I have attempted to reach your office by
-telephone on multiple occasions without success and have received no response.
-I am therefore submitting this request in writing.
+I am the patient identified above. I am submitting this request in writing so
+that there is a clear record of it.
 
 This letter constitutes (1) a request for a fully itemized statement of account,
 (2) a formal request for access to my complete medical record under the HIPAA
@@ -100,14 +99,12 @@ every charge:
  11.  Copies of every financial responsibility agreement, admission consent, or
       payment authorization bearing my signature that your office relies upon to
       assert this debt.
- 12.  A copy of the Good Faith Estimate provided to me prior to or at admission,
-      together with proof of its delivery.
- 13.  A copy of your facility's financial assistance / charity care policy and
+ 12.  A copy of your facility's financial assistance / charity care policy and
       application, and your sliding-scale and hardship discount policies.
- 14.  For every group session billed to this account: the name of the group, the
+ 13.  For every group session billed to this account: the name of the group, the
       name and professional license or credential of the individual who
       facilitated it, and the CPT/HCPCS code billed for it.
- 15.  Copies of the facility's daily and weekly program schedules in effect
+ 14.  Copies of the facility's daily and weekly program schedules in effect
       during my dates of service.
 
 ---------------------------------------------------------------------------
@@ -115,7 +112,7 @@ PART TWO — REQUEST FOR ACCESS TO MEDICAL RECORDS
 ---------------------------------------------------------------------------
 
 Pursuant to my right of access under the HIPAA Privacy Rule, 45 C.F.R.
-§ 164.524, and under applicable [YOUR STATE] law, I request a complete copy of
+§ 164.524, and under applicable Florida law, I request a complete copy of
 my designated record set for the above dates of service, including but not
 limited to:
 
@@ -168,8 +165,12 @@ PART TWO-A — ACCOUNTING OF DISCLOSURES AND AUTHORIZATION FORMS
 
 Separately from the request for access above, and pursuant to 45 C.F.R.
 § 164.528, I request an ACCOUNTING OF DISCLOSURES of my protected health
-information. Please provide a written accounting of each disclosure made by
-your facility, including for each disclosure:
+information. I understand that this accounting is not required to include
+disclosures made for treatment, payment, or health care operations, disclosures
+made to me, incidental disclosures, or disclosures made pursuant to a written
+authorization signed by me. My request is directed to all other disclosures,
+and specifically to any disclosure of my records to any attorney, law office,
+or law firm. For each such disclosure, please provide:
 
   i.    the date of the disclosure;
   ii.   the name and address of the entity or person who received the
@@ -203,12 +204,14 @@ copies as permitted under 45 C.F.R. § 164.524(c)(4); please advise me of that
 fee in writing in advance. I do not authorize any charge for search, retrieval,
 or administrative time, which is not permitted under that provision.
 
-Please note that 45 C.F.R. § 164.524(b)(2) requires you to act on this request
-no later than THIRTY (30) CALENDAR DAYS from receipt. If you require the single
-permitted extension, you must notify me in writing within that 30-day period
-stating the reason and the date by which you will comply. Absent such written
-notice, I will treat any response after [DATE 30 DAYS FROM SENDING] as a denial
-of access.
+Please note that 45 C.F.R. § 164.524(b)(2) requires you to act on the request
+for access in Part Two no later than THIRTY (30) CALENDAR DAYS from receipt. If
+you require the single permitted extension, you must notify me in writing within
+that 30-day period stating the reason and the date by which you will comply.
+Absent such written notice, I will treat any response after
+[DATE 30 DAYS FROM SENDING] as a denial of access. I understand that the
+accounting of disclosures requested in this Part carries its own separate
+deadline of SIXTY (60) DAYS under 45 C.F.R. § 164.528(c)(1).
 
 ---------------------------------------------------------------------------
 PART THREE — FORMAL DISPUTE OF THE ALLEGED BALANCE
@@ -217,19 +220,21 @@ PART THREE — FORMAL DISPUTE OF THE ALLEGED BALANCE
 I formally and in good faith dispute the alleged balance of $4,000.00 in its
 entirety. My dispute is based on, among other grounds, the following:
 
-  •  The programming delivered during this admission consisted substantially of
-     twelve-step mutual-help meetings. Twelve-step meetings are peer support
-     groups available without charge in the community and are not clinical
-     services. I dispute that clinical service rates were properly billed for
-     those hours.
-  •  I am an atheist. I requested a secular, evidence-based treatment
-     alternative. None was offered or provided, and my treatment plan was not
-     individualized to account for this.
-  •  I was excluded from at least one treatment group on the basis of my
-     religious beliefs, while being billed for the treatment program of which
-     that group was a part.
-  •  The services actually rendered to me during this admission did not
-     correspond to the services and level of care I believe have been billed.
+  •  A substantial portion of the programming delivered during this admission
+     consisted of twelve-step mutual-help meetings. Twelve-step meetings are
+     peer support groups available without charge in the community and are not
+     clinical services. I dispute that clinical service rates were properly
+     billed for those hours.
+  •  I am a member of The Satanic Temple, a church recognized as such by the
+     Internal Revenue Service. I sought a secular, evidence-based treatment
+     alternative and none was made available to me.
+  •  During at least one group session, participants were asked to state their
+     religious beliefs, and the facilitator then led the other participants in
+     prayer while physically turning away from me. I dispute that the session
+     was properly billed as clinical group psychotherapy.
+  •  I am not satisfied that the services actually rendered to me during this
+     admission correspond to the services and level of care that have been
+     billed.
   •  I have not been provided with sufficient documentation to verify that the
      charges asserted are accurate or that the patient-responsibility
      calculation is correct.
@@ -264,9 +269,9 @@ calendar days required by federal law.
 If I do not receive a substantive written response, I intend to pursue this
 matter through the appropriate external channels, which may include a complaint
 to the U.S. Department of Health and Human Services, Office for Civil Rights
-regarding denial of records access; a complaint to [YOUR STATE] licensing
+regarding denial of records access; a complaint to Florida licensing
 authority for behavioral health facilities; a complaint to your accrediting
-organization; and a complaint to the [YOUR STATE] Attorney General's consumer
+organization; and a complaint to the Florida Attorney General's consumer
 protection division.
 
 I would prefer to resolve this directly and cooperatively with your office, and

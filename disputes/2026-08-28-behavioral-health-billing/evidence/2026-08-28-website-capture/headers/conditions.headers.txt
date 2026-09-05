@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Fri, 28 Aug 2026 22:40:38 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+vary: Accept-Encoding
+vary: Accept-Encoding,Cookie
+link: <https://www.remedytherapybehavioralhealth.com/wp-json/>; rel="https://api.w.org/"
+link: <https://www.remedytherapybehavioralhealth.com/wp-json/wp/v2/pages/270110>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://www.remedytherapybehavioralhealth.com/?p=270110>; rel=shortlink
+x-powered-by: WP Engine
+x-cacheable: SHORT
+cache-control: max-age=600, must-revalidate
+x-cache: MISS
+x-cache-group: normal
+last-modified: Fri, 28 Aug 2026 22:40:38 GMT
+cf-cache-status: EXPIRED
+set-cookie: __cf_bm=BWHSEe_cKa._vttOvwq9x8AjFPEi4Sb5ZQW141zm_so-1787956836.467701-1.0.1.1-qapRm9C7U4CLvUfBBKooUV8QLpuJ75KdBZ1BWJBOu3nTVqm7aLjwyBO9twAL__Eu6p71AtG4eOjW3XmGubfUIFoq9TAzHxs9ev6YhZXbNCTsVsfieAGKzlYCfVmLMli_; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.remedytherapybehavioralhealth.com; Expires=Fri, 28 Aug 2026 23:10:38 GMT
+cf-ray: a326d193e864ada6-MIA
+alt-svc: h3=":443"; ma=86400
+
