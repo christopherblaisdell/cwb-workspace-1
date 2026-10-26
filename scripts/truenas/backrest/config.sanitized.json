@@ -1,0 +1,150 @@
+{
+  "modno": 4,
+  "version": 6,
+  "instance": "freenas",
+  "repos": [
+    {
+      "id": "discovery",
+      "uri": "/repos/discovery",
+      "password": "<in /root/backrest-repo-password.txt on the NAS>",
+      "prunePolicy": {
+        "schedule": {
+          "cron": "0 6 * * 0",
+          "clock": "CLOCK_LOCAL"
+        },
+        "maxUnusedPercent": 10
+      },
+      "checkPolicy": {
+        "schedule": {
+          "cron": "0 7 1 * *",
+          "clock": "CLOCK_LOCAL"
+        },
+        "readDataSubsetPercent": 5
+      },
+      "hooks": [
+        {
+          "conditions": [
+            "CONDITION_ANY_ERROR"
+          ],
+          "actionShoutrrr": {
+            "shoutrrrUrl": "ntfy://ntfy.sh/<NTFY_TOPIC from gatus.env>?title=Backrest%20backup%20error&priority=high",
+            "template": "{{ .Summary }}"
+          }
+        }
+      ],
+      "commandPrefix": {
+        "ioNice": "IO_BEST_EFFORT_LOW",
+        "cpuNice": "CPU_LOW"
+      }
+    }
+  ],
+  "plans": [
+    {
+      "id": "app-configs",
+      "repo": "discovery",
+      "paths": [
+        "/sources/picard-docker",
+        "/sources/pre-backup",
+        "/sources/voyager-appdata"
+      ],
+      "excludes": [
+        "/sources/picard-docker/mounts",
+        "/sources/voyager-appdata/sabnzbd/X_",
+        "/sources/voyager-appdata/sabnzbd/F:",
+        "/sources/voyager-appdata/nzbdav/config.bak*",
+        "/sources/voyager-appdata/nzbdav/config.backup*",
+        "/sources/voyager-appdata/nzbdav-streamed/config.bak*",
+        "/sources/voyager-appdata/nzbdav-streamed/config.backup*",
+        "/sources/voyager-appdata/prometheus",
+        "/sources/voyager-appdata/loki",
+        "/sources/voyager-appdata/kopia",
+        "/sources/voyager-appdata/backrest",
+        "**/cache",
+        "**/Cache",
+        "**/transcodes",
+        "**/Transcode"
+      ],
+      "schedule": {
+        "cron": "30 3 * * *",
+        "clock": "CLOCK_LOCAL"
+      },
+      "retention": {
+        "policyTimeBucketed": {
+          "daily": 14,
+          "weekly": 8,
+          "monthly": 6
+        }
+      },
+      "hooks": [
+        {
+          "conditions": [
+            "CONDITION_ANY_ERROR"
+          ],
+          "actionShoutrrr": {
+            "shoutrrrUrl": "ntfy://ntfy.sh/<NTFY_TOPIC from gatus.env>?title=Backrest%20backup%20error&priority=high",
+            "template": "{{ .Summary }}"
+          }
+        }
+      ],
+      "backup_flags": [
+        "--one-file-system"
+      ]
+    },
+    {
+      "id": "personal-files",
+      "repo": "discovery",
+      "paths": [
+        "/sources/picard-documents",
+        "/sources/yamato-backedup",
+        "/sources/zapata-deduplicated"
+      ],
+      "excludes": [
+        "**/Thumbs.db",
+        "**/.DS_Store",
+        "**/*.crdownload",
+        "/sources/zapata-deduplicated/FromGoogleDrive",
+        "/sources/zapata-deduplicated/FromGoogleDrive2",
+        "/sources/zapata-deduplicated/FromGoogleDrive3",
+        "/sources/zapata-deduplicated/FromCloud",
+        "/sources/zapata-deduplicated/DownloadsFromCloud",
+        "/sources/zapata-deduplicated/Downloads",
+        "/sources/zapata-deduplicated/Temp",
+        "/sources/zapata-deduplicated/BetterJoy_v7.1",
+        "/sources/zapata-deduplicated/BetterJoy_v7.1.zip",
+        "/sources/zapata-deduplicated/*.dmg",
+        "/sources/zapata-deduplicated/*.exe",
+        "/sources/zapata-deduplicated/*.msi"
+      ],
+      "schedule": {
+        "cron": "0 4 * * *",
+        "clock": "CLOCK_LOCAL"
+      },
+      "retention": {
+        "policyTimeBucketed": {
+          "daily": 14,
+          "weekly": 8,
+          "monthly": 12,
+          "yearly": 3
+        }
+      },
+      "hooks": [
+        {
+          "conditions": [
+            "CONDITION_ANY_ERROR"
+          ],
+          "actionShoutrrr": {
+            "shoutrrrUrl": "ntfy://ntfy.sh/<NTFY_TOPIC from gatus.env>?title=Backrest%20backup%20error&priority=high",
+            "template": "{{ .Summary }}"
+          }
+        }
+      ],
+      "backup_flags": [
+        "--one-file-system"
+      ]
+    }
+  ],
+  "auth": {
+    "disabled": true
+  },
+  "sync": {}
+}

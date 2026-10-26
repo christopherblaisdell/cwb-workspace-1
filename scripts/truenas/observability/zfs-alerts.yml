@@ -1,0 +1,47 @@
+groups:
+  - name: zfs-storage
+    rules:
+      - alert: ZpoolCapacityWarning
+        expr: zpool_capacity_ratio > 0.80
+        for: 15m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Pool {{ $labels.pool }} is {{ $value | humanizePercentage }} full"
+          description: "ZFS pool {{ $labels.pool }} is above 80%. Performance degrades past 80-90%; plan to free or move data."
+
+      - alert: ZpoolCapacityCritical
+        expr: zpool_capacity_ratio > 0.90
+        for: 5m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Pool {{ $labels.pool }} is {{ $value | humanizePercentage }} full"
+          description: "ZFS pool {{ $labels.pool }} is above 90%. Thin-provisioned iSCSI extents on it can fail writes if it fills."
+
+      - alert: ZpoolUnhealthy
+        expr: zpool_healthy == 0
+        for: 5m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Pool {{ $labels.pool }} is {{ $labels.health }}"
+          description: "ZFS pool {{ $labels.pool }} health is {{ $labels.health }}. Check zpool status for failed or degraded disks."
+
+      - alert: ZfsSnapshotSpaceHigh
+        expr: zfs_dataset_used_by_snapshots_bytes > 1099511627776
+        for: 1h
+        labels:
+          severity: warning
+        annotations:
+          summary: "Snapshots hold {{ $value | humanize1024 }}B on {{ $labels.dataset }}"
+          description: "Deleted data on {{ $labels.dataset }} is still held by snapshots and has not been freed."
+
+      - alert: ZpoolMetricsStale
+        expr: time() - zpool_metrics_last_run_timestamp_seconds > 1200 or absent(zpool_metrics_last_run_timestamp_seconds)
+        for: 10m
+        labels:
+          severity: warning
+        annotations:
+          summary: "ZFS pool metrics are stale"
+          description: "zpool-metrics.sh has not run for 20+ minutes; pool alerts are blind. Check the TrueNAS cron job."

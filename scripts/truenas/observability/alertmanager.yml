@@ -1,0 +1,13 @@
+route:
+  receiver: ntfy
+  group_by: [alertname, pool, dataset, instance]
+  group_wait: 30s
+  group_interval: 5m
+  repeat_interval: 4h
+
+receivers:
+  - name: ntfy
+    webhook_configs:
+      # ntfy.sh topic URL lives in ntfy-url (built from gatus.env, never in git)
+      - url_file: /etc/alertmanager/ntfy-url
+        send_resolved: true

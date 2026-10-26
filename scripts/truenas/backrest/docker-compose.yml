@@ -1,0 +1,27 @@
+# Backrest (restic web UI). Repo lives on Discovery; sources are mounted read-only.
+services:
+  backrest:
+    image: garethgeorge/backrest:v1.14.1
+    container_name: backrest
+    hostname: freenas-backrest
+    restart: unless-stopped
+    environment:
+      - BACKREST_DATA=/data
+      - BACKREST_CONFIG=/config/config.json
+      - XDG_CACHE_HOME=/cache
+      - TMPDIR=/tmp
+      - TZ=America/New_York
+    volumes:
+      - /mnt/Picard/docker/appdata/backrest/data:/data
+      - /mnt/Picard/docker/appdata/backrest/config:/config
+      - /mnt/Picard/docker/appdata/backrest/cache:/cache
+      - /mnt/Picard/docker/appdata/backrest/tmp:/tmp
+      - /mnt/Discovery/Backrest:/repos/discovery
+      - /mnt/Picard/docker:/sources/picard-docker:ro
+      - /mnt/Voyager/appdata:/sources/voyager-appdata:ro
+      - /mnt/Discovery/Backups/Picard-docker/backups/pre-backup:/sources/pre-backup:ro
+      - /mnt/Picard/documents:/sources/picard-documents:ro
+      - /mnt/Enterprise/Yamato/BackedUp:/sources/yamato-backedup:ro
+      - /mnt/Enterprise/Zapata/Deduplicated:/sources/zapata-deduplicated:ro
+    ports:
+      - "9898:9898"
