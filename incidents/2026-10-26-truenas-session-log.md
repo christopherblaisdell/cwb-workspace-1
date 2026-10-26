@@ -129,9 +129,23 @@ Added (files in `scripts/truenas/backrest/`):
     Drive is still in use, so `FromGoogleDrive{,2,3}`, `FromCloud`,
     `DownloadsFromCloud`, `Downloads`, `Temp`, BetterJoy and installers
     (`*.dmg/*.exe/*.msi`) are now excluded — snapshots are sufficient there.
-  - Still undecided pending a size scan: `FromBackedUp` (likely a copy of
-    `Yamato/BackedUp`), `Backups`, `UDX`, `Aspirion`.
-  - ~180G of unreferenced data from the cancelled run will be pruned Sunday.
+  - `FromBackedUp` (641G) is an older copy of `Yamato/BackedUp` (78 of 85
+    entries match; 7 unique files total ~36MB) — **excluded**, snapshots
+    cover it.
+  - **Kept:** `Backups/theBlaze-Ally` (148G, device backup, likely the only
+    copy), `UDX` (32G, work repos/diagrams), `Aspirion` (848M), loose files.
+  - **Bug caught:** `--one-file-system` on this plan would have skipped the
+    child datasets `Yamato/BackedUp/Misc` (488G) and `Yamato/BackedUp/Photos`
+    (77.5G, Immich). Flag removed from personal-files (kept on app-configs,
+    where it skips the rclone FUSE mounts).
+  - **Bug caught:** the Backrest API "Cancel" did not stop the original 6TB
+    run; it kept copying excluded folders (1.1 of 6.4 TiB). Stopped by sending
+    SIGINT to the restic process; this fired the ntfy error hooks (confirming
+    backup-failure alerts reach the phone).
+  - First correct snapshot `1a4ba89c`: 768,502 files, **810 GiB**; verified it
+    contains `Photos`, `Misc`, `Backups`, `UDX` and not the Google Drive /
+    cloud folders. Manual prune run afterwards to drop ~900G of data written
+    by the cancelled runs.
 
 These backups protect against losing a pool, not the whole NAS. Off-site
 (e.g. Backblaze B2) is still needed.
@@ -145,10 +159,9 @@ and the three RomM instances; and replacing Watchtower auto-updates of
 
 ## 8. Session housekeeping
 
-- The incident commit could not be pushed: the Claude GitHub App lacks write
-  access to `christopherblaisdell/cwb-workspace-1` (403 on both git and the
-  GitHub API). Patch copy kept on the NAS at
-  `/root/claude-move/incident-commit.patch`.
+- The incident commit initially could not be pushed: the Claude GitHub App lacked write
+  access to `christopherblaisdell/cwb-workspace-1` (403 on git and the GitHub
+  API) until the owner granted access; everything has since been pushed.
 - An attempt to open this session from a Mac started a **separate** Claude Code
   session (`cwb-workspace-1-cc`); its bridge status request never reached the
   cloud session. To continue the same session, open its claude.ai/code link.
@@ -168,7 +181,4 @@ and the three RomM instances; and replacing Watchtower auto-updates of
    environment Network secrets (not in chat).
 7. Run **`Optimize-Volume -DriveLetter X -ReTrim`** for each iSCSI drive on
    `theblaze-aorus`.
-8. Decide on `FromBackedUp`, `Backups`, `UDX`, `Aspirion` in
-   `Zapata/Deduplicated` once sizes are known.
-9. Give the Claude GitHub App write access to this repo so commits can be pushed.
-10. Remove the `claude-cloud-session` SSH key from TrueNAS if it was ever added.
+8. Remove the `claude-cloud-session` SSH key from TrueNAS if it was ever added.
