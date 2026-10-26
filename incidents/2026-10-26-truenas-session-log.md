@@ -144,8 +144,8 @@ Added (files in `scripts/truenas/backrest/`):
     backup-failure alerts reach the phone).
   - First correct snapshot `1a4ba89c`: 768,502 files, **810 GiB**; verified it
     contains `Photos`, `Misc`, `Backups`, `UDX` and not the Google Drive /
-    cloud folders. Manual prune run afterwards to drop ~900G of data written
-    by the cancelled runs.
+    cloud folders. Manual prune (Backrest `DoRepoTask` TASK_PRUNE) dropped the
+    data from the cancelled runs: repo 1.1T → **710G** for all 3 snapshots.
 
 These backups protect against losing a pool, not the whole NAS. Off-site
 (e.g. Backblaze B2) is still needed.
